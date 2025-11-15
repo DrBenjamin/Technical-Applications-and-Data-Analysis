@@ -1,7 +1,60 @@
 ---
-title: "Technical Applications & Data Analytics"
-author: "B. Groß"
-format: html
+title: "Technical Applications & Data Analytics (WS 2021/22)"
+subtitle: "Game Design & Management (B. A.)"
+author: 
+    name: "© Benjamin Gross"
+    email: benjamin.gross@ext-hs.fresenius.de
+    affiliation: 
+      - Hochschule Fresenius - University of Applied Sciences
+      - "Email: benjamin.gross@ext-hs.fresenius.de"
+      - "Website: https://drbenjamin.github.io"
+filters:
+  - scripts/adjustTime.lua
+abstract: |
+    Dieses Dokument enthält das Kursmaterial für die Veranstaltung Technical Applications & Data Analytics im Bachelorstudiengang Game Design & Management. Es behandelt grundlegende Konzepte der Datenanalyse und -verarbeitung, technische Applikationen wie Microsoft Excel (VBA) und R, verschiedene Datenquellen und deren Zusammenhänge, Speicherung von Daten in Datenbanken und Data Warehouses, sowie wichtige Data Mining Methoden einschließlich Korrelationsanalyse, lineare Regressionsanalyse, Basket-Analyse, Cluster-Analyse K-Means und neuronale Netze. Darüber hinaus werden ethische Aspekte der Datenanalyse und Datenschutzfragen diskutiert.
+format:
+  html:
+    embed-resources: true
+    theme: cerulean
+    toc: true
+    toc-expand: 5
+    toc-depth: 5
+    number-sections: false
+    number-depth: 5
+  pdf:
+    keep-tex: false
+    include-in-header:
+      text: |
+        \usepackage[noblocks]{authblk}
+        \renewcommand*{\Authsep}{, }
+        \renewcommand*{\Authand}{, }
+        \renewcommand*{\Authands}{, }
+        \renewcommand\Affilfont{\small}
+    documentclass: scrartcl
+    classoption: [onecolumn, oneside, a4paper]
+    linkcolor: blue
+    urlcolor: blue
+    filecolor: magenta
+    citecolor: magenta
+    colorlinks: true
+    margin-left: "1in"
+    margin-right: "1in"
+    margin-top: "1in"
+    margin-bottom: "1in"
+    papersize: a4
+    fig-cap-location: top
+    toc: true
+    toc-depth: 5
+    number-sections: true
+    lof: false
+    lot: false
+link-citations: true
+csl: "./literature/apa.csl"
+bibliography: ["./literature/essential_readings.bib", "./literature/further_readings.bib"]
+suppress-bibliography: true
+execute:
+  enabled: true
+  echo: false
 lang: de
 ---
 
