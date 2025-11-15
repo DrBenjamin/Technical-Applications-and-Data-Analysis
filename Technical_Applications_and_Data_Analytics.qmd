@@ -721,11 +721,11 @@ Download über den Apple AppStore
 #### Line Feed (LF) vs. Carriage Return + Line Feed (CRLF)
 
 **LF**: Unter Linux / Unix und Mac wird mittels *LF *eine neue Zeile eingeleitet (auch   
-mit *Newline *oder *\n *bezeichnet).
+mit *Newline *oder *\\n *bezeichnet).
 
 **CRLF: **Unter
 Windows-Systemen wird mit *CR *eingeleitet (auch mit *Carriage  
-Return *oder *\r *bezeichnet) der Cursor an den Anfang der Zeile gesetzt und mit   
+Return *oder *\\r *bezeichnet) der Cursor an den Anfang der Zeile gesetzt und mit   
 *LF *die neue Zeile eingeleitet.
 
 ### 1.b) Bedeutung von Daten und deren Digitalisierung
