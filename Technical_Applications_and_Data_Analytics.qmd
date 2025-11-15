@@ -237,8 +237,7 @@ Abb. 1.a.1: Microsoft Windows 1.01
 
 - Laptops, PDAs, Mobiltelefon, etc.
 
-### 1.a) Geschichte der Datenanalyse und Datenverarbeitung (incl.
-Hardware)
+### 1.a) Geschichte der Datenanalyse und Datenverarbeitung (incl. Hardware)
 
 Abb. 1.a.2: IBM System/360
 
@@ -263,8 +262,7 @@ Abb. 1.a.2: IBM System/360
 
 - **MacOS (2001)**
 
-### 1.a) Geschichte der Datenanalyse und Datenverarbeitung (incl.
-Hardware)
+### 1.a) Geschichte der Datenanalyse und Datenverarbeitung (incl. Hardware)
 
 Abb. 1.a.2: Betriebssystem Unix Timeline
 
@@ -298,8 +296,7 @@ Abb. 1.a.2: Betriebssystem Unix Timeline
 
 - Low Code: z.B. Scratch (2007), **Power Fx / Power Apps (2021)**
 
-### 1.a) Geschichte der Datenanalyse und Datenverarbeitung (incl.
-Hardware)
+### 1.a) Geschichte der Datenanalyse und Datenverarbeitung (incl. Hardware)
 
 Abb. 1.a.3: Programmiersprachen 
 
@@ -331,8 +328,7 @@ Abb. 1.a.4: Jobs als Programmierer im Ranking
 - (Objekt ist eine Datenstruktur, ähnelt einem realen Objekt)  
 - Flexibilität und Wartbarkeit, können einfach verteilt entwickelt werden
 
-### 1.a) Geschichte der Datenanalyse und Datenverarbeitung (incl.
-Hardware)
+### 1.a) Geschichte der Datenanalyse und Datenverarbeitung (incl. Hardware)
 
 #### Grundbegriffe des Technical Applications & Data Management
 
@@ -366,8 +362,7 @@ Hardware)
 
 - Swift und Objective-C für die Systeme macOS, iOS, watchOS und TvOS
 
-### 1.a) Geschichte der Datenanalyse und Datenverarbeitung (incl.
-Hardware)
+### 1.a) Geschichte der Datenanalyse und Datenverarbeitung (incl. Hardware)
 
 Abb. 1.a.5: Microsoft Visual Studio 
 
@@ -393,8 +388,7 @@ Garage *für die
 *Nintendo Switch  *
 Umgebungen zum Erlernen von Basisfähigkeiten der (Spiele-) Programmierung.
 
-### 1.a) Geschichte der Datenanalyse und Datenverarbeitung (incl.
-Hardware)
+### 1.a) Geschichte der Datenanalyse und Datenverarbeitung (incl. Hardware)
 
 Abb. 1.a.6: Säulen der Low Code Entwicklung  
 
@@ -417,8 +411,7 @@ genutzt **und **Projektziele
 qualitativ**, **termingerecht **und **im   
 Kostenrahmen erreicht **werden.
 
-### 1.a) Geschichte der Datenanalyse und Datenverarbeitung (incl.
-Hardware)
+### 1.a) Geschichte der Datenanalyse und Datenverarbeitung (incl. Hardware)
 
 Abb. 1.a.7: Projektmanagement Prozess
 
@@ -443,8 +436,7 @@ Bereichen
 zum Einsatz   
 kommen.
 
-### 1.a) Geschichte der Datenanalyse und Datenverarbeitung (incl.
-Hardware)
+### 1.a) Geschichte der Datenanalyse und Datenverarbeitung (incl. Hardware)
 
 Abb. 1.a.8: SCRUM Manifesto
 
@@ -466,8 +458,7 @@ ments Planning
 **CRM **= Customer-Relation-  
 ship-Management
 
-### 1.a) Geschichte der Datenanalyse und Datenverarbeitung (incl.
-Hardware)
+### 1.a) Geschichte der Datenanalyse und Datenverarbeitung (incl. Hardware)
 
 Abb. 1.a.6: Rolle der Daten der Digitalisierung
 
