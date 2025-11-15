@@ -113,8 +113,7 @@ Excel-Makro-Datei
 (xlsm) wird regelmäßig aktualisiert, da sie sich in der   
 Entwicklung befindet – daher regelmäßig den aktuellen Stand downloaden!*
 
-**Der „Fragebogen“  **
-oder auch: Was sind heute die wirklich wichtigen Fragen?!
+**Der „Fragebogen“  ** oder auch: Was sind heute die wirklich wichtigen Fragen?!
 
 Abb.: Microsoft Excel „Fragebogen“
 
@@ -243,7 +242,7 @@ Hardware)
 
 Abb. 1.a.2: IBM System/360
 
-#### Grundbegriffe des Technical Applications **Grundbegriffe des Technical Applications & Data Management** Data Management
+#### Grundbegriffe des Technical Applications & Data Management
 
 #### Betriebssysteme und Erscheinungsjahr
 
@@ -269,7 +268,7 @@ Hardware)
 
 Abb. 1.a.2: Betriebssystem Unix Timeline
 
-#### Grundbegriffe des Technical Applications **Grundbegriffe des Technical Applications & Data Management** Data Management
+#### Grundbegriffe des Technical Applications & Data Management
 
 #### Programmiersprachen und Erscheinungsjahr
 
@@ -306,13 +305,10 @@ Abb. 1.a.3: Programmiersprachen
 
 im Ranking
 
-**Grundbegriffe des Technical Applications & Data Management  
-1.a) Geschichte der Datenanalyse und Datenverarbeitung (incl.
-Hardware)**
 
 Abb. 1.a.4: Jobs als Programmierer im Ranking
 
-#### Grundbegriffe des Technical Applications **Grundbegriffe des Technical Applications & Data Management** Data Management
+#### Grundbegriffe des Technical Applications & Data Management
 
 #### Programmierparadigmen / Programmierstile
 
@@ -338,7 +334,7 @@ Abb. 1.a.4: Jobs als Programmierer im Ranking
 ### 1.a) Geschichte der Datenanalyse und Datenverarbeitung (incl.
 Hardware)
 
-#### Grundbegriffe des Technical Applications **Grundbegriffe des Technical Applications & Data Management** Data Management
+#### Grundbegriffe des Technical Applications & Data Management
 
 #### Entwicklungsumgebungen (IDE ~ Integrated Development Enviroment)
 
@@ -375,7 +371,7 @@ Hardware)
 
 Abb. 1.a.5: Microsoft Visual Studio 
 
-#### Grundbegriffe des Technical Applications **Grundbegriffe des Technical Applications & Data Management** Data Management
+#### Grundbegriffe des Technical Applications & Data Management
 
 #### Low Code Entwicklungsumgebungen
 
@@ -402,7 +398,7 @@ Hardware)
 
 Abb. 1.a.6: Säulen der Low Code Entwicklung  
 
-#### Grundbegriffe des Technical Applications **Grundbegriffe des Technical Applications & Data Management** Data Management
+#### Grundbegriffe des Technical Applications & Data Management
 
 #### Projektmanagement
 
@@ -426,7 +422,7 @@ Hardware)
 
 Abb. 1.a.7: Projektmanagement Prozess
 
-#### Grundbegriffe des Technical Applications **Grundbegriffe des Technical Applications & Data Management** Data Management
+#### Grundbegriffe des Technical Applications & Data Management
 
 #### Agiles Projektmanagement
 
@@ -452,7 +448,7 @@ Hardware)
 
 Abb. 1.a.8: SCRUM Manifesto
 
-#### Grundbegriffe des Technical Applications **Grundbegriffe des Technical Applications & Data Management** Data Management
+#### Grundbegriffe des Technical Applications & Data Management
 
 **Daten **wurden seit den 1970er Jahren unterstützend zur   
 **Entscheidungsfindung **und in Produktionsprozessen eingesetzt. Im Gegensatz   
@@ -475,7 +471,7 @@ Hardware)
 
 Abb. 1.a.6: Rolle der Daten der Digitalisierung
 
-#### Grundbegriffe des Technical Applications **Grundbegriffe des Technical Applications & Data Management** Data Management
+#### Grundbegriffe des Technical Applications & Data Management
 
 Die **Informationslogistik **befasst sich mit Informationsflüssen in   
 Organisationsstrukturen. Das Ziel der Informationslogistik ist die Versorgung   
@@ -496,7 +492,7 @@ Produkten und Dienstleistungen gerecht zu werden. Daten werden hierzu
 
 ### 1.b) Bedeutung von Daten und deren Digitalisierung
 
-#### Grundbegriffe des Technical Applications **Grundbegriffe des Technical Applications & Data Management** Data Management
+#### Grundbegriffe des Technical Applications & Data Management
 
 ### 1.b) Bedeutung von Daten und deren Digitalisierung
 
@@ -519,7 +515,7 @@ Analyse liefert aber keine Antworten auf Fragen wie: "Warum ist etwas
 geschehen?". Oft werden deskriptive Datenanalysen mit anderen   
 Analysemethoden kombiniert.
 
-#### Grundbegriffe des Technical Applications **Grundbegriffe des Technical Applications & Data Management** Data Management
+#### Grundbegriffe des Technical Applications & Data Management
 
 ### 1.b) Bedeutung von Daten und deren Digitalisierung
 
@@ -544,7 +540,7 @@ findet sie Ursachen oder gegenseitige Wechselwirkungen. Mit Hilfe der
 diagnostischen Datenanalyse können Unternehmen konkrete Problemstellungen   
 lösen, da die Ursachen aufgezeigt werden.
 
-#### Grundbegriffe des Technical Applications **Grundbegriffe des Technical Applications & Data Management** Data Management
+#### Grundbegriffe des Technical Applications & Data Management
 
 ### 1.b) Bedeutung von Daten und deren Digitalisierung
 
@@ -568,7 +564,7 @@ Qualität der Daten, den gefundenen Mustern, Zusammenhängen und Trends
 sowie von der Intelligenz der Algorithmen ab. Beispielsweise lassen sich   
 zukünftige Umsätze vorhersagen oder das Kundenverhalten prognostizieren.
 
-#### Grundbegriffe des Technical Applications **Grundbegriffe des Technical Applications & Data Management** Data Management
+#### Grundbegriffe des Technical Applications & Data Management
 
 ### 1.b) Bedeutung von Daten und deren Digitalisierung
 
@@ -588,7 +584,7 @@ beschriebener Analysekategorien. Die Vorhersagen werden kontinuierlich
 aktualisiert. Zum Einsatz kommen ML- und KI-Algorithmen, neuronale   
 Netzwerke, Simulationen und Business Regeln.
 
-#### Grundbegriffe des Technical Applications **Grundbegriffe des Technical Applications & Data Management** Data Management
+#### Grundbegriffe des Technical Applications & Data Management
 
 **Digitalisierung **bezeichnet   
 das Umwandeln von   
@@ -608,7 +604,7 @@ Zeichensätzen dargestellt.
 
 Abb. 1.b.2: ASCII Zeichensatz
 
-#### Grundbegriffe des Technical Applications **Grundbegriffe des Technical Applications & Data Management** Data Management
+#### Grundbegriffe des Technical Applications & Data Management
 
 #### Speichereinheiten
 
@@ -628,7 +624,7 @@ die Zahl *1000 *nicht vor, sondern nur
 
 Abb. 1.b.3: Tabelle der Speichergrößen 
 
-#### Grundbegriffe des Technical Applications **Grundbegriffe des Technical Applications & Data Management** Data Management
+#### Grundbegriffe des Technical Applications & Data Management
 
 #### Stellenwertsysteme
 
@@ -645,7 +641,7 @@ und *A *bis *F*
 
 Abb. 1.b.4: Stellenwertsysteme
 
-#### Grundbegriffe des Technical Applications **Grundbegriffe des Technical Applications & Data Management** Data Management
+#### Grundbegriffe des Technical Applications & Data Management
 
 #### Zeichensätze
 
@@ -670,7 +666,7 @@ denen sich *1.114.112 *Zeichen abbilden lassen.
 
 ### 1.b) Bedeutung von Daten und deren Digitalisierung
 
-#### Grundbegriffe des Technical Applications **Grundbegriffe des Technical Applications & Data Management** Data Management
+#### Grundbegriffe des Technical Applications & Data Management
 
 #### Textbasierte Dateiformate
 
@@ -703,7 +699,7 @@ Markierungen umgeben. Es sind Struktur und Bedeutungen zu vergeben. Bsp.:
 
 ### 1.b) Bedeutung von Daten und deren Digitalisierung
 
-#### Grundbegriffe des Technical Applications **Grundbegriffe des Technical Applications & Data Management** Data Management
+#### Grundbegriffe des Technical Applications & Data Management
 
 #### (Text-)Editoren
 
@@ -729,7 +725,7 @@ Download über den Apple AppStore
 
 ### 1.b) Bedeutung von Daten und deren Digitalisierung
 
-#### Grundbegriffe des Technical Applications **Grundbegriffe des Technical Applications & Data Management** Data Management
+#### Grundbegriffe des Technical Applications & Data Management
 
 #### Line Feed (LF) vs. Carriage Return + Line Feed (CRLF)
 
@@ -745,7 +741,7 @@ Return *oder *\r *bezeichnet) der Cursor an den Anfang der Zeile gesetzt und mit
 
 Abb. 1.b.5: NotePad++ - CRLF
 
-#### Grundbegriffe des Technical Applications **Grundbegriffe des Technical Applications & Data Management** Data Management
+#### Grundbegriffe des Technical Applications & Data Management
 
 Weiterhin muss je nach Anwendungsfall der eigentliche **Ort der
 Datenanalyse   **
@@ -767,7 +763,7 @@ in Echtzeit auszuwerten.
 
 Abb. 1.b.7: Methoden zur Extraktion von Informationen
 
-#### Grundbegriffe des Technical Applications **Grundbegriffe des Technical Applications & Data Management** Data Management
+#### Grundbegriffe des Technical Applications & Data Management
 
 *Datenanalyse ist praktisch betrachtet*
 
@@ -789,7 +785,7 @@ Abb. 1.b.8: Der Rahmen der Datenanalyse
 
 ### 1.b) Bedeutung von Daten und deren Digitalisierung
 
-#### Grundbegriffe des Technical Applications **Grundbegriffe des Technical Applications & Data Management** Data Management
+#### Grundbegriffe des Technical Applications & Data Management
 
 Ziel der **Datenanalyse **ist es, aus den vorhandenen Daten durch   
 Anwendung verschiedener Methoden und Analyseverfahren die jeweils   
@@ -812,7 +808,7 @@ Abb. 1.c.1: Der Rahmen der Datenanalyse
 
 ### 1.c) Ziele der Datenanalyse und Stand der Technik
 
-#### Grundbegriffe des Technical Applications **Grundbegriffe des Technical Applications & Data Management** Data Management
+#### Grundbegriffe des Technical Applications & Data Management
 
 Abb. 1.d.1: Formen der Datenanalyse
 
@@ -837,7 +833,7 @@ hänge für die Geschehnisse und
 Abläufe ermittelt. Diese nutzt   
 Business Analytics, um Vorhersagen über zukünftige Entwicklungen zu machen.
 
-#### Grundbegriffe des Technical Applications **Grundbegriffe des Technical Applications & Data Management** Data Management
+#### Grundbegriffe des Technical Applications & Data Management
 
 Abb. 1.d.2: Dashboard einer Reporting Software
 
@@ -855,7 +851,7 @@ Unterstützung der Führungs- und
 Entscheidungsprozesse in den   
 verschiedenen Unternehmensbereichen.
 
-#### Grundbegriffe des Technical Applications **Grundbegriffe des Technical Applications & Data Management** Data Management
+#### Grundbegriffe des Technical Applications & Data Management
 
 Abb. 1.d.3: Aktivität eines Wikipedia-Bots
 
@@ -884,10 +880,6 @@ Technical Applications &
 
 Data Analytics
 
-## Einführung und Erarbeitung der 
-
-**„Technical Applications“**
-
 - Einführung in die technische Datenerfassung
 
 - Verschiedene Quellen von Daten und deren   
@@ -902,8 +894,6 @@ Datawarehouses
 deren Darstellung mit Vor- und Nachteilen
 
 **2. Einführung und Erarbeitung der   
-„Technical Applications“**
-
 ## 2. Einführung und Erarbeitung der „Technical Applications“
 
 #### Einführung in die technische Datenerfassung
@@ -991,12 +981,12 @@ Abb. 2.a.3: Tabelle als Datensatz
 
 Die Herkunft von Daten wird differenziert betrachtet. 
 
-**Primärdaten  **
+##### Primärdaten
 - Beobachtung  
 - Befragung
 
 - Experimentell  
-**Sekundärdaten  **
+##### Sekundärdaten
 - Interne Quellen  
 - Externe Quellen
 
@@ -1282,7 +1272,7 @@ WHERE kirche.Jahr \<\> 2020
 
 ## 2. Einführung und Erarbeitung der „Technical Applications“
 
-**Grundlagen  **
+#### Grundlagen
 Für die Durchführung der in diesem Kurs behandelten praktischen   
 Anwendungsfälle wird spezielle **Data-Analyse-Software **(*R*) eingesetzt, deren   
 Bedienung und Funktionalität erweiterte Kenntnisse voraussetzt.
@@ -1306,7 +1296,7 @@ sowie die Analyseauswertung erforderlich sein kann. Dazu kann eine beliebige
 
 ## 2. Einführung und Erarbeitung der „Technical Applications“
 
-**Vor- und Nachteile von *R***
+### Vor- und Nachteile von *R*
 
 - ist kostenlos da Open Source  
 - viele Erweiterungen verfügbar  
@@ -1544,7 +1534,7 @@ Daten kommen
 **Algorithmen **aus  
 der **Statistik**,  
 **Mathematik **und  
-**Informatik  **
+#### Informatik
 zum  
 Einsatz.
 
@@ -1729,9 +1719,8 @@ Technical Applications &
 
 Data Analytics
 
-**Erarbeiten IT-technischer **
+## Erarbeiten IT-technischer Rahmenbedingungen
 
-**Rahmenbedingungen**
 
 - Anleitung / Installation der Open Source Lösung auf   
 den Rechner der Studenten und Konfiguration von   
@@ -1788,7 +1777,7 @@ Funktionsumfang, Performance und Anwenderfreundlichkeit einen deutlichen Vorspru
 der Konkurrenz erarbeitet.  
 *Notepadd++ *herunterladen unter:[ https://notepad-plus-plus.org/downloads/](https://notepad-plus-plus.org/downloads/)
 
-**MacOS  **
+##### MacOS
 Für das Apple MacOS Betriebssystem kann man sehr gut auf den kostenlosen Editor ***Brackets ***von   
 Adobe zurückgreifen.  
 *Brackets *herunterladen unter: [https://brackets.de.uptodown.com/mac  
@@ -1806,7 +1795,7 @@ Adobe zurückgreifen.
 
 - *Newline *(konvertiert den Zeilenumbruch LF (Mac / Linux) \<--\> CRLF (Windows))
 
-**IpadOS  **
+##### IpadOS
 Für das Apple iPad kann der Editor ***Kodex ***über den Apple App Store installiert werden.
 
 **4. Erarbeiten IT-technischer Rahmenbedingungen  
@@ -1814,13 +1803,13 @@ Für das Apple iPad kann der Editor ***Kodex ***über den Apple App Store instal
 der   
 Studenten und Konfiguration von *Microsoft Excel (VBA)***
 
-**Installation von *R***
+#### Installation von *R*
 
 ***R ***herunterladen
 unter[: https://cran.r-project.org/bin/macosx/ ](https://cran.r-project.org/bin/macosx/)(MacOS) oder   
 [https://cran.r-project.org/bin/windows/base/ ](https://cran.r-project.org/bin/windows/base/)(Windows)
 
-**Inhalte und Anwendungsgebiet  **
+#### Inhalte und Anwendungsgebiet
 In dem Installations-Paket sind alle notwendigen Basisfunktionen enthalten   
 [(*base-package*) siehe https://stat.ethz.ch/R-manual/R-  
 devel/library/base/html/00Index.html. ](https://stat.ethz.ch/R-manual/R-devel/library/base/html/00Index.html)
@@ -1838,11 +1827,11 @@ in Form von Paketen bereitgestellt.
 der   
 Studenten und Konfiguration von *Microsoft Excel (VBA)***
 
-***R *****auf dem *iPad *(oder *iPhone*) installieren  **
+#### *R* auf dem *iPad* (oder *iPhone*) installieren
 Auf dem *iPad *im App Store *TestFlight *installieren. Dann mittels des Links die aktuelle Beta   
 von *iSH-AOK *installieren: <https://testflight.apple.com/join/X1flyiqE>
 
-**Installation von der Systembibliotheken (*iSH Shell*), *R ***
+#### Installation von der Systembibliotheken (*iSH Shell*), *R*
 
 und *R-Paketen  
 iSH-AOK *starten und folgende Befehle in die Eingabeaufforderung tippen:
@@ -1910,7 +1899,7 @@ Abb. 4.a.1: *R *auf *iPad *mit *Dateien *App im Splitscreen
 der   
 Studenten und Konfiguration von *Microsoft Excel (VBA)***
 
-***R Studio *****und *Xquartz *installieren**
+#### *R Studio* und *Xquartz* installieren
 
 ***RStudio ***herunterladen unter (*R *muss vorher installiert sein):   
 [https://www.rstudio.com/products/rstudio/download/#download ](https://www.rstudio.com/products/rstudio/download/)(Windows /   
@@ -1932,7 +1921,7 @@ Abb. 4.a.2: *R-Studio*
 
 ## 4. Erarbeiten IT-technischer Rahmenbedingungen
 
-**4.b) Einführung und Anleitung der Applikation *R***
+### 4.b) Einführung und Anleitung der Applikation *R*
 
 **Erste Schritte mit *R  *
 Grundsätzliches**
@@ -1977,7 +1966,7 @@ text \<- temperatur
 
 ## 4. Erarbeiten IT-technischer Rahmenbedingungen
 
-**4.b) Einführung und Anleitung der Applikation *R***
+### 4.b) Einführung und Anleitung der Applikation *R*
 
 #### Einführung in *R*
 
@@ -2015,9 +2004,9 @@ temperatur \< 8 \| temperatur \> 0       # \| oder Statement
 
 ## 4. Erarbeiten IT-technischer Rahmenbedingungen
 
-**4.b) Einführung und Anleitung der Applikation *R***
+### 4.b) Einführung und Anleitung der Applikation *R*
 
-**Einführung in *R *– Diagramme **(Datei *Diagramme.R *auf Ilias**)**
+#### Einführung in *R* – Diagramme (Datei *Diagramme.R* auf Ilias)
 
 \# Library ourdata laden  
 library(ourdata)
@@ -2042,9 +2031,9 @@ boxplot(koelsch\$Koelsch)
 
 ## 4. Erarbeiten IT-technischer Rahmenbedingungen
 
-**4.b) Einführung und Anleitung der Applikation *R***
+### 4.b) Einführung und Anleitung der Applikation *R*
 
-**Einführung in *R *– Diagramme **(Datei *Diagramme.R *auf Ilias**)**
+#### Einführung in *R* – Diagramme (Datei *Diagramme.R* auf Ilias)
 
 \# Dichte-Diagramm, zeigt die Verteilung einer numerischen Variablen   
 \# über ein kontinuierliches Intervall. Peaks eines Dichte-Diagramms   
@@ -2065,9 +2054,9 @@ plot(1:length(fragebogen\$alter), fragebogen\$alter, type = "l")
 
 ## 4. Erarbeiten IT-technischer Rahmenbedingungen
 
-**4.b) Einführung und Anleitung der Applikation *R***
+### 4.b) Einführung und Anleitung der Applikation *R*
 
-**Einführung in *R *– Diagramme **(Datei *Diagramme.R *auf Ilias**)**
+#### Einführung in *R* – Diagramme (Datei *Diagramme.R* auf Ilias)
 
 \# Histogramm, gruppiert kontinuierliche Daten in Bereiche und stellt diese Daten als   
 \# Balken dar. Die Höhe jedes Balkens zeigt die Anzahl der Beobachtungen in jedem Bereich an
@@ -2094,9 +2083,9 @@ draw.single.venn(area = 10)
 
 ## 4. Erarbeiten IT-technischer Rahmenbedingungen
 
-**4.b) Einführung und Anleitung der Applikation *R***
+### 4.b) Einführung und Anleitung der Applikation *R*
 
-**Einführung in *R *– Diagramme **(Datei *Diagramme.R *auf Ilias**)**
+#### Einführung in *R* – Diagramme (Datei *Diagramme.R* auf Ilias)
 
 \# Kreis- oder Torten-Diagramm, sind zwar weit verbreitet, weisen jedoch einige Nachteile auf:   
 \# a) Unterschiede zwischen den Anteilswerte sind weniger gut erkennbar,   
@@ -2124,7 +2113,7 @@ plotter()
 **4. Erarbeiten IT-technischer Rahmenbedingungen  
 4.b) Einführung und Anleitung der Applikation *R***
 
-**Einführung in *R *– Diagramme **(Datei *Diagramme.R *auf Ilias**)  **
+#### Einführung in *R* – Diagramme (Datei *Diagramme.R* auf Ilias)
 \# Spiderweb-Diagramm, erlaubt die Darstellung numerischer Werte mehrerer Variablen. Im unten dargestellten Beispiel  
 \# sind die mittleren Längen und Breiten der Blütenblätter der Schwertlilie eingezeichnet. Die Spitzen des Polygons geben   
 \# den Wert für die entsprechende Variable an. Radial-Plots können so eine größere Zahl von numerischen Werten  
@@ -2154,7 +2143,7 @@ main="Durchschnittliche Blattlängen")
 
 ## 4. Erarbeiten IT-technischer Rahmenbedingungen
 
-**4.b) Einführung und Anleitung der Applikation *R***
+### 4.b) Einführung und Anleitung der Applikation *R*
 
 **Fragebogen mit *R *auswerten **(Datei *Fragebogen.R *auf Ilias)  
 getwd()                   
@@ -2187,7 +2176,7 @@ source(“Fragebogen.R“)
 
 ## 4. Erarbeiten IT-technischer Rahmenbedingungen
 
-**4.b) Einführung und Anleitung der Applikation *R***
+### 4.b) Einführung und Anleitung der Applikation *R*
 
 **Pakete
 in *R *installieren **(Datei *Pakete_in_R_installieren.R *auf Ilias)  
@@ -2383,7 +2372,7 @@ analyse **von *zwei Datensätzen mit unterschiedlicher Quelle *durchzuführen.
 - Sport (z.B. Fußballdaten, Wettspiel, Drivelänge beim Golf, etc.)  
 - Freizeit (z.B. Netflix & Co, Eiskonsum, Computerspiel, etc.)
 
-**Ablauf  **
+#### Ablauf
 1. 1. Datensatz suchen (z.B. auf Datenportalen wie[ https://stats.oecd.org/](https://stats.oecd.org/))  
 2. 2. Datensatz suchen (z.B. auf Webseiten wie Statista ([https://de.statista.com)  
 ](https://de.statista.com/)3. Daten aufbereiten (Dezimaltrennung, Variablennamen, Spalten bereinigen)  
@@ -2414,7 +2403,7 @@ die passenden Spalten (Land, IMR und HDI) zusammenfügt
 
 Excel Zusammenführung
 
-**Hilfsmittel  **
+#### Hilfsmittel
 - evtl. am verfügbaren VBA Code orientieren  
 - Google Suche (Stichwort „R Funktion xyz“)  
 - Stackoverflow ([https://stackoverflow.com)  
@@ -2870,9 +2859,8 @@ Technical Applications &
 
 Data Analytics
 
-**Praktische Anwendung mit eigenen Daten / **
+## Praktische Anwendung mit eigenen Daten / Ethik der Datenanalyse
 
-## Ethik der Datenanalyse
 
 - Auf Basis eigener Daten eine Analyse entwickeln   
 und die Anwendbarkeit prüfen
@@ -2943,7 +2931,7 @@ gesammelt?
 ### 10.a) Auf Basis eigener Daten eine Analyse entwickeln und die   
 Anwendbarkeit prüfen
 
-**Auswahl:**
+### Auswahl:
 
 - *Entweder ***eigene
 Daten erheben **(evtl. die Excel aus dem Unterricht 
@@ -2964,7 +2952,7 @@ und diese kombinieren (mehrere Datensätze vereinen)
 Apple, MS etc.) im Hinblick auf den Umfang bzw. Kategorien (siehe Grafik   
 *Datensammler *auf Ilias)
 
-**Ablauf (**zu den ersten beiden Verfahren)**:  **
+#### Ablauf (zu den ersten beiden Verfahren):
 - Daten generieren / Auffinden von Daten
 
 - Statistische Auswertung in *R / R Studio *(Beispiel R-Skripte zur 
@@ -2979,7 +2967,7 @@ Anwendbarkeit prüfen**
 
 ## 10. Praktische Anwendung mit eigenen Daten / Ethik der Datenanalyse
 
-**Prüfungsleistung**
+### Prüfungsleistung
 
 - Hausarbeit in Form einer **wissenschaftlich verfassten Arbeit**
 
@@ -3076,7 +3064,7 @@ Vorlesung erörtert, um eine **Sensibilisierung **für das Thema zu erreichen.
 
 Auch die Rolle von sogenannten **Whistleblowern **soll erwähnt werden.
 
-**Fragen  **
+#### Fragen
 - Welche Arten von Daten gibt es?
 
 - Welche davon sind besonders schützenswert?  
@@ -3092,7 +3080,7 @@ Technical Applications &
 
 Data Analytics
 
-**Literaturverzeichnis**
+## Literaturverzeichnis
 
 ## 11. Literaturverzeichnis
 
@@ -3124,9 +3112,9 @@ Data Analytics
 
 ## Anhang
 
-**Technical Applications & Data Analytics**
+## Technical Applications & Data Analytics
 
-**R-Package ourdata  **
+### R-Package ourdata
 Das **R-Paket **ourdata ist im Rahmen der Vorlesungen in den Studiengängen **Audiovisuelle Medien & Online Publishing **und **Game   
 Design & Management **entstanden. Es enthält einen Großteil der zu Übungszwecken verwendeten **Datensätze**, sowie einige selbst-  
 programmierte **Funktionen **mit den sich diese Daten manipulieren bzw. **Diagramme **ausgeben lassen.
