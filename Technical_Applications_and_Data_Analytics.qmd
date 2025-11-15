@@ -57,13 +57,11 @@ lang: de
 
 # Technical Applications & Data Analytics
 
-**WS 2021 – B. Groß**
+## WS 2021 – B. Groß
 
-**Herzlich **
+### Herzlich Willkommen
 
-**Willkommen**
-
-**Vorstellungsrunde**
+### Vorstellungsrunde
 
 - Name, Alter, woher etc.!
 
@@ -77,7 +75,7 @@ Technical Applications &
 
 ## Data Analytics
 
-**Lernziele**
+### Lernziele
 
 - Datenarten verarbeiten, erstellen und analysieren
 
@@ -92,7 +90,7 @@ können
 - theoretische Analyse der Algorithmen und Interpretation   
 der Ergebnisse
 
-**Lernziele  
+### Lernziele
 oder auch: Wie erreiche ich in Zukunft die „Daten-Weltherrschaft“?!**
 
 - Für die Wirtschaft bestehst Du mittlerweile fast   
@@ -108,22 +106,20 @@ bewirken?
 - Die Datenverarbeitung wird immer automatisierter, neue   
 Jobs werden geschaffen
 
-**Gegenwartsbezug  
-oder auch: Was hat das mit mir und meiner Zukunft zu tun?!**
+### Gegenwartsbezug oder auch: Was hat das mit mir und meiner Zukunft zu tun?!
 
 Als Excel-Makro Code-Beispiel (VBA) auf Ilias verfügbar! *Die   
 Excel-Makro-Datei
 (xlsm) wird regelmäßig aktualisiert, da sie sich in der   
 Entwicklung befindet – daher regelmäßig den aktuellen Stand downloaden!*
 
-**Der „Fragebogen“  **
-oder auch: Was sind heute die wirklich wichtigen Fragen?!
+**Der „Fragebogen“  ** oder auch: Was sind heute die wirklich wichtigen Fragen?!
 
 Abb.: Microsoft Excel „Fragebogen“
 
-**Gliederung**
+### Gliederung
 
-**5. – 9. Methodiken**
+#### 5. – 9. Methodiken
 
 Korrelations Analyse, Linear 
 
@@ -133,39 +129,29 @@ Analyse, Cluster Analyse K-
 
 Means, Neuronale Analyse
 
-**2. Technical Applications**
+#### 2. Technical Applications
 
-**3. Data Management**
+#### 3. Data Management
 
-**1. Grundbegriffe**
+#### 1. Grundbegriffe
 
-**4. IT-technische **
+#### 4. IT-technische Rahmenbedingungen
 
-**Rahmenbedingungen**
+#### 10. Praktische Anwendung
 
-**10. Praktische **
+#### Technical Applications
 
-**Anwendung**
+#### Data Analytics
 
-**Technical **
+#### 11. Literaturverzeichnis
 
-**Applications**
-
-**Data **
-
-**Analytics**
-
-**11. Literaturverzeichnis**
-
-**12. Anhang**
+#### 12. Anhang
 
 Technical Applications & 
 
 Data Analytics
 
-**Grundbegriffe des Technical Applications **
-
-**& Data Management**
+## Grundbegriffe des Technical Applications & Data Management
 
 - Geschichte der Datenanalyse und   
 Datenverarbeitung (incl. Hardware)
@@ -177,19 +163,18 @@ Datenanalyse
 
 - Einführung in die Begriffe BI, Reporting und Big Data
 
-**1. Grundbegriffe des Technical   
-Applications & Data Management**
+## 1. Grundbegriffe des Technical Applications & Data Management
 
-**Grundbegriffe des Technical Applications & Data Management**
+### Grundbegriffe des Technical Applications & Data Management
 
-**Definition Statistik:  **
+**Definition Statistik:**
 Wissenschaft von Sammlung, Analyse und Interpretation und Kommunikation   
 von Daten mithilfe mathematischer Verfahren zur Entscheidungsfindung.1
 
-**Definition Datenanalyse:  **
+**Definition Datenanalyse:**
 Der Prozess des Erhebens von Daten, ihrer Auswertung und Interpretation.2
 
-**Definition Datenverarbeitung:  **
+**Definition Datenverarbeitung:**
 Der Prozess des Datensammelns und deren Umwandlung in nützliche   
 Informationen. Es werden mit angemessenen Techniken (ohne die gewünschten   
 Daten zu beeinträchtigen) Rohdaten in ein besser lesbares Format (Graphen,   
@@ -200,10 +185,9 @@ Mitarbeitern in der gesamten Organisation genutzt werden können.
 1 Romeijn \[2016\], o. S.  
 2 Tukey \[1962\], o. S.
 
-**1.a) Geschichte der Datenanalyse und Datenverarbeitung (incl.
-Hardware)**
+### 1.a) Geschichte der Datenanalyse und Datenverarbeitung (incl. Hardware)
 
-**Grundbegriffe des Technical Applications & Data Management**
+#### Grundbegriffe des Technical Applications & Data Management
 
 1934 – 1941: ZUSE Z1, Z2 und Z3 von Konrad Zuse in Relaistechnik   
 (elektromagnetischer Schalter)  
@@ -221,14 +205,13 @@ Betriebssystem Windows (Abb. 1.a.1)
 1989: HTML Entwurf (Hyper Text   
 Markup Language)
 
-**1.a) Geschichte der Datenanalyse und Datenverarbeitung (incl.
-Hardware)**
+### 1.a) Geschichte der Datenanalyse und Datenverarbeitung (incl. Hardware)
 
 Abb. 1.a.1: Microsoft Windows 1.01
 
-**Grundbegriffe des Technical Applications & Data Management**
+#### Grundbegriffe des Technical Applications & Data Management
 
-**Computer Hardwareentwicklung**
+##### Computer Hardwareentwicklung
 
 - Generation 0 (bis 1945)
 
@@ -254,14 +237,13 @@ Abb. 1.a.1: Microsoft Windows 1.01
 
 - Laptops, PDAs, Mobiltelefon, etc.
 
-**1.a) Geschichte der Datenanalyse und Datenverarbeitung (incl.
-Hardware)**
+### 1.a) Geschichte der Datenanalyse und Datenverarbeitung (incl. Hardware)
 
 Abb. 1.a.2: IBM System/360
 
-**Grundbegriffe des Technical Applications & Data Management**
+#### Grundbegriffe des Technical Applications & Data Management
 
-**Betriebssysteme und Erscheinungsjahr**
+#### Betriebssysteme und Erscheinungsjahr
 
 - **Unix (1969)**
 
@@ -280,14 +262,13 @@ Abb. 1.a.2: IBM System/360
 
 - **MacOS (2001)**
 
-**1.a) Geschichte der Datenanalyse und Datenverarbeitung (incl.
-Hardware)**
+### 1.a) Geschichte der Datenanalyse und Datenverarbeitung (incl. Hardware)
 
 Abb. 1.a.2: Betriebssystem Unix Timeline
 
-**Grundbegriffe des Technical Applications & Data Management**
+#### Grundbegriffe des Technical Applications & Data Management
 
-**Programmiersprachen und Erscheinungsjahr**
+#### Programmiersprachen und Erscheinungsjahr
 
 - Assembler (~ Maschinensprache - aber kein ByteCode, seit 1950)
 
@@ -315,22 +296,18 @@ Abb. 1.a.2: Betriebssystem Unix Timeline
 
 - Low Code: z.B. Scratch (2007), **Power Fx / Power Apps (2021)**
 
-**1.a) Geschichte der Datenanalyse und Datenverarbeitung (incl.
-Hardware)**
+### 1.a) Geschichte der Datenanalyse und Datenverarbeitung (incl. Hardware)
 
 Abb. 1.a.3: Programmiersprachen 
 
 im Ranking
 
-**Grundbegriffe des Technical Applications & Data Management  
-1.a) Geschichte der Datenanalyse und Datenverarbeitung (incl.
-Hardware)**
 
 Abb. 1.a.4: Jobs als Programmierer im Ranking
 
-**Grundbegriffe des Technical Applications & Data Management**
+#### Grundbegriffe des Technical Applications & Data Management
 
-**Programmierparadigmen / Programmierstile**
+#### Programmierparadigmen / Programmierstile
 
 - **Strukturierte Programmierung**
 
@@ -351,12 +328,11 @@ Abb. 1.a.4: Jobs als Programmierer im Ranking
 - (Objekt ist eine Datenstruktur, ähnelt einem realen Objekt)  
 - Flexibilität und Wartbarkeit, können einfach verteilt entwickelt werden
 
-**1.a) Geschichte der Datenanalyse und Datenverarbeitung (incl.
-Hardware)**
+### 1.a) Geschichte der Datenanalyse und Datenverarbeitung (incl. Hardware)
 
-**Grundbegriffe des Technical Applications & Data Management**
+#### Grundbegriffe des Technical Applications & Data Management
 
-**Entwicklungsumgebungen (IDE ~ Integrated Development Enviroment)**
+#### Entwicklungsumgebungen (IDE ~ Integrated Development Enviroment)
 
 - **Eclipse**
 
@@ -386,14 +362,13 @@ Hardware)**
 
 - Swift und Objective-C für die Systeme macOS, iOS, watchOS und TvOS
 
-**1.a) Geschichte der Datenanalyse und Datenverarbeitung (incl.
-Hardware)**
+### 1.a) Geschichte der Datenanalyse und Datenverarbeitung (incl. Hardware)
 
 Abb. 1.a.5: Microsoft Visual Studio 
 
-**Grundbegriffe des Technical Applications & Data Management**
+#### Grundbegriffe des Technical Applications & Data Management
 
-**Low Code Entwicklungsumgebungen**
+#### Low Code Entwicklungsumgebungen
 
 Erlaubt die **Entwicklung
 von Applikationen **mittels einer grafischen   
@@ -413,14 +388,13 @@ Garage *für die
 *Nintendo Switch  *
 Umgebungen zum Erlernen von Basisfähigkeiten der (Spiele-) Programmierung.
 
-**1.a) Geschichte der Datenanalyse und Datenverarbeitung (incl.
-Hardware)**
+### 1.a) Geschichte der Datenanalyse und Datenverarbeitung (incl. Hardware)
 
 Abb. 1.a.6: Säulen der Low Code Entwicklung  
 
-**Grundbegriffe des Technical Applications & Data Management**
+#### Grundbegriffe des Technical Applications & Data Management
 
-**Projektmanagement**
+#### Projektmanagement
 
 Laut der **DIN 69901-5:2009 **ist ein   
 Projekt ein Vorhaben, das im   
@@ -437,14 +411,13 @@ genutzt **und **Projektziele
 qualitativ**, **termingerecht **und **im   
 Kostenrahmen erreicht **werden.
 
-**1.a) Geschichte der Datenanalyse und Datenverarbeitung (incl.
-Hardware)**
+### 1.a) Geschichte der Datenanalyse und Datenverarbeitung (incl. Hardware)
 
 Abb. 1.a.7: Projektmanagement Prozess
 
-**Grundbegriffe des Technical Applications & Data Management**
+#### Grundbegriffe des Technical Applications & Data Management
 
-**Agiles Projektmanagement**
+#### Agiles Projektmanagement
 
 **SCRUM **ist ein Framework, das für die Produktentwicklung in Teamarbeit   
 verwendet werden kann. 
@@ -463,12 +436,11 @@ Bereichen
 zum Einsatz   
 kommen.
 
-**1.a) Geschichte der Datenanalyse und Datenverarbeitung (incl.
-Hardware)**
+### 1.a) Geschichte der Datenanalyse und Datenverarbeitung (incl. Hardware)
 
 Abb. 1.a.8: SCRUM Manifesto
 
-**Grundbegriffe des Technical Applications & Data Management**
+#### Grundbegriffe des Technical Applications & Data Management
 
 **Daten **wurden seit den 1970er Jahren unterstützend zur   
 **Entscheidungsfindung **und in Produktionsprozessen eingesetzt. Im Gegensatz   
@@ -486,12 +458,11 @@ ments Planning
 **CRM **= Customer-Relation-  
 ship-Management
 
-**1.a) Geschichte der Datenanalyse und Datenverarbeitung (incl.
-Hardware)**
+### 1.a) Geschichte der Datenanalyse und Datenverarbeitung (incl. Hardware)
 
 Abb. 1.a.6: Rolle der Daten der Digitalisierung
 
-**Grundbegriffe des Technical Applications & Data Management**
+#### Grundbegriffe des Technical Applications & Data Management
 
 Die **Informationslogistik **befasst sich mit Informationsflüssen in   
 Organisationsstrukturen. Das Ziel der Informationslogistik ist die Versorgung   
@@ -510,15 +481,15 @@ Kunden, müssen neu definiert werden um den Bedürfnissen nach individuellen
 Produkten und Dienstleistungen gerecht zu werden. Daten werden hierzu   
 **analysiert **und der Erkenntnisgewinn fließt in die Geschäftsprozesse ein.
 
-**1.b) Bedeutung von Daten und deren Digitalisierung**
+### 1.b) Bedeutung von Daten und deren Digitalisierung
 
-**Grundbegriffe des Technical Applications & Data Management**
+#### Grundbegriffe des Technical Applications & Data Management
 
-**1.b) Bedeutung von Daten und deren Digitalisierung**
+### 1.b) Bedeutung von Daten und deren Digitalisierung
 
-**5 Formen der Datenanalyse**
+#### 5 Formen der Datenanalyse
 
-**a) Die deskriptive Datenanalyse**
+##### a) Die deskriptive Datenanalyse
 
 Die deskriptive Datenanalyse, auch als **beschreibende Datenauswertung   **
 bezeichnet, konzentriert sich auf die **Daten aus der Vergangenheit**.
@@ -535,13 +506,13 @@ Analyse liefert aber keine Antworten auf Fragen wie: "Warum ist etwas
 geschehen?". Oft werden deskriptive Datenanalysen mit anderen   
 Analysemethoden kombiniert.
 
-**Grundbegriffe des Technical Applications & Data Management**
+#### Grundbegriffe des Technical Applications & Data Management
 
-**1.b) Bedeutung von Daten und deren Digitalisierung**
+### 1.b) Bedeutung von Daten und deren Digitalisierung
 
-**5 Formen der Datenanalyse**
+#### 5 Formen der Datenanalyse
 
-**b) Die explorative Datenanalyse**
+##### b) Die explorative Datenanalyse
 
 Ziel der explorativen Datenanalyse ist es, **Zusammenhänge in
 Daten **zu finden   
@@ -551,7 +522,7 @@ Typischer Anwendungsbereich für die explorative Datenanalyse ist das Data
 Mining. Durch das Aufdecken von Zusammenhängen mit Hilfe der explorativen   
 Datenanalyse lassen sich Rückschlüsse auf die Ursachen der Vorgänge ziehen.
 
-**c) Die diagnostische Datenanalyse**
+##### c) Die diagnostische Datenanalyse
 
 Die diagnostische Datenanalyse beschäftigt sich ganz konkret mit der   
 Fragestellung: "Warum ist etwas geschehen?". Indem sie **historische **und   
@@ -560,13 +531,13 @@ findet sie Ursachen oder gegenseitige Wechselwirkungen. Mit Hilfe der
 diagnostischen Datenanalyse können Unternehmen konkrete Problemstellungen   
 lösen, da die Ursachen aufgezeigt werden.
 
-**Grundbegriffe des Technical Applications & Data Management**
+#### Grundbegriffe des Technical Applications & Data Management
 
-**1.b) Bedeutung von Daten und deren Digitalisierung**
+### 1.b) Bedeutung von Daten und deren Digitalisierung
 
-**5 Formen der Datenanalyse**
+#### 5 Formen der Datenanalyse
 
-**d) Die prädiktive Datenanalyse**
+##### d) Die prädiktive Datenanalyse
 
 Die prädiktive Datenanalyse, auch als Vorhersageanalyse bzw. Predictive  
 Analytics bezeichnet, gestattet den Blick in die Zukunft. Es wird die   
@@ -584,13 +555,13 @@ Qualität der Daten, den gefundenen Mustern, Zusammenhängen und Trends
 sowie von der Intelligenz der Algorithmen ab. Beispielsweise lassen sich   
 zukünftige Umsätze vorhersagen oder das Kundenverhalten prognostizieren.
 
-**Grundbegriffe des Technical Applications & Data Management**
+#### Grundbegriffe des Technical Applications & Data Management
 
-**1.b) Bedeutung von Daten und deren Digitalisierung**
+### 1.b) Bedeutung von Daten und deren Digitalisierung
 
-**5 Formen der Datenanalyse**
+#### 5 Formen der Datenanalyse
 
-**e) Die präskriptive Datenanalyse**
+##### e) Die präskriptive Datenanalyse
 
 Die präskriptive Datenanalyse ist die komplexeste und aufwendigste   
 Analysekategorie. Sie liefert Unternehmen aber einen immensen Mehrwert,   
@@ -604,7 +575,7 @@ beschriebener Analysekategorien. Die Vorhersagen werden kontinuierlich
 aktualisiert. Zum Einsatz kommen ML- und KI-Algorithmen, neuronale   
 Netzwerke, Simulationen und Business Regeln.
 
-**Grundbegriffe des Technical Applications & Data Management**
+#### Grundbegriffe des Technical Applications & Data Management
 
 **Digitalisierung **bezeichnet   
 das Umwandeln von   
@@ -620,13 +591,13 @@ werden in verschiedenen
 Stellenwertesystemen und   
 Zeichensätzen dargestellt.
 
-**1.b) Bedeutung von Daten und deren Digitalisierung**
+### 1.b) Bedeutung von Daten und deren Digitalisierung
 
 Abb. 1.b.2: ASCII Zeichensatz
 
-**Grundbegriffe des Technical Applications & Data Management**
+#### Grundbegriffe des Technical Applications & Data Management
 
-**Speichereinheiten**
+#### Speichereinheiten
 
 Die kleinste Einheit ist *1
 Bit*. “Bit” steht für “Binary Digit”. In der Informatik wird im   
@@ -640,13 +611,13 @@ die Zahl *1000 *nicht vor, sondern nur
 128, 256, 512, 1024*)   
 = *10 *Bit.
 
-**1.b) Bedeutung von Daten und deren Digitalisierung**
+### 1.b) Bedeutung von Daten und deren Digitalisierung
 
 Abb. 1.b.3: Tabelle der Speichergrößen 
 
-**Grundbegriffe des Technical Applications & Data Management**
+#### Grundbegriffe des Technical Applications & Data Management
 
-**Stellenwertsysteme**
+#### Stellenwertsysteme
 
 **Dualsystem / Binärsystem: **Basis *2*, Ziffern *0 *und *1*
 
@@ -657,13 +628,13 @@ Abb. 1.b.3: Tabelle der Speichergrößen
 **Hexadezimalsystem: **Basis *16 (*24*)*, Ziffern *0 *bis *9  *
 und *A *bis *F*
 
-**1.b) Bedeutung von Daten und deren Digitalisierung**
+### 1.b) Bedeutung von Daten und deren Digitalisierung
 
 Abb. 1.b.4: Stellenwertsysteme
 
-**Grundbegriffe des Technical Applications & Data Management**
+#### Grundbegriffe des Technical Applications & Data Management
 
-**Zeichensätze**
+#### Zeichensätze
 
 **ASCII: **Früher Standardzeichensatz, *7 *Bit, Kodierung von *128 *Zeichen möglich
 
@@ -684,11 +655,11 @@ ISO-8859-1: schriftspezifische Zeichen für westeurop. / amer. Sprachen
 **UTF-8: „**8-Bit Unicode Transformation Format“, unterstützt bis zu *4 *Byte, mit   
 denen sich *1.114.112 *Zeichen abbilden lassen.
 
-**1.b) Bedeutung von Daten und deren Digitalisierung**
+### 1.b) Bedeutung von Daten und deren Digitalisierung
 
-**Grundbegriffe des Technical Applications & Data Management**
+#### Grundbegriffe des Technical Applications & Data Management
 
-**Textbasierte Dateiformate**
+#### Textbasierte Dateiformate
 
 **CSV (comma-separated values) Dateiformat**: Eine Textdatei zum Austausch   
 einfach strukturierter Daten, die Trennung der Daten erfolgt mit dem „,“ Zeichen,   
@@ -717,11 +688,11 @@ Markierungen umgeben. Es sind Struktur und Bedeutungen zu vergeben. Bsp.:
 
 \</CAT\>
 
-**1.b) Bedeutung von Daten und deren Digitalisierung**
+### 1.b) Bedeutung von Daten und deren Digitalisierung
 
-**Grundbegriffe des Technical Applications & Data Management**
+#### Grundbegriffe des Technical Applications & Data Management
 
-**(Text-)Editoren**
+#### (Text-)Editoren
 
 Um Textdateien jeder Art (aber auch Code wie HTML oder C#) einfach auszu-  
 lesen und zu bearbeiten gibt es sogenannte Text-Editoren. Hier eine Auswahl   
@@ -738,16 +709,16 @@ Erweiterungen. Wird häufig im Produktiveinsatz verwendet.
 
 <https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.1.9/npp.8.1.9.Installer.x64.exe>
 
-**Kodex:**
+##### Kodex:
 
 Für *iPadOS*, simpel und leicht zu bedienen  
 Download über den Apple AppStore
 
-**1.b) Bedeutung von Daten und deren Digitalisierung**
+### 1.b) Bedeutung von Daten und deren Digitalisierung
 
-**Grundbegriffe des Technical Applications & Data Management**
+#### Grundbegriffe des Technical Applications & Data Management
 
-**Line Feed (LF) vs.  Carriage Return + Line Feed (CRLF)**
+#### Line Feed (LF) vs. Carriage Return + Line Feed (CRLF)
 
 **LF**: Unter Linux / Unix und Mac wird mittels *LF *eine neue Zeile eingeleitet (auch   
 mit *Newline *oder *\n *bezeichnet).
@@ -757,11 +728,11 @@ Windows-Systemen wird mit *CR *eingeleitet (auch mit *Carriage
 Return *oder *\r *bezeichnet) der Cursor an den Anfang der Zeile gesetzt und mit   
 *LF *die neue Zeile eingeleitet.
 
-**1.b) Bedeutung von Daten und deren Digitalisierung**
+### 1.b) Bedeutung von Daten und deren Digitalisierung
 
 Abb. 1.b.5: NotePad++ - CRLF
 
-**Grundbegriffe des Technical Applications & Data Management**
+#### Grundbegriffe des Technical Applications & Data Management
 
 Weiterhin muss je nach Anwendungsfall der eigentliche **Ort der
 Datenanalyse   **
@@ -779,11 +750,11 @@ Datenbestände, sondern auch
 kontinuierlich Ströme von Daten  
 in Echtzeit auszuwerten.
 
-**1.b) Bedeutung von Daten und deren Digitalisierung**
+### 1.b) Bedeutung von Daten und deren Digitalisierung
 
 Abb. 1.b.7: Methoden zur Extraktion von Informationen
 
-**Grundbegriffe des Technical Applications & Data Management**
+#### Grundbegriffe des Technical Applications & Data Management
 
 *Datenanalyse ist praktisch betrachtet*
 
@@ -803,9 +774,9 @@ Dieser beinhaltet *philosophische *und
 
 Abb. 1.b.8: Der Rahmen der Datenanalyse
 
-**1.b) Bedeutung von Daten und deren Digitalisierung**
+### 1.b) Bedeutung von Daten und deren Digitalisierung
 
-**Grundbegriffe des Technical Applications & Data Management**
+#### Grundbegriffe des Technical Applications & Data Management
 
 Ziel der **Datenanalyse **ist es, aus den vorhandenen Daten durch   
 Anwendung verschiedener Methoden und Analyseverfahren die jeweils   
@@ -826,13 +797,13 @@ durchführen.
 
 Abb. 1.c.1: Der Rahmen der Datenanalyse
 
-**1.c) Ziele der Datenanalyse und Stand der Technik**
+### 1.c) Ziele der Datenanalyse und Stand der Technik
 
-**Grundbegriffe des Technical Applications & Data Management**
+#### Grundbegriffe des Technical Applications & Data Management
 
 Abb. 1.d.1: Formen der Datenanalyse
 
-**1.d) Einführung in die Begriffe BI, Reporting und Big Data**
+### 1.d) Einführung in die Begriffe BI, Reporting und Big Data
 
 Es sind grundsätzlich **zwei verschiedene Blickwinkel **der Daten-  
 auswertung zu Unterscheiden:  
@@ -853,13 +824,13 @@ hänge für die Geschehnisse und
 Abläufe ermittelt. Diese nutzt   
 Business Analytics, um Vorhersagen über zukünftige Entwicklungen zu machen.
 
-**Grundbegriffe des Technical Applications & Data Management**
+#### Grundbegriffe des Technical Applications & Data Management
 
 Abb. 1.d.2: Dashboard einer Reporting Software
 
-**1.d) Einführung in die Begriffe BI, Reporting und Big Data**
+### 1.d) Einführung in die Begriffe BI, Reporting und Big Data
 
-**Reporting**
+#### Reporting
 
 Der Begriff Reporting beschreibt das   
 **systematische Erstellen **von **Berichten   **
@@ -871,13 +842,13 @@ Unterstützung der Führungs- und
 Entscheidungsprozesse in den   
 verschiedenen Unternehmensbereichen.
 
-**Grundbegriffe des Technical Applications & Data Management**
+#### Grundbegriffe des Technical Applications & Data Management
 
 Abb. 1.d.3: Aktivität eines Wikipedia-Bots
 
-**1.d) Einführung in die Begriffe BI, Reporting und Big Data**
+### 1.d) Einführung in die Begriffe BI, Reporting und Big Data
 
-**Big Data**
+#### Big Data
 
 Big Data steht für die **große Mengen **an   
 **Daten **– Daten in der Größenordnung von   
@@ -900,10 +871,6 @@ Technical Applications &
 
 Data Analytics
 
-**Einführung und Erarbeitung der **
-
-**„Technical Applications“**
-
 - Einführung in die technische Datenerfassung
 
 - Verschiedene Quellen von Daten und deren   
@@ -918,11 +885,9 @@ Datawarehouses
 deren Darstellung mit Vor- und Nachteilen
 
 **2. Einführung und Erarbeitung der   
-„Technical Applications“**
+## 2. Einführung und Erarbeitung der „Technical Applications“
 
-**2. Einführung und Erarbeitung der „Technical Applications“**
-
-**Einführung in die technische Datenerfassung**
+#### Einführung in die technische Datenerfassung
 
 Die **Anforderungen **von *Datenanalyse*, *Data   
 Mining*, *maschinellem Lernen *und auch der   
@@ -937,26 +902,26 @@ sind:
 
 - Fach- und Branchenkenntnis
 
-**2.a) Einführung in die technische Datenerfassung**
+### 2.a) Einführung in die technische Datenerfassung
 
 Abb. 2.a.1: Buch – Einführung in die Datenverarbeitung
 
-**2. Einführung und Erarbeitung der „Technical Applications“**
+## 2. Einführung und Erarbeitung der „Technical Applications“
 
-***Microsoft Excel***
+#### *Microsoft Excel*
 
 Die einfachste Form Daten am PC zu betrachten, bearbeiten und darzustellen   
 ist heutzutage *Microsoft Excel *oder eine vergleichbare Tabellenkalkulation.  
 Excel ist in Version 1.0 erstmals 1985 für Macintosh erschienen. Im November   
 1987 in Version 2.0 ist es auch für Windows (Windows 2.x / 386) erschienen. 
 
-**2.a) Einführung in die technische Datenerfassung**
+### 2.a) Einführung in die technische Datenerfassung
 
 Abb. 2.a.2: Zeitschiene *Microsoft Excel*
 
-**2. Einführung und Erarbeitung der „Technical Applications“**
+## 2. Einführung und Erarbeitung der „Technical Applications“
 
-**Grundbegriffe**
+#### Grundbegriffe
 
 **Daten **(die Einzahl Datum ist ungewöhnlich) kann man als Informationen, die   
 eine Funktion haben, beschreiben.1 Somit sind, von für den Menschen nützliche   
@@ -973,7 +938,7 @@ und in den einzelnen Zeilen, die jeweils dem Merkmal zugordneten **Objekte**.
 
 Vgl. Sauer \[2019\], S. 8
 
-**2.a) Einführung in die technische Datenerfassung**
+### 2.a) Einführung in die technische Datenerfassung
 
 **Merkmal 1**
 
@@ -1001,26 +966,26 @@ Objekt 3 M3
 
 Abb. 2.a.3: Tabelle als Datensatz
 
-**2. Einführung und Erarbeitung der „Technical Applications“**
+## 2. Einführung und Erarbeitung der „Technical Applications“
 
-**Verschiedene Quellen von Daten und deren Zusammenhänge**
+#### Verschiedene Quellen von Daten und deren Zusammenhänge
 
 Die Herkunft von Daten wird differenziert betrachtet. 
 
-**Primärdaten  **
+##### Primärdaten
 - Beobachtung  
 - Befragung
 
 - Experimentell  
-**Sekundärdaten  **
+##### Sekundärdaten
 - Interne Quellen  
 - Externe Quellen
 
-**2.b) Verschiedene Quellen von Daten und deren Zusammenhänge**
+### 2.b) Verschiedene Quellen von Daten und deren Zusammenhänge
 
 Abb. 2.b.1: Primär- und Sekundärdaten
 
-**Speicherung von Daten in Dateien**
+#### Speicherung von Daten in Dateien
 
 Typischer Weise werden Daten in ***CSV ***und ***XML *****Dateien **gespeichert.
 
@@ -1034,13 +999,13 @@ Ebenso denkbar ist die Speicherung in einer **Binärdatei**. Hier sind die Daten
 Bitmustern gespeichert und nur mit entsprechenden Import-Bibliotheken der   
 technischen Applikationen lesbar.
 
-**2.c) Speicherung der Daten, Datenbanken, Datawarehouses**
+### 2.c) Speicherung der Daten, Datenbanken, Datawarehouses
 
 Abb. 2.c.1: Datenbanksysteme
 
-**2. Einführung und Erarbeitung der „Technical Applications“**
+## 2. Einführung und Erarbeitung der „Technical Applications“
 
-**Data Warehouse**
+#### Data Warehouse
 
 Ein **Data Warehouse **ist eine Art **Datenmanagementsystem**, mit
 dem BI-  
@@ -1061,11 +1026,11 @@ unschätzbarem Wert sein kann. Aufgrund dieser Funktionen kann ein Data
 Warehouse als die „*einzige Quelle wahrer Daten*“ eines Unternehmens   
 betrachtet werden.
 
-**2.c) Speicherung der Daten, Datenbanken, Datawarehouses**
+### 2.c) Speicherung der Daten, Datenbanken, Datawarehouses
 
-**2. Einführung und Erarbeitung der „Technical Applications“**
+## 2. Einführung und Erarbeitung der „Technical Applications“
 
-**Speicherung von Daten in Datenbanken**
+#### Speicherung von Daten in Computerspielen
 
 Eine Datenbank ist ein elektronisches Verwaltungssystem, das besonders mit   
 großen Datenmengen effizient, widerspruchsfrei, dauerhaft umgehen muss und   
@@ -1084,13 +1049,13 @@ Sozial- und Gesundheitsdaten (Sozial-
 versicherungsträger, Sozialhilfeträger,   
 Versorgungsbehörden, Haus- und Fachärzte).
 
-**2.c) Speicherung der Daten, Datenbanken, Datawarehouses**
+### 2.c) Speicherung der Daten, Datenbanken, Datawarehouses
 
 Abb. 2.c.1: Datenbanksysteme
 
-**2. Einführung und Erarbeitung der „Technical Applications“**
+## 2. Einführung und Erarbeitung der „Technical Applications“
 
-**Speicherung von Daten in Computerspielen**
+#### Speicherung von Daten in Computerspielen
 
 Spiele verwalten eine Menge Daten. Zum einen die Werte und Eigenschaften   
 von In-Game Gegenständen, sowie die erhobenen Daten von Spieler-  
@@ -1108,13 +1073,13 @@ Hierzu eigenen sich
 große Datenmengen zu   
 speichern.
 
-**2.c) Speicherung der Daten, Datenbanken, Datawarehouses**
+### 2.c) Speicherung der Daten, Datenbanken, Datawarehouses
 
 Abb. 2.c.2: *Microsoft SQL Studio*
 
-**2. Einführung und Erarbeitung der „Technical Applications“**
+## 2. Einführung und Erarbeitung der „Technical Applications“
 
-**Structured Query Language – SQL**
+#### Structured Query Language – SQL
 
 Datenbank-Sprache(n)
 
@@ -1132,11 +1097,11 @@ Datenbank-Sprachen
 - Data Manipulation Language (DML)  
 - Data Control Language (DCL)
 
-**2.c) Speicherung der Daten, Datenbanken, Datawarehouses**
+### 2.c) Speicherung der Daten, Datenbanken, Datawarehouses
 
-**2. Einführung und Erarbeitung der „Technical Applications“**
+## 2. Einführung und Erarbeitung der „Technical Applications“
 
-**Data Definition Language**
+#### Data Definition Language
 
 Erstellen einer Tabelle
 
@@ -1155,11 +1120,11 @@ Löschen einer Tabelle
 Editieren der Tabellenstruktur  
 - ALTER TABLE
 
-**2.c) Speicherung der Daten, Datenbanken, Datawarehouses**
+### 2.c) Speicherung der Daten, Datenbanken, Datawarehouses
 
-**2. Einführung und Erarbeitung der „Technical Applications“**
+## 2. Einführung und Erarbeitung der „Technical Applications“
 
-**Data Manipulation Language**
+#### Data Manipulation Language
 
 Daten in Tabelle einfügen
 
@@ -1179,11 +1144,11 @@ Daten der Tabelle ausgeben
 
 SELECT \* FROM loot_table
 
-**2.c) Speicherung der Daten, Datenbanken, Datawarehouses**
+### 2.c) Speicherung der Daten, Datenbanken, Datawarehouses
 
-**2. Einführung und Erarbeitung der „Technical Applications“**
+## 2. Einführung und Erarbeitung der „Technical Applications“
 
-**Verbund von Daten**
+#### Verbund von Daten
 
 JOIN
 
@@ -1196,9 +1161,9 @@ LEFT JOIN marketvalue_table mv_t
 
 ON mv_t.name = l_t.name
 
-**2.c) Speicherung der Daten, Datenbanken, Datawarehouses**
+### 2.c) Speicherung der Daten, Datenbanken, Datawarehouses
 
-**2. Einführung und Erarbeitung der „Technical Applications“**
+## 2. Einführung und Erarbeitung der „Technical Applications“
 
 id
 
@@ -1224,7 +1189,7 @@ Stuff you might need
 
 25
 
-**Mengenoperationen**
+#### Mengenoperationen
 
 UNION  
 SELECT \* loot_table  
@@ -1243,9 +1208,9 @@ SELECT \* loot_table
 MINUS (EXCEPT!)  
 SELECT id, name, probability WHERE id IN (1, 2)
 
-**2.c) Speicherung der Daten, Datenbanken, Datawarehouses**
+### 2.c) Speicherung der Daten, Datenbanken, Datawarehouses
 
-**2. Einführung und Erarbeitung der „Technical Applications“**
+## 2. Einführung und Erarbeitung der „Technical Applications“
 
 **Fragen an Lukas der
 als Gast-Dozent zu einer Vorlesung kam **(er ist   
@@ -1267,9 +1232,9 @@ Geschwindigkeit, Datensicherheit) hat das jeweilige?
 
 - Warum kam keine Game-Engine wie z.B. Unity 3D zu Einsatz?
 
-**2.c) Speicherung der Daten, Datenbanken, Datawarehouses**
+### 2.c) Speicherung der Daten, Datenbanken, Datawarehouses
 
-**2. Einführung und Erarbeitung der „Technical Applications“**
+## 2. Einführung und Erarbeitung der „Technical Applications“
 
 **SQL-Workshop mit Lukas **(Datei *SQL_mit_Lukas.R *auf Ilias)
 
@@ -1294,11 +1259,11 @@ WHERE kirche.Jahr \<\> 2020
 
 ')
 
-**2.c) Grundlagen der Technischen Applikationen**
+### 2.c) Grundlagen der Technischen Applikationen
 
-**2. Einführung und Erarbeitung der „Technical Applications“**
+## 2. Einführung und Erarbeitung der „Technical Applications“
 
-**Grundlagen  **
+#### Grundlagen
 Für die Durchführung der in diesem Kurs behandelten praktischen   
 Anwendungsfälle wird spezielle **Data-Analyse-Software **(*R*) eingesetzt, deren   
 Bedienung und Funktionalität erweiterte Kenntnisse voraussetzt.
@@ -1318,11 +1283,11 @@ kleiner Programme (Funktionen für Berechnungen) für die Datenvorverarbeitung
 sowie die Analyseauswertung erforderlich sein kann. Dazu kann eine beliebige   
 **Programmiersprache **(z.B. *R *oder *VBA*) herangezogen werden.
 
-**2.d) Grundlagen der Technischen Applikationen**
+### 2.d) Grundlagen der Technischen Applikationen
 
-**2. Einführung und Erarbeitung der „Technical Applications“**
+## 2. Einführung und Erarbeitung der „Technical Applications“
 
-**Vor- und Nachteile von *R***
+### Vor- und Nachteile von *R*
 
 - ist kostenlos da Open Source  
 - viele Erweiterungen verfügbar  
@@ -1340,16 +1305,16 @@ Github erstellen
 - setzt fortgeschrittene Statistik-Kenntnisse voraus  
 - nur eines unter vielen Statistik-Programmen (im Hinblick auf Bewerbungen)
 
-**2.e) Einführung in verschiedene Anwendungen und deren Darstellung mit   
-Vor- und Nachteilen**
+### 2.e) Einführung in verschiedene Anwendungen und deren Darstellung mit   
+Vor- und Nachteilen
 
-**2. Einführung und Erarbeitung der „Technical Applications“**
+## 2. Einführung und Erarbeitung der „Technical Applications“
 
 Technical Applications & 
 
 Data Analytics
 
-**Einführung und Erarbeitung der „Data **
+## Einführung und Erarbeitung der „Data 
 
 **Management“**
 
@@ -1374,9 +1339,9 @@ Reflektion der Ergebnisse des Data Mining
 **3. Einführung und Erarbeitung des   
 „Data Management“**
 
-**3. Einführung und Erarbeitung des „Data Management“**
+## 3. Einführung und Erarbeitung des „Data Management“
 
-**Definition**
+#### Definition
 
 *Ein **Algorithmus **ist eine formale Handlungsvorschrift zur Lösung von   
 Instanzen einer bestimmten Problemklasse. *1
@@ -1384,9 +1349,9 @@ Instanzen einer bestimmten Problemklasse. *1
 Die Bezeichnung ist abgeleitet aus dem Namen des persischen Gelehrten   
 Muhammad ibn Musa al-Chwarizmi.
 
-**Informelle Beispiele**
+##### Informelle Beispiele
 
-**Formalisierung (Informatik)**
+##### Formalisierung (Informatik)
 
 - Kochrezept
 
@@ -1402,11 +1367,11 @@ Muhammad ibn Musa al-Chwarizmi.
 
 Sauer \[2019\], S. 8
 
-**3.a) Grundlagen der Algorithmen**
+### 3.a) Grundlagen der Algorithmen
 
-**3. Einführung und Erarbeitung des „Data Management“**
+## 3. Einführung und Erarbeitung des „Data Management“
 
-**Definition**
+#### Definition
 
 ***Data Management **befasst sich mit den Themen und Disziplinen   
 deren Ziel es ist, Daten bereitzustellen und zu verwalten.*
@@ -1419,11 +1384,11 @@ weil die Daten auf denen sie basieren, schlecht strukturiert oder gar
 falsch sind. Auswirkungen sind **steigende Prozesskosten **und   
 Umsatzverluste.
 
-**3.b) Data Management Methoden**
+### 3.b) Data Management Methoden
 
-**3. Einführung und Erarbeitung des „Data Management“**
+## 3. Einführung und Erarbeitung des „Data Management“
 
-**Methoden des Data Managements**
+#### Methoden des Data Managements
 
 **Vereinfachen **Sie den Zugriff auf traditionelle und neue Daten.
 Mehr Daten   
@@ -1448,19 +1413,19 @@ mehreren Tabellen in eine sehr breite Tabelle (Analytische Basistabelle, ABT).
 
 **Metadaten freigeben, **über Datenverwaltungs- und Analysedomänen hinweg. 
 
-**3.b) Data Management Methoden**
+### 3.b) Data Management Methoden
 
-**3. Einführung und Erarbeitung des „Data Management“**
+## 3. Einführung und Erarbeitung des „Data Management“
 
-**Strategie des Daten Mangements**
+#### Strategie des Daten Mangements
 
-**3.b) Data Management Methoden**
+### 3.b) Data Management Methoden
 
 Abb. 3.b.1: Datenstrategie
 
-**3. Einführung und Erarbeitung des „Data Management“**
+## 3. Einführung und Erarbeitung des „Data Management“
 
-**Definition**
+#### Definition
 
 ***Data Mining **ist ein analytischer Prozess, der eine   
 möglichst autonome und effiziente   
@@ -1471,25 +1436,25 @@ großen
 Datenbeständen   
 ermöglicht.*
 
-**3.c) Prozesse des Data Mining**
+### 3.c) Prozesse des Data Mining
 
 Abb. 3.c.1: *Ablauf eines Data-Mining-Prozesses*
 
-**3. Einführung und Erarbeitung des „Data Management“**
+## 3. Einführung und Erarbeitung des „Data Management“
 
-**Methoden**
+#### Methoden
 
 Die **Methoden **des Data Minings lassen sich grundsätzlich in die Gruppen   
 **Klassifikation**, **Prognose**, **Segmentierung **und **Abhängigkeits-  
 entdeckung **enteilen.
 
-**3.d) Techniken des Data Mining**
+### 3.d) Techniken des Data Mining
 
 Abb. 3.d.1: Data Mining Aufgabetypen
 
-**3. Einführung und Erarbeitung des „Data Management“**
+## 3. Einführung und Erarbeitung des „Data Management“
 
-**Grundsätzliches**
+#### Grundsätzliches
 
 Die **Visualisierung **von Datenanalyse Ergebnissen reicht in der Regel   
 alleine nicht aus. Bei der vorherigen **Datentransformation **mittels die   
@@ -1501,11 +1466,11 @@ sowie sinnvolle **Zusammenfassungen **berechnet werden. 1
 
 Vgl. Wickham/Garrett \[2017\], o.S. 
 
-**3.e) Visuelle und Maschinelle Verfahren des Data Mining**
+### 3.e) Visuelle und Maschinelle Verfahren des Data Mining
 
-**3. Einführung und Erarbeitung des „Data Management“**
+## 3. Einführung und Erarbeitung des „Data Management“
 
-**Visuelle Verfahren**
+#### Visuelle Verfahren
 
 Unter zur Hilfename von Tools,  
 können **Data Mining Prozesse  **
@@ -1523,11 +1488,11 @@ die einzelnen Prozessschritte
 greifbar und der komplette   
 Analyseprozess dadurch langfristig **nachvollziehbar **und **reproduzierbar**.
 
-**3.e) Visuelle und Maschinelle Verfahren des Data Mining**
+### 3.e) Visuelle und Maschinelle Verfahren des Data Mining
 
 Abb. 3.e.1: Data Mining Tools
 
-**3. Einführung und Erarbeitung des „Data Management“**
+## 3. Einführung und Erarbeitung des „Data Management“
 
 **Maschinelle Verfahren **(Datei *mining.py *auf Ilias)
 
@@ -1549,28 +1514,28 @@ from matplotlib import rcParams
 df = pd.read_csv('./Daten/kc_house_data.csv')  
 print(df.describe())
 
-**3.e) Visuelle und Maschinelle Verfahren des Data Mining**
+### 3.e) Visuelle und Maschinelle Verfahren des Data Mining
 
-**3. Einführung und Erarbeitung des „Data Management“**
+## 3. Einführung und Erarbeitung des „Data Management“
 
-**Die Algorithmen**
+#### Die Algorithmen
 
 Zur Mustererkennung in  
 Daten kommen  
 **Algorithmen **aus  
 der **Statistik**,  
 **Mathematik **und  
-**Informatik  **
+#### Informatik
 zum  
 Einsatz.
 
-**3.f) Einführung und Übersicht der Algorithmen des Data Mining**
+### 3.f) Einführung und Übersicht der Algorithmen des Data Mining
 
 Abb. 3.e.1: Data Mining Algorithmen in der Häufigkeit der Anwendung
 
-**3. Einführung und Erarbeitung des „Data Management“**
+## 3. Einführung und Erarbeitung des „Data Management“
 
-**Anwendungsbeispiele**
+#### Anwendungsbeispiele
 
 - **Customer Relationship Management**
 
@@ -1616,15 +1581,15 @@ Therapievorschläge
 
 Identifizierung von Anomalien
 
-**3.g) Interpretation der
+### 3.g) Interpretation der
 Verschiedenen Algorithmen und Reflektion der   
-Ergebnisse des Data Mining**
+Ergebnisse des Data Mining
 
 Abb. 3.g.1: Abwanderungsvorhersage
 
-**3. Einführung und Erarbeitung des „Data Management“**
+## 3. Einführung und Erarbeitung des „Data Management“
 
-**Data Mining Algorithmen**
+#### Data Mining Algorithmen
 
 - **Lineare Regression**
 
@@ -1656,13 +1621,13 @@ K-Means, DB-Scan, Self Organized Maps, Hierarchisches Clustering
 
 • Apriori Algorithmus, FPgrowth
 
-**3.g) Interpretation der
+### 3.g) Interpretation der
 Verschiedenen Algorithmen und Reflektion der   
-Ergebnisse des Data Mining**
+Ergebnisse des Data Mining
 
-**3. Einführung und Erarbeitung des „Data Management“**
+## 3. Einführung und Erarbeitung des „Data Management“
 
-**Auswahl des passenden Algorithmus**
+#### Auswahl des passenden Algorithmus
 
 - **Klassifikation**
 
@@ -1688,13 +1653,13 @@ Ergebnisse des Data Mining**
 
 • *Warenkorbanalyse */ *Basket Analysis -\> *steigender Absatz
 
-**3.g) Interpretation der
+### 3.g) Interpretation der
 Verschiedenen Algorithmen und Reflektion der   
-Ergebnisse des Data Mining**
+Ergebnisse des Data Mining
 
-**3. Einführung und Erarbeitung des „Data Management“**
+## 3. Einführung und Erarbeitung des „Data Management“
 
-**Text Mining**
+#### Text Mining
 
 Text Mining befasst sich mit der Analyse von Textdokumenten. Texte sind im   
 Gegensatz zu Datenbanken und Web-Seiten unstrukturiert. Texte genügen natürlich   
@@ -1714,11 +1679,11 @@ müssen herausgefiltert und Abkürzungen erkannt werden. 1
 
 1 Cleve, Lämmel \[2020\], S. 69
 
-**3.h) Grundlagen des Web und Text Mining**
+### 3.h) Grundlagen des Web und Text Mining
 
-**3. Einführung und Erarbeitung des „Data Management“**
+## 3. Einführung und Erarbeitung des „Data Management“
 
-**Web Mining**
+#### Web Mining
 
 Anwendungen des **Data Minings**, die das Internet als Datenquelle für die   
 Mustererkennung heranziehen, werden unter dem Themengebiet des Web Minings  
@@ -1739,15 +1704,14 @@ und Interessen der Online-Nutzer zu erhalten. \[…\] 1
 
 1 Cleve, Lämmel \[2020\], S. 70-71
 
-**3.h) Grundlagen des Web und Text Mining**
+### 3.h) Grundlagen des Web und Text Mining
 
 Technical Applications & 
 
 Data Analytics
 
-**Erarbeiten IT-technischer **
+## Erarbeiten IT-technischer Rahmenbedingungen
 
-**Rahmenbedingungen**
 
 - Anleitung / Installation der Open Source Lösung auf   
 den Rechner der Studenten und Konfiguration von   
@@ -1766,7 +1730,7 @@ Rahmenbedingungen**
 der   
 Studenten und Konfiguration von *Microsoft Excel (VBA)***
 
-**Excel Datei mit Makro-Code (VBA) anpassen**
+#### Excel Datei mit Makro-Code (VBA) anpassen
 
 - Entwicklertools aktivieren:
 
@@ -1804,7 +1768,7 @@ Funktionsumfang, Performance und Anwenderfreundlichkeit einen deutlichen Vorspru
 der Konkurrenz erarbeitet.  
 *Notepadd++ *herunterladen unter:[ https://notepad-plus-plus.org/downloads/](https://notepad-plus-plus.org/downloads/)
 
-**MacOS  **
+##### MacOS
 Für das Apple MacOS Betriebssystem kann man sehr gut auf den kostenlosen Editor ***Brackets ***von   
 Adobe zurückgreifen.  
 *Brackets *herunterladen unter: [https://brackets.de.uptodown.com/mac  
@@ -1822,7 +1786,7 @@ Adobe zurückgreifen.
 
 - *Newline *(konvertiert den Zeilenumbruch LF (Mac / Linux) \<--\> CRLF (Windows))
 
-**IpadOS  **
+##### IpadOS
 Für das Apple iPad kann der Editor ***Kodex ***über den Apple App Store installiert werden.
 
 **4. Erarbeiten IT-technischer Rahmenbedingungen  
@@ -1830,13 +1794,13 @@ Für das Apple iPad kann der Editor ***Kodex ***über den Apple App Store instal
 der   
 Studenten und Konfiguration von *Microsoft Excel (VBA)***
 
-**Installation von *R***
+#### Installation von *R*
 
 ***R ***herunterladen
 unter[: https://cran.r-project.org/bin/macosx/ ](https://cran.r-project.org/bin/macosx/)(MacOS) oder   
 [https://cran.r-project.org/bin/windows/base/ ](https://cran.r-project.org/bin/windows/base/)(Windows)
 
-**Inhalte und Anwendungsgebiet  **
+#### Inhalte und Anwendungsgebiet
 In dem Installations-Paket sind alle notwendigen Basisfunktionen enthalten   
 [(*base-package*) siehe https://stat.ethz.ch/R-manual/R-  
 devel/library/base/html/00Index.html. ](https://stat.ethz.ch/R-manual/R-devel/library/base/html/00Index.html)
@@ -1854,11 +1818,11 @@ in Form von Paketen bereitgestellt.
 der   
 Studenten und Konfiguration von *Microsoft Excel (VBA)***
 
-***R *****auf dem *iPad *(oder *iPhone*) installieren  **
+#### *R* auf dem *iPad* (oder *iPhone*) installieren
 Auf dem *iPad *im App Store *TestFlight *installieren. Dann mittels des Links die aktuelle Beta   
 von *iSH-AOK *installieren: <https://testflight.apple.com/join/X1flyiqE>
 
-**Installation von der Systembibliotheken (*iSH Shell*), *R ***
+#### Installation von der Systembibliotheken (*iSH Shell*), *R*
 
 und *R-Paketen  
 iSH-AOK *starten und folgende Befehle in die Eingabeaufforderung tippen:
@@ -1895,7 +1859,7 @@ source("Fragebogen_iPad.R")
 
 \# Test der Installation (in iPadOS *Dateien*-App *iSH-AOK *hinzufügen)
 
-**4. Erarbeiten IT-technischer Rahmenbedingungen**
+## 4. Erarbeiten IT-technischer Rahmenbedingungen
 
 **4.a) Anleitung / Installation der Open Source Lösung auf den Rechner
 der   
@@ -1926,7 +1890,7 @@ Abb. 4.a.1: *R *auf *iPad *mit *Dateien *App im Splitscreen
 der   
 Studenten und Konfiguration von *Microsoft Excel (VBA)***
 
-***R Studio *****und *Xquartz *installieren**
+#### *R Studio* und *Xquartz* installieren
 
 ***RStudio ***herunterladen unter (*R *muss vorher installiert sein):   
 [https://www.rstudio.com/products/rstudio/download/#download ](https://www.rstudio.com/products/rstudio/download/)(Windows /   
@@ -1946,9 +1910,9 @@ Unix die grafische Benutzeroberfläche.
 
 Abb. 4.a.2: *R-Studio*
 
-**4. Erarbeiten IT-technischer Rahmenbedingungen**
+## 4. Erarbeiten IT-technischer Rahmenbedingungen
 
-**4.b) Einführung und Anleitung der Applikation *R***
+### 4.b) Einführung und Anleitung der Applikation *R*
 
 **Erste Schritte mit *R  *
 Grundsätzliches**
@@ -1967,7 +1931,7 @@ Grundsätzliches**
 
 - Text muss in ““ oder  ‘‘ (doppelte oder einfache Anführungszeichen) gesetzt werden
 
-**R Code**
+#### R Code
 
 \# Kommentare / nicht ausführbarer Code werden mit der Raute bzw. hashtag eingeleitet
 
@@ -1991,11 +1955,11 @@ text \<- temperatur
 
 \# Variable einer anderen zuweisen
 
-**4. Erarbeiten IT-technischer Rahmenbedingungen**
+## 4. Erarbeiten IT-technischer Rahmenbedingungen
 
-**4.b) Einführung und Anleitung der Applikation *R***
+### 4.b) Einführung und Anleitung der Applikation *R*
 
-**Einführung in *R***
+#### Einführung in *R*
 
 \# Funktionen ausführen  
 help(c)
@@ -2029,11 +1993,11 @@ ein_mittelwert \<- mean(temperatur, 0, FALSE)
 temperatur \< 8 & temperatur \> -12   # & verknüpft Bedingungen  
 temperatur \< 8 \| temperatur \> 0       # \| oder Statement
 
-**4. Erarbeiten IT-technischer Rahmenbedingungen**
+## 4. Erarbeiten IT-technischer Rahmenbedingungen
 
-**4.b) Einführung und Anleitung der Applikation *R***
+### 4.b) Einführung und Anleitung der Applikation *R*
 
-**Einführung in *R *– Diagramme **(Datei *Diagramme.R *auf Ilias**)**
+#### Einführung in *R* – Diagramme (Datei *Diagramme.R* auf Ilias)
 
 \# Library ourdata laden  
 library(ourdata)
@@ -2056,11 +2020,11 @@ plot(kirche\$Austritte ~ koelsch\$Koelsch)
 \# Ausreißern und ob die Daten verzerrt sind.  
 boxplot(koelsch\$Koelsch)
 
-**4. Erarbeiten IT-technischer Rahmenbedingungen**
+## 4. Erarbeiten IT-technischer Rahmenbedingungen
 
-**4.b) Einführung und Anleitung der Applikation *R***
+### 4.b) Einführung und Anleitung der Applikation *R*
 
-**Einführung in *R *– Diagramme **(Datei *Diagramme.R *auf Ilias**)**
+#### Einführung in *R* – Diagramme (Datei *Diagramme.R* auf Ilias)
 
 \# Dichte-Diagramm, zeigt die Verteilung einer numerischen Variablen   
 \# über ein kontinuierliches Intervall. Peaks eines Dichte-Diagramms   
@@ -2079,11 +2043,11 @@ heatmap(cbind(fragebogen\$alter, fragebogen\$praxis))
 \# und die y-Achse die Werte an, die jedem Punkt der Sequenz entsprechen.  
 plot(1:length(fragebogen\$alter), fragebogen\$alter, type = "l")
 
-**4. Erarbeiten IT-technischer Rahmenbedingungen**
+## 4. Erarbeiten IT-technischer Rahmenbedingungen
 
-**4.b) Einführung und Anleitung der Applikation *R***
+### 4.b) Einführung und Anleitung der Applikation *R*
 
-**Einführung in *R *– Diagramme **(Datei *Diagramme.R *auf Ilias**)**
+#### Einführung in *R* – Diagramme (Datei *Diagramme.R* auf Ilias)
 
 \# Histogramm, gruppiert kontinuierliche Daten in Bereiche und stellt diese Daten als   
 \# Balken dar. Die Höhe jedes Balkens zeigt die Anzahl der Beobachtungen in jedem Bereich an
@@ -2108,11 +2072,11 @@ library("VennDiagram")
 plot.new()  
 draw.single.venn(area = 10)
 
-**4. Erarbeiten IT-technischer Rahmenbedingungen**
+## 4. Erarbeiten IT-technischer Rahmenbedingungen
 
-**4.b) Einführung und Anleitung der Applikation *R***
+### 4.b) Einführung und Anleitung der Applikation *R*
 
-**Einführung in *R *– Diagramme **(Datei *Diagramme.R *auf Ilias**)**
+#### Einführung in *R* – Diagramme (Datei *Diagramme.R* auf Ilias)
 
 \# Kreis- oder Torten-Diagramm, sind zwar weit verbreitet, weisen jedoch einige Nachteile auf:   
 \# a) Unterschiede zwischen den Anteilswerte sind weniger gut erkennbar,   
@@ -2140,7 +2104,7 @@ plotter()
 **4. Erarbeiten IT-technischer Rahmenbedingungen  
 4.b) Einführung und Anleitung der Applikation *R***
 
-**Einführung in *R *– Diagramme **(Datei *Diagramme.R *auf Ilias**)  **
+#### Einführung in *R* – Diagramme (Datei *Diagramme.R* auf Ilias)
 \# Spiderweb-Diagramm, erlaubt die Darstellung numerischer Werte mehrerer Variablen. Im unten dargestellten Beispiel  
 \# sind die mittleren Längen und Breiten der Blütenblätter der Schwertlilie eingezeichnet. Die Spitzen des Polygons geben   
 \# den Wert für die entsprechende Variable an. Radial-Plots können so eine größere Zahl von numerischen Werten  
@@ -2168,9 +2132,9 @@ lwd=1,
 mar=c(4,4,5,5),   
 main="Durchschnittliche Blattlängen")
 
-**4. Erarbeiten IT-technischer Rahmenbedingungen**
+## 4. Erarbeiten IT-technischer Rahmenbedingungen
 
-**4.b) Einführung und Anleitung der Applikation *R***
+### 4.b) Einführung und Anleitung der Applikation *R*
 
 **Fragebogen mit *R *auswerten **(Datei *Fragebogen.R *auf Ilias)  
 getwd()                   
@@ -2201,9 +2165,9 @@ boxplot(d2\$NOTE_MATHE ~ d2\$KOPF, ylab = "Mathe Note", xlab = "Kopfumfang", yli
 \# Skriptdatei (aus R Studio) in R Konsole ausführen  
 source(“Fragebogen.R“)
 
-**4. Erarbeiten IT-technischer Rahmenbedingungen**
+## 4. Erarbeiten IT-technischer Rahmenbedingungen
 
-**4.b) Einführung und Anleitung der Applikation *R***
+### 4.b) Einführung und Anleitung der Applikation *R*
 
 **Pakete
 in *R *installieren **(Datei *Pakete_in_R_installieren.R *auf Ilias)  
@@ -2238,11 +2202,11 @@ dem *iPad *sind die Pakete mittels Installationsskript (*install4R.sh*)
 schon vorinstalliert. Sollten neue hinzugekommen sein, bitte das Update-Skript   
 (*update4R.sh*) ausführen.
 
-**4. Erarbeiten IT-technischer Rahmenbedingungen**
+## 4. Erarbeiten IT-technischer Rahmenbedingungen
 
-**4.c) Datenerfassung sowie das Einlesen der
+### 4.c) Datenerfassung sowie das Einlesen der
 Beispiel-Daten zur ersten   
-Analyse**
+Analyse
 
 **Komplexeres R Skript **(Datei *Komplexeres_R_Skript.R *auf Ilias)
 
@@ -2270,12 +2234,12 @@ print(paste0("Die Frucht Nr.", which(fruit == fruitVec), " ist: ", fruit))
 
 }
 
-**4. Erarbeiten IT-technischer Rahmenbedingungen**
+## 4. Erarbeiten IT-technischer Rahmenbedingungen
 
-**4.c) Datenerfassung sowie das Einlesen der
+### 4.c) Datenerfassung sowie das Einlesen der
 Beispiel-Daten zur ersten   
 Analyse  
-R Skript zum verarbeiten des Dating-Datensatzes **(Datei *Dating.R *auf Ilias)
+R Skript zum verarbeiten des Dating-Datensatzes (Datei *Dating.R *auf Ilias)
 
 \# Analyse des Dating-Datensatzes aus dem R-Paket 'pradadata'  
 \# Die Daten wurden zuvor mittels Excel bereinigt (für die Analyse nicht sinnvolle   
@@ -2296,12 +2260,12 @@ axis(2, at = c(1, 2))     # sind Zwischenwerte auf der Achse irreführend
 abline(lm(Dates\$car ~ Dates\$comm_type))             # Regressionsgerade  
 barplot(table(Dates\$car, Dates\$comm_type))          # Ausgabe Häufigkeit
 
-**4. Erarbeiten IT-technischer Rahmenbedingungen**
+## 4. Erarbeiten IT-technischer Rahmenbedingungen
 
-**4.c) Datenerfassung sowie das Einlesen der
+### 4.c) Datenerfassung sowie das Einlesen der
 Beispiel-Daten zur ersten   
 Analyse  
-R Skript zum verarbeiten des Dating-Datensatzes **(Datei *Dating.R *auf Ilias)
+R Skript zum verarbeiten des Dating-Datensatzes (Datei *Dating.R *auf Ilias)
 
 \# Funktion 'transformer' aus dem 'ourdata' R-Package benutzen, um char-Typen in numierische Typen    
 \# zu konvertieren, z.B. 'female' to '1' und 'male' zu '2' -\> Alternative zur Excel Funktion 'Transform'  
@@ -2323,12 +2287,12 @@ dating\$strawperson \<- trans_data
 plot(dating\$car ~ dating\$comm_type)  
 heatmap(cbind(dating\$car, dating\$comm_type))
 
-**4. Erarbeiten IT-technischer Rahmenbedingungen**
+## 4. Erarbeiten IT-technischer Rahmenbedingungen
 
-**4.c) Datenerfassung sowie das Einlesen der
+### 4.c) Datenerfassung sowie das Einlesen der
 Beispiel-Daten zur ersten   
 Analyse  
-R-Skript zum Verarbeiten des Fragebogen-Datensatzes auf dem iPad  **
+R-Skript zum Verarbeiten des Fragebogen-Datensatzes auf dem iPad  
 (Datei Fragebogen_iPad*.R *auf Ilias)  
 \# Diagrammausgabe auf dem iPad (keine grafische Schnittstelle) in PDF oder PNG Dateien
 
@@ -2359,13 +2323,13 @@ dev.off()
 
 \# PNG Export beenden (notwendig, sonst leere Datei!)
 
-**4. Erarbeiten IT-technischer Rahmenbedingungen**
+## 4. Erarbeiten IT-technischer Rahmenbedingungen
 
-**4.c) Datenerfassung sowie das Einlesen der
+### 4.c) Datenerfassung sowie das Einlesen der
 Beispiel-Daten zur ersten   
-Analyse**
+Analyse
 
-**Einlesen der Datensätze aus den Vorlesungen**
+#### Einlesen der Datensätze aus den Vorlesungen
 
 ***RStudio ***ist eine vollständige **IDE **und man kann ohne zusätzliche Tools   
 Software entwickeln und diese für andere zur Verfügung stellen. 
@@ -2375,7 +2339,7 @@ kann auf *github.com *eingesehen werden (*README.md *für Anleitung lesen):
 
 • Repository *ourdata*: <https://github.com/DrBenjamin/ourdata>
 
-**Installation und Anzeige von Hilfeseiten**
+#### Installation und Anzeige von Hilfeseiten
 
 library(devtools) # Library devtools laden,
 um install_github ausführen zu können  
@@ -2399,7 +2363,7 @@ analyse **von *zwei Datensätzen mit unterschiedlicher Quelle *durchzuführen.
 - Sport (z.B. Fußballdaten, Wettspiel, Drivelänge beim Golf, etc.)  
 - Freizeit (z.B. Netflix & Co, Eiskonsum, Computerspiel, etc.)
 
-**Ablauf  **
+#### Ablauf
 1. 1. Datensatz suchen (z.B. auf Datenportalen wie[ https://stats.oecd.org/](https://stats.oecd.org/))  
 2. 2. Datensatz suchen (z.B. auf Webseiten wie Statista ([https://de.statista.com)  
 ](https://de.statista.com/)3. Daten aufbereiten (Dezimaltrennung, Variablennamen, Spalten bereinigen)  
@@ -2430,7 +2394,7 @@ die passenden Spalten (Land, IMR und HDI) zusammenfügt
 
 Excel Zusammenführung
 
-**Hilfsmittel  **
+#### Hilfsmittel
 - evtl. am verfügbaren VBA Code orientieren  
 - Google Suche (Stichwort „R Funktion xyz“)  
 - Stackoverflow ([https://stackoverflow.com)  
@@ -2440,9 +2404,9 @@ Technical Applications &
 
 Data Analytics
 
-**Methodik**
+### Methodik
 
-**Korrelation Analyse**
+### Korrelation Analyse
 
 - Theoretische Grundlagen der Korrelation Analyse
 
@@ -2452,9 +2416,9 @@ Beispieldaten
 **5. Methodik   
 Korrelation Analyse**
 
-**5. Methodik: Korrelation Analyse**
+## 5. Methodik: Korrelation Analyse
 
-**Korrelationsanalyse**
+### Korrelationsanalyse
 
 Will man einen **Zusammenhang **zwischen **zwei metrischen Variablen   **
 untersuchen, zum Beispiel zwischen dem Alter und dem Gewicht von   
@@ -2473,11 +2437,11 @@ Futter, dickere Kühe*“). Kein Zusammenhang besteht, wenn der Wert nahe
 Der **p-Wert **sagt aus, ob es einen **signifikanten Zusammenhang **gibt.   
 p-Werte kleiner als *0,05 *werden als **statistisch signifikant **bezeichnet.
 
-**5.a) Theoretische Grundlagen der Korrelation Analyse**
+### 5.a) Theoretische Grundlagen der Korrelation Analyse
 
-**5. Methodik: Korrelation Analyse**
+## 5. Methodik: Korrelation Analyse
 
-**5.b) Anwendung der Korrelations-Analyse mit Beispieldaten**
+### 5.b) Anwendung der Korrelations-Analyse mit Beispieldaten
 
 **Korrelationsanalyse in R **(Datei *Korrelationsanalyse.R *auf
 Ilias**)  **
@@ -2503,9 +2467,9 @@ hdi \<- read.csv("HDI.csv")
 str(hdi)  
 print(c(hdi\$hdi, hdi\$country))
 
-**5. Methodik: Korrelation Analyse**
+## 5. Methodik: Korrelation Analyse
 
-**5.b) Anwendung der Korrelations-Analyse mit Beispieldaten**
+### 5.b) Anwendung der Korrelations-Analyse mit Beispieldaten
 
 **Korrelationsanalyse in R **(Datei *Korrelationsanalyse.R *auf
 Ilias**)  **
@@ -2537,9 +2501,9 @@ Technical Applications &
 
 Data Analytics
 
-**Methodik**
+### Methodik
 
-**Linear Regress Analyse**
+### Linear Regress Analyse
 
 - Theoretische Grundlagen der Linear Regression   
 Analyse
@@ -2550,9 +2514,9 @@ Beispieldaten
 **6. Methodik  
 Linear Regress Analyse**
 
-**6. Methodik: Linear Regress Analyse**
+## 6. Methodik: Linear Regress Analyse
 
-**Linear Regression-Analyse**
+### Linear Regression-Analyse
 
 **Lineare Regression **ist eines der nützlichsten Werkzeuge in der Statistik.   
 Regressionsanalyse erlaubt es Zusammenhänge zwischen Parametern zu   
@@ -2563,11 +2527,11 @@ Analysen können aber **Hinweise **in diese Richtung geben. 1
 
 1 Wozabal \[2007\], S. 1
 
-**6.a) Theoretische Grundlagen der Linear Regression-Analyse**
+### 6.a) Theoretische Grundlagen der Linear Regression-Analyse
 
 Abb. 6.a.1: Lineare Regressionsgrade
 
-**6. Methodik: Linear Regress Analyse**
+## 6. Methodik: Linear Regress Analyse
 
 **Linear Regression-Analyse in
 R **(*Lineare_Regressionsanalyse.R *auf Ilias)
@@ -2594,15 +2558,15 @@ plot(df\$HDI, df\$IMR, xlab = "Prädiktor", ylab = "Ergebnis", col = "darkblue",
 Regression")  
 abline(mdl, col = "darkred")
 
-**6.b) Anwendung der Linear Regression-Analyse mit Beispieldaten**
+### 6.b) Anwendung der Linear Regression-Analyse mit Beispieldaten
 
 Technical Applications & 
 
 Data Analytics
 
-**Methodik**
+### Methodik
 
-**Basket Analyse (Association Rules)**
+## Basket Analyse (Association Rules)
 
 - Theoretische Grundlagen der Basket Analyse
 
@@ -2611,9 +2575,9 @@ Data Analytics
 **7. Methodik  
 Basket Analyse (Association Rules)**
 
-**7. Methodik: Basket Analyse (Association Rules)**
+## 7. Methodik: Basket Analyse (Association Rules)
 
-**Basket Analyse**
+### Basket Analyse
 
 Die **Basket Analyse **kann zur Entdeckung von **Assoziationen **und   
 Korrelationen zwischen Elementen in riesigen transaktionalen oder   
@@ -2633,11 +2597,11 @@ führen, indem sie Einzelhändlern helfen, **selektives
 Marketing **zu betreiben   
 und ihren Verkaufsraum zu planen.
 
-**7.a) Theoretische Grundlagen der Basket Analyse**
+### 7.a) Theoretische Grundlagen der Basket Analyse
 
-**7. Methodik: Basket Analyse (Association Rules)**
+## 7. Methodik: Basket Analyse (Association Rules)
 
-**Basket Analyse**
+### Basket Analyse
 
 *Stelle Dir das Universum einfach als eine Menge von Artikeln vor, die im   
 Geschäft erhältlich sind. Jeder Artikel eine boolesche Variable, die das   
@@ -2655,11 +2619,11 @@ bunden oder zusammen
 gekauft werden. Solche   
 Muster werden in Form von **Assoziationsregeln **dargestellt.*
 
-**7.a) Theoretische Grundlagen der Basket Analyse**
+### 7.a) Theoretische Grundlagen der Basket Analyse
 
 Abb. 7.a.1: Sinnbild
 
-**7. Methodik: Basket Analyse (Association Rules)**
+## 7. Methodik: Basket Analyse (Association Rules)
 
 **Basket Analyse in R **(Datei *Basket_Analyse.R *auf Ilias)
 
@@ -2682,9 +2646,9 @@ itemFrequency(Groceries)\[grep("milk", itemLabels(Groceries))\]
 rules \<- apriori(Groceries, parameter = list(supp = 0.001, conf =
 0.8)) 
 
-**7.b) Anwendung der Basket-Analyse mit Beispieldaten**
+### 7.b) Anwendung der Basket-Analyse mit Beispieldaten
 
-**7. Methodik: Basket Analyse (Association Rules)**
+## 7. Methodik: Basket Analyse (Association Rules)
 
 **Basket Analyse in R **(Datei *Basket_Analyse.R *auf Ilias)
 
@@ -2706,15 +2670,15 @@ redundant \<- colSums(subset.matrix, na.rm = T) \>= 1
 \# Diagramm ausgeben   
 plot(rules, method = "graph", engine = "htmlwidget")
 
-**7.b) Anwendung der Basket-Analyse mit Beispieldaten**
+### 7.b) Anwendung der Basket-Analyse mit Beispieldaten
 
 Technical Applications & 
 
 Data Analytics
 
-**Methodik**
+### Methodik
 
-**Cluster Analyse K-Means**
+## Cluster Analyse K-Means
 
 - Theoretische Grundlagen der Cluster Analyse   
 K-Means
@@ -2725,9 +2689,9 @@ Beispieldaten
 **8. Methodik  
 Cluster Analyse K-Means**
 
-**8. Methodik: Cluster Analyse K-Means**
+## 8. Methodik: Cluster Analyse K-Means
 
-**K-Means Analyse**
+### K-Means Analyse
 
 Der **K-Means-Clusteralgorithmus **ist definiert als eine *unüberwachte  *
 **Lernmethode **mit einem iterativen Prozess, bei dem die Datensätze in eine   
@@ -2740,9 +2704,9 @@ nicht überschneidende Cluster oder Untergruppen unterteilt. Er macht die
 Datenpunkte zwischen den Clustern so ähnlich wie möglich und versucht   
 auch, die Cluster so weit wie möglich beizubehalten. 
 
-**8.a) Theoretische Grundlagen der Cluster Analyse K-Means**
+### 8.a) Theoretische Grundlagen der Cluster Analyse K-Means
 
-**8. Methodik: Cluster Analyse K-Means**
+## 8. Methodik: Cluster Analyse K-Means
 
 **K-Means Analyse in R **(Datei *K-Means.R *aud Ilias)
 
@@ -2757,9 +2721,9 @@ mydata \<- scale(USArrests)
 \# K-Means Clustering   
 fviz_nbclust(mydata, kmeans, method = "gap_stat")
 
-**8.b) Anwendung der Cluster-Analyse K-Means mit Beispieldaten**
+### 8.b) Anwendung der Cluster-Analyse K-Means mit Beispieldaten
 
-**8. Methodik: Cluster Analyse K-Means**
+## 8. Methodik: Cluster Analyse K-Means
 
 **K-Means Analyse in R **(Datei *K-Means.R *aud Ilias)
 
@@ -2785,15 +2749,15 @@ pheatmap
 
 (t(mydata), cutree_cols = 4)
 
-**8.b) Anwendung der Cluster-Analyse K-Means mit Beispieldaten**
+### 8.b) Anwendung der Cluster-Analyse K-Means mit Beispieldaten
 
 Technical Applications & 
 
 Data Analytics
 
-**Methodik**
+### Methodik
 
-**Neuronale Netze-Analyse**
+### Neuronale Netze-Analyse
 
 - Theoretische Grundlagen der Neuronale Netze   
 Analyse
@@ -2804,9 +2768,9 @@ Beispieldaten
 **9. Methodik  
 Neuronale Netze-Analyse**
 
-**9. Methodik: Neuronale Netze-Analyse**
+## 9. Methodik: Neuronale Netze-Analyse
 
-**Neuronale Netze-Analyse**
+### Neuronale Netze-Analyse
 
 Ein **neuronales Netz **ist eine informationsverarbeitende Maschine und kann   
 als Analogon zum **menschlichen Nervensystem **betrachtet werden.   
@@ -2821,9 +2785,9 @@ mit **Nichtlinearität **umzugehen. Neuronale Netze sind nützlich, um aus
 komplexen Datensätzen eine Bedeutung abzuleiten und Muster zu   
 erkennen.
 
-**9.a) Theoretische Grundlagen der Neuronale Netze-Analyse**
+### 9.a) Theoretische Grundlagen der Neuronale Netze-Analyse
 
-**9. Methodik: Neuronale Netze-Analyse**
+## 9. Methodik: Neuronale Netze-Analyse
 
 **Neuronale Netze-Analyse in R **(Datei *Neuronale_Netze.R *auf Ilias)  
 \# Bibliothek 'neuralnet' laden   
@@ -2845,9 +2809,9 @@ max \<- apply(data , 2 , max)
 min \<- apply(data, 2 , min)   
 scaled \<- as.data.frame(scale(data, center = min, scale = max - min))
 
-**9.b) Anwendung der Neuronale Netze-Analyse mit Beispieldaten**
+### 9.b) Anwendung der Neuronale Netze-Analyse mit Beispieldaten
 
-**9. Methodik: Neuronale Netze-Analyse**
+## 9. Methodik: Neuronale Netze-Analyse
 
 **Neuronale Netze-Analyse in R **(Datei *Neuronale_Netze.R *auf Ilias)  
 \## Neuronales Netz anpassen - Erstelle Trainings- und Testdaten-Set   
@@ -2872,7 +2836,7 @@ plot(datatest\$rating, predict_testNN, col='blue', pch=16, ylab = "predicted rat
 = "real rating")   
 abline(0,1)
 
-**9.b) Anwendung der Neuronale Netze-Analyse mit Beispieldaten**
+### 9.b) Anwendung der Neuronale Netze-Analyse mit Beispieldaten
 
 Alle **Methodiken **sind mit Code und 
 
@@ -2880,15 +2844,14 @@ visueller Ausgabe verfügbar auf:
 
 [**www.benbox.org/R/ourdata.html**](http://www.benbox.org/R/ourdata.html)
 
-**Methodiken im Netz**
+### Methodiken im Netz
 
 Technical Applications & 
 
 Data Analytics
 
-**Praktische Anwendung mit eigenen Daten / **
+## Praktische Anwendung mit eigenen Daten / Ethik der Datenanalyse
 
-**Ethik der Datenanalyse**
 
 - Auf Basis eigener Daten eine Analyse entwickeln   
 und die Anwendbarkeit prüfen
@@ -2903,9 +2866,9 @@ diskutieren
 **10. Praktische Anwendung mit eigenen   
 Daten / Ethik der Datenanalyse**
 
-**10. Praktische Anwendung mit eigenen Daten / Ethik der Datenanalyse**
+## 10. Praktische Anwendung mit eigenen Daten / Ethik der Datenanalyse
 
-**Hausarbeit und Präsentation**
+### Hausarbeit und Präsentation
 
 Auf den folgenden Seiten ist die zu erbringende schriftliche Leistung /   
 **Hausarbeit **sowie die mündliche Leistung / **Präsentation **beschrieben.   
@@ -2920,8 +2883,8 @@ wissenschaftlichen Arbeit genügen und muss als **Struktur **z.B. enthalten:
 
 - Anhang
 
-**10.a) Auf Basis eigener Daten eine Analyse entwickeln und die Anwendbarkeit   
-prüfen**
+### 10.a) Auf Basis eigener Daten eine Analyse entwickeln und die Anwendbarkeit   
+prüfen
 
 **Hausarbeit: „Die Datensammlung“  
 oder auch: **
@@ -2952,14 +2915,14 @@ den Sozialen
 Medien / Internet   
 gesammelt?
 
-**10. Praktische Anwendung mit eigenen Daten / Ethik der Datenanalyse**
+## 10. Praktische Anwendung mit eigenen Daten / Ethik der Datenanalyse
 
-**Beispiele**
+### Beispiele
 
-**10.a) Auf Basis eigener Daten eine Analyse entwickeln und die   
-Anwendbarkeit prüfen**
+### 10.a) Auf Basis eigener Daten eine Analyse entwickeln und die   
+Anwendbarkeit prüfen
 
-**Auswahl:**
+### Auswahl:
 
 - *Entweder ***eigene
 Daten erheben **(evtl. die Excel aus dem Unterricht 
@@ -2980,7 +2943,7 @@ und diese kombinieren (mehrere Datensätze vereinen)
 Apple, MS etc.) im Hinblick auf den Umfang bzw. Kategorien (siehe Grafik   
 *Datensammler *auf Ilias)
 
-**Ablauf (**zu den ersten beiden Verfahren)**:  **
+#### Ablauf (zu den ersten beiden Verfahren):
 - Daten generieren / Auffinden von Daten
 
 - Statistische Auswertung in *R / R Studio *(Beispiel R-Skripte zur 
@@ -2993,9 +2956,9 @@ Apple, MS etc.) im Hinblick auf den Umfang bzw. Kategorien (siehe Grafik
 10.a) Auf Basis eigener Daten eine Analyse entwickeln und die   
 Anwendbarkeit prüfen**
 
-**10. Praktische Anwendung mit eigenen Daten / Ethik der Datenanalyse**
+## 10. Praktische Anwendung mit eigenen Daten / Ethik der Datenanalyse
 
-**Prüfungsleistung**
+### Prüfungsleistung
 
 - Hausarbeit in Form einer **wissenschaftlich verfassten Arbeit**
 
@@ -3015,12 +2978,12 @@ Min.)
 
 vorführen am **17.12.2021 **-\> per Mail am Ende der Vorlesung an mich
 
-**10.b) Die Ergebnisse als kurze Präsentationen darstellen und eine   
-Hausarbeit erstellen**
+### 10.b) Die Ergebnisse als kurze Präsentationen darstellen und eine   
+Hausarbeit erstellen
 
-**10. Praktische Anwendung mit eigenen Daten / Ethik der Datenanalyse**
+## 10. Praktische Anwendung mit eigenen Daten / Ethik der Datenanalyse
 
-**Gliederung der wissenschaftlichen Arbeit (Vorschlag):**
+### Gliederung der wissenschaftlichen Arbeit (Vorschlag):
 
 - **Inhaltverzeichnis**
 
@@ -3054,11 +3017,11 @@ Hausarbeit erstellen**
 - eigenen R-Code / Excel- und VBA-Code  
 - Datenkonvertierungen und -bereinigungen (vorher / nachher)
 
-**10.b) Die Ergebnisse als kurze Präsentationen darstellen und eine Hausarbeit erstellen**
+### 10.b) Die Ergebnisse als kurze Präsentationen darstellen und eine Hausarbeit erstellen
 
-**10. Praktische Anwendung mit eigenen Daten / Ethik der Datenanalyse**
+## 10. Praktische Anwendung mit eigenen Daten / Ethik der Datenanalyse
 
-**Gliederung der Präsentation (Vorschlag):**
+### Gliederung der Präsentation (Vorschlag):
 
 - **Einleitung**
 
@@ -3079,12 +3042,12 @@ Hausarbeit erstellen**
 
 - Datenschutz der Datenanalyse beurteilen
 
-**10.b) Die Ergebnisse als kurze Präsentationen darstellen und eine   
-Hausarbeit erstellen**
+### 10.b) Die Ergebnisse als kurze Präsentationen darstellen und eine   
+Hausarbeit erstellen
 
-**10. Praktische Anwendung mit eigenen Daten / Ethik der Datenanalyse**
+## 10. Praktische Anwendung mit eigenen Daten / Ethik der Datenanalyse
 
-**Gruppenarbeit**
+### Gruppenarbeit
 
 Die Aspekte von Datenerhebungen und der Verwendung von Daten im   
 Hinblick auf **Datenschutz **und **Sicherheit **werden gemeinsam in der   
@@ -3092,14 +3055,14 @@ Vorlesung erörtert, um eine **Sensibilisierung **für das Thema zu erreichen.
 
 Auch die Rolle von sogenannten **Whistleblowern **soll erwähnt werden.
 
-**Fragen  **
+#### Fragen
 - Welche Arten von Daten gibt es?
 
 - Welche davon sind besonders schützenswert?  
 - Welche Sicherheitsmechanismen benötigen sensible Daten?
 
-**10.c) Moralische und ethische Aspekte betrachten sowie den Datenschutz   
-der Datenanalyse beurteilen und diskutieren**
+### 10.c) Moralische und ethische Aspekte betrachten sowie den Datenschutz   
+der Datenanalyse beurteilen und diskutieren
 
 https://www.linkedin.  
 com/in/ptgross/
@@ -3108,9 +3071,9 @@ Technical Applications &
 
 Data Analytics
 
-**Literaturverzeichnis**
+## Literaturverzeichnis
 
-**11. Literaturverzeichnis**
+## 11. Literaturverzeichnis
 
 Cleve, J/Lämmel, U. \[2020\]  
 *Data Mining*, 3. Auflage, Berlin/Boston 2020
@@ -3138,16 +3101,16 @@ Technical Applications &
 
 Data Analytics
 
-**Anhang**
+## Anhang
 
-**Technical Applications & Data Analytics**
+## Technical Applications & Data Analytics
 
-**R-Package ourdata  **
+### R-Package ourdata
 Das **R-Paket **ourdata ist im Rahmen der Vorlesungen in den Studiengängen **Audiovisuelle Medien & Online Publishing **und **Game   
 Design & Management **entstanden. Es enthält einen Großteil der zu Übungszwecken verwendeten **Datensätze**, sowie einige selbst-  
 programmierte **Funktionen **mit den sich diese Daten manipulieren bzw. **Diagramme **ausgeben lassen.
 
-**Daten data**
+### Daten data
 
 Das R-Paket ourdata enthält folgende **Daten**:
 
@@ -3198,7 +3161,7 @@ Konsum von **Kölsch **von *2017 *bis *2020*.
 Mit der **Funktion **help() kannst Du Dir **Hilfeseiten **zu allen *Datensätzen *anzeigen lassen. Z.B. help(fragebogen) erklärt den Inhalt   
 des Datenpaketes fragebogen.
 
-**Funktionen functions**
+### Funktionen functions
 
 Das R-Paket ourdata enthält folgende **Funktionen**:
 
@@ -3249,7 +3212,7 @@ translate(x, target_lang)
 Mit der **Funktion **help() kannst Du Dir **Hilfeseiten **zu allen *Funktionen *anzeigen lassen. Z.B. help(plotter) erklärt die   
 Funktonsweise von der Funktion plotter().
 
-**GM_bac & AVM_bac 5.Sem.  **
+### GM_bac **GM_bac & AVM_bac 5.Sem.  ** AVM_bac 5.Sem.
 In den Kursen **GM_bac5 **und **AVM_bac5 **im Fach **Technical Applications & Data Analytics **haben wir viele Themen der   
 **Datenanalyse **betrachtet und uns einige **technische Applikationen **genauer angeschaut. Der Schwerpunkt lag auf **R**, einer *Statistik-*
 
