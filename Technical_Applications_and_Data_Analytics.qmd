@@ -8,8 +8,6 @@ author:
       - Hochschule Fresenius - University of Applied Sciences
       - "Email: benjamin.gross@ext-hs.fresenius.de"
       - "Website: https://drbenjamin.github.io"
-filters:
-  - scripts/adjustTime.lua
 abstract: |
     Dieses Dokument enthält das Kursmaterial für die Veranstaltung Technical Applications & Data Analytics im Bachelorstudiengang Game Design & Management. Es behandelt grundlegende Konzepte der Datenanalyse und -verarbeitung, technische Applikationen wie Microsoft Excel (VBA) und R, verschiedene Datenquellen und deren Zusammenhänge, Speicherung von Daten in Datenbanken und Data Warehouses, sowie wichtige Data Mining Methoden einschließlich Korrelationsanalyse, lineare Regressionsanalyse, Basket-Analyse, Cluster-Analyse K-Means und neuronale Netze. Darüber hinaus werden ethische Aspekte der Datenanalyse und Datenschutzfragen diskutiert.
 format:
@@ -50,7 +48,6 @@ format:
     lot: false
 link-citations: true
 csl: "./literature/apa.csl"
-bibliography: ["./literature/essential_readings.bib", "./literature/further_readings.bib"]
 suppress-bibliography: true
 execute:
   enabled: true
@@ -58,7 +55,7 @@ execute:
 lang: de
 ---
 
-**Technical Applications & Data Analytics**
+# Technical Applications & Data Analytics
 
 **WS 2021 – B. Groß**
 
@@ -78,7 +75,7 @@ lang: de
 
 Technical Applications & 
 
-Data Analytics
+## Data Analytics
 
 **Lernziele**
 
@@ -157,8 +154,6 @@ Means, Neuronale Analyse
 **Data **
 
 **Analytics**
-
-&
 
 **11. Literaturverzeichnis**
 
@@ -3106,74 +3101,8 @@ Auch die Rolle von sogenannten **Whistleblowern **soll erwähnt werden.
 **10.c) Moralische und ethische Aspekte betrachten sowie den Datenschutz   
 der Datenanalyse beurteilen und diskutieren**
 
-**Mein Schwerpunkt ist **
-
-**eHealth und Data Science.**
-
-**Als Physiotherapeut habe **
-
-**ich viele Klinische **
-
-**Beobachtungen angestellt **
-
-**und häufig Studien zur   
-Entscheidungsfindung **
-
-**hinzugezogen.**
-
-**Neben Gesundheits- und IT-**
-
-**Themen interessiert mich **
-
-**Psychologie, Soziologie **
-
-**und ich bin in **
-
-**Männergruppen engagiert.**
-
-**Ausgleich zum Job finde **
-
-**ich in vielen Sportarten **
-
-**(Golf, Laufen, **
-
-**Snowboarden, Rennrad)**
-
-**Einen Eindruck von meinem **
-
-**Prototyp für das Apple iPad **
-
-**könnt ihr auf meiner **
-
-**dazugehörigen Webseite**
-
-[**www.benbox.org**](http://www.benbox.org/)
-
-**gewinnen.**
-
-**Webseite**
-
-[**benjamin.groß@**](http://ext-hs.fresenius.de)
-
-[**ext-hs.fresenius.de**](http://ext-hs.fresenius.de)
-
-**oder**
-
-[**ben@benbox.org**](mailto:ben@benbox.org)
-
-**Mail**
-
-**Kontakt**
-
-https://www.xing.co  
-m/profile/Benjamin\_  
-Gross8/
-
 https://www.linkedin.  
 com/in/ptgross/
-
-https://www.instagra  
-m.com/benboxorg/
 
 Technical Applications & 
 
