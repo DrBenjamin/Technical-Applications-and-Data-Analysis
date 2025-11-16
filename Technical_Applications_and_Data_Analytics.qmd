@@ -70,41 +70,27 @@ WS 2021 – B. Groß
 *oder auch: Wie erreiche ich in Zukunft die „Daten-Weltherrschaft“?!*
 
 -   Datenarten verarbeiten, erstellen und analysieren
-
--   Vor- und Nachteile von Methoden und Applikationen\
-    einschätzen können
-
--   verschiedene Applikation beurteilen und einordnen\
-    können
-
+-   Vor- und Nachteile von Methoden und Applikationen einschätzen können
+-   verschiedene Applikation beurteilen und einordnen können
 -   Open Source Applikationen bedienen können
-
--   theoretische Analyse der Algorithmen und Interpretation\
-    der Ergebnisse
+-   theoretische Analyse der Algorithmen und Interpretation der Ergebnisse
 
 ### Gegenwartsbezug
 
 *oder auch: Was hat das mit mir und meiner Zukunft zu tun?!*
 
--   Für die Wirtschaft bestehst Du mittlerweile fast\
-    ausschließlich aus einer Flut an Daten
-
+-   Für die Wirtschaft bestehst Du mittlerweile fast ausschließlich aus einer Flut an Daten
 -   Ethik vs. Wirtschaft
-
 -   Vorteile der Technik nutzen (z.B. Medizin)
-
--   Was kann ein datenschutzkonformer Ansatz Gutes\
-    bewirken?
-
--   Die Datenverarbeitung wird immer automatisierter, neue\
-    Jobs werden geschaffen
+-   Was kann ein datenschutzkonformer Ansatz Gutes bewirken?
+-   Die Datenverarbeitung wird immer automatisierter, neue Jobs werden geschaffen
 
 ### Der "Fragebogen"
 
 *oder auch: Was sind heute die wirklich wichtigen Fragen?!*
 
-Als Excel-Makro Code-Beispiel (VBA) auf Ilias verfügbar! *Die\
-Excel-Makro-Datei (xlsm) wird regelmäßig aktualisiert, da sie sich in der\
+Als Excel-Makro Code-Beispiel (VBA) auf Ilias verfügbar! *Die
+Excel-Makro-Datei (xlsm) wird regelmäßig aktualisiert, da sie sich in der
 Entwicklung befindet – daher regelmäßig den aktuellen Stand downloaden!*
 
 **Der „Fragebogen“** oder auch: Was sind heute die wirklich wichtigen Fragen?!
@@ -117,32 +103,26 @@ Abb.: Microsoft Excel „Fragebogen“
 
 ### Grundbegriffe des Technical Applications & Data Management
 
--   Geschichte der Datenanalyse und\
-    Datenverarbeitung (incl. Hardware)
+-   Geschichte der Datenanalyse und Datenverarbeitung (incl. Hardware)
 -   Bedeutung von Daten und deren Digitalisierung
--   Ziele der Datenanalyse und Stand der Technik der\
-    Datenanalyse
+-   Ziele der Datenanalyse und Stand der Technik der Datenanalyse
 -   Einführung in die Begriffe BI, Reporting und Big Data
 
-**Definition Statistik:** Wissenschaft von Sammlung, Analyse und Interpretation und Kommunikation\
-von Daten mithilfe mathematischer Verfahren zur Entscheidungsfindung.1
+**Definition Statistik:** Wissenschaft von Sammlung, Analyse und Interpretation und Kommunikation
+von Daten mithilfe mathematischer Verfahren zur Entscheidungsfindung.
 
-**Definition Datenanalyse:** Der Prozess des Erhebens von Daten, ihrer Auswertung und Interpretation.2
+**Definition Datenanalyse:** Der Prozess des Erhebens von Daten, ihrer Auswertung und Interpretation.
 
-**Definition Datenverarbeitung:** Der Prozess des Datensammelns und deren Umwandlung in nützliche\
-Informationen. Es werden mit angemessenen Techniken (ohne die gewünschten\
-Daten zu beeinträchtigen) Rohdaten in ein besser lesbares Format (Graphen,\
-Dokumente etc.) umwandelt. Die Daten erhalten so die nötige Form und den\
-erforderlichen Kontext, damit sie von Computern interpretiert und von\
+**Definition Datenverarbeitung:** Der Prozess des Datensammelns und deren Umwandlung in nützliche
+Informationen. Es werden mit angemessenen Techniken (ohne die gewünschten
+Daten zu beeinträchtigen) Rohdaten in ein besser lesbares Format (Graphen,
+Dokumente etc.) umwandelt. Die Daten erhalten so die nötige Form und den
+erforderlichen Kontext, damit sie von Computern interpretiert und von
 Mitarbeitern in der gesamten Organisation genutzt werden können.
-
-1 Romeijn \[2016\], o. S.\
-2 Tukey \[1962\], o. S.
 
 #### 1.a) Geschichte der Datenanalyse und Datenverarbeitung (incl. Hardware)
 
--   1934 – 1941: ZUSE Z1, Z2 und Z3 von Konrad Zuse in Relaistechnik\
-    (elektromagnetischer Schalter)
+-   1934 – 1941: ZUSE Z1, Z2 und Z3 von Konrad Zuse in Relaistechnik (elektromagnetischer Schalter)
 -   1945: Idee des Programms (Arbeitsanweisung für den Computer) von John von Neumann
 -   1954: Entwicklung der ersten Programmiersprache FORTRAN (Formula Translation; eine Mischung aus wenigen englischen Wörtern, mathematischen Symbolen & Gestaltungsvorschriften)
 -   1980: Entwicklung von Mikroprozessoren auf Siliziumbasis
@@ -161,7 +141,7 @@ Mitarbeitern in der gesamten Organisation genutzt werden können.
 -   Generation 2 (1955 - 1965)
 -   Transistoren mit Stapelverarbeitung
 -   Generation 3 (1965 - 1980)
--   integrierte Schaltungen (IC), IBM System/360 -\>
+-   integrierte Schaltungen (IC), IBM System/360
 -   Generation 4 (1980 - 1990)
 -   Personal Computer (PC), IBM PC Modell 5150
 -   Generation 5 (1990 - ?)
@@ -175,11 +155,10 @@ Mitarbeitern in der gesamten Organisation genutzt werden können.
 -   **MS-DOS (1981)**
 -   **Windows (1985)**
 -   **Linux (1991)**
--   Distributionen\
-    (https://en.wikipedia.org/wiki/List_of_Linux_distributions)
--   Debian (1993)\
--   Red Hat Linux (1994)\
--   Ubuntu (2004)
+    -   Distributionen (https://en.wikipedia.org/wiki/List_of_Linux_distributions)
+        -   Debian (1993)
+        -   Red Hat Linux (1994)
+        -   Ubuntu (2004)
 -   **MacOS (2001)**
 
 ![Abb. 1.a.2: Betriebssystem Unix Timeline](topics/Introduction/unix_timeline.png)
@@ -492,15 +471,11 @@ Excel ist in Version 1.0 erstmals 1985 für Macintosh erschienen. Im November
 
 Daten bestehen somit aus **Merkmalen** (Variablen). Hinzu kommen **Beobachtungseinheiten** (Fälle, Beobachtungen). Eine **Tabelle** mit ihren rechtwinkligen Achsen der Zeilen und Spalten hält im Kopf die **Variablennamen** und in den einzelnen Zeilen, die jeweils dem Merkmal zugordneten **Objekte**.
 
-### 2.a) Einführung in die technische Datenerfassung
-
 **Merkmal 1** | **Merkmal 2** | **Merkmal 3**
 Objekt 1 M1 | Objekt 1 M2 | Objekt 1 M3
 Objekt 2 M1 | Objekt 2 M2 | Objekt 2 M3
 Objekt 3 M1 | Objekt 3 M2 | Objekt 3 M3
 *Abb. 2.a.3: Tabelle als Datensatz*
-
-## 2. Einführung und Erarbeitung der „Technical Applications“
 
 #### Verschiedene Quellen von Daten und deren Zusammenhänge
 
@@ -535,8 +510,6 @@ technischen Applikationen lesbar.
 
 ### 2.c) Speicherung der Daten, Datenbanken, Datawarehouses
 
-## 2. Einführung und Erarbeitung der „Technical Applications“
-
 #### Data Warehouse
 
 Ein **Data Warehouse** ist eine Art **Datenmanagementsystem**, mit dem BI-
@@ -556,10 +529,6 @@ unschätzbarem Wert sein kann. Aufgrund dieser Funktionen kann ein Data
 Warehouse als die „*einzige Quelle wahrer Daten*“ eines Unternehmens
 betrachtet werden.
 
-### 2.c) Speicherung der Daten, Datenbanken, Datawarehouses
-
-## 2. Einführung und Erarbeitung der „Technical Applications“
-
 #### Speicherung von Daten in Computerspielen
 
 Eine Datenbank ist ein elektronisches Verwaltungssystem, das besonders mit
@@ -574,13 +543,7 @@ in Warenwirtschaftssystemen (abgekürzt WWS oder WaWi) verwendet oder auch zur V
 Sozial- und Gesundheitsdaten (Sozialversicherungsträger, Sozialhilfeträger,
 Versorgungsbehörden, Haus- und Fachärzte).
 
-### 2.c) Speicherung der Daten, Datenbanken, Datawarehouses
-
 ![Abb. 2.c.1: Datenbanksysteme](topics/Technical%20Applications/datenbank.jpg)
-
-## 2. Einführung und Erarbeitung der „Technical Applications“
-
-#### Speicherung von Daten in Computerspielen
 
 Spiele verwalten eine Menge Daten. Zum einen die Werte und Eigenschaften
 von In-Game Gegenständen, sowie die erhobenen Daten von Spieler-
@@ -591,11 +554,7 @@ müssen diese Daten effizient und konsistent gespeichert werden.
 Hierzu eigenen sich **Datenbanksysteme** um große Datenmengen zu
 speichern.
 
-### 2.c) Speicherung der Daten, Datenbanken, Datawarehouses
-
-Abb. 2.c.2: *Microsoft SQL Studio*
-
-## 2. Einführung und Erarbeitung der „Technical Applications“
+![Abb. 2.c.2: *Microsoft SQL Studio*](topics/Technical%20Applications/mssqlstudio.jpg)
 
 #### Structured Query Language – SQL
 
@@ -613,73 +572,53 @@ Datenbank-Definition- und Manipulationssprache:
 - Data Manipulation Language (DML)
 - Data Control Language (DCL)
 
-### 2.c) Speicherung der Daten, Datenbanken, Datawarehouses
-
-## 2. Einführung und Erarbeitung der „Technical Applications“
-
 #### Data Definition Language
 
-Erstellen einer Tabelle
-
+```sql
+# Erstellen einer Tabelle
 CREATE TABLE loot_table(
-
 id integer PRIMARY KEY,
 name
-
 text,
-
 probability float);
 
-Löschen einer Tabelle
+# Löschen einer Tabelle
 - DROP TABLE
 
-Editieren der Tabellenstruktur
+# Editieren der Tabellenstruktur
 - ALTER TABLE
-
-### 2.c) Speicherung der Daten, Datenbanken, Datawarehouses
-
-## 2. Einführung und Erarbeitung der „Technical Applications“
+```
 
 #### Data Manipulation Language
 
-Daten in Tabelle einfügen
-
+```sql
+# Daten in Tabelle einfügen
 INSERT INTO loot_table(1, ’Stuff you don’t need’, 0.999);
 INSERT INTO loot_table(2, ’Stuff you need’, 0.0001);
 INSERT INTO loot_table(3, ’Stuff you might need’, 0.0099);
 
-Daten in Tabelle verändern
+# Daten in Tabelle verändern
+UPDATE loot_table SET probability = 0 WHERE id <> 1
 
-UPDATE loot_table SET probability = 0 WHERE id \<\> 1
+# Daten in Tabelle löschen
+DELETE FROM loot_table WHERE probability < 0.1
 
-Daten in Tabelle löschen
-
-DELETE FROM loot_table WHERE probability \< 0.1
-
-Daten der Tabelle ausgeben
-
+# Daten der Tabelle ausgeben
 SELECT \* FROM loot_table
-
-### 2.c) Speicherung der Daten, Datenbanken, Datawarehouses
-
-## 2. Einführung und Erarbeitung der „Technical Applications“
+```
 
 #### Verbund von Daten
 
+```sql
+# Verbund von Daten aus zwei Tabellen
 JOIN
 
 SELECT
-
 l_t.id, l_t.name, price
-
-FROM loot_table l_t\
+FROM loot_table l_t
 LEFT JOIN marketvalue_table mv_t
-
 ON mv_t.name = l_t.name
-
-### 2.c) Speicherung der Daten, Datenbanken, Datawarehouses
-
-## 2. Einführung und Erarbeitung der „Technical Applications“
+```
 
 id | name | price
 -- | -- | --
@@ -689,6 +628,8 @@ id | name | price
 
 #### Mengenoperationen
 
+```sql
+# Mengenoperationen auf Tabellen
 UNION
 SELECT \* loot_table
 UNION ALL
@@ -705,10 +646,7 @@ MINUS
 SELECT \* loot_table
 MINUS (EXCEPT!)
 SELECT id, name, probability WHERE id IN (1, 2)
-
-### 2.c) Speicherung der Daten, Datenbanken, Datawarehouses
-
-## 2. Einführung und Erarbeitung der „Technical Applications“
+```
 
 **Fragen an Lukas der als Gast-Dozent zu einer Vorlesung kam** (er ist
 Softwareentwickler im Gaming-Bereich für Datenbanksysteme)
@@ -723,35 +661,27 @@ Geschwindigkeit, Datensicherheit) hat das jeweilige?
 -   Verwendete Programmiersprache(n) und Entwicklungsumgebungen
 -   Warum kam keine Game-Engine wie z.B. Unity 3D zu Einsatz?
 
-### 2.c) Speicherung der Daten, Datenbanken, Datawarehouses
-
-## 2. Einführung und Erarbeitung der „Technical Applications“
-
 **SQL-Workshop mit Lukas** (Datei *SQL_mit_Lukas.R* auf Ilias)
 
-\# Mit LEFT JOIN zwei Tabellen vereinen, mit UNION Einträge hinzufügen
-\# R Code in **Farbe**, SQL Code in **Farbe** koelsch \<- read.csv("Koelsch.csv")
-kirche \<- read.csv("Kirche.csv")
+```r
+# Mit LEFT JOIN zwei Tabellen vereinen, mit UNION Einträge hinzufügen
+# R Code in **Farbe**, SQL Code in **Farbe** koelsch <- read.csv("Koelsch.csv")
+kirche <- read.csv("Kirche.csv")
 print(koelsch)
 print(kirche)
 
-koelsch_kirche \<- sqldf('
-
-SELECT kirche.Jahr, Koelsch AS "Kölschkonsum", Austritte AS "Kirchenaustritte"
-FROM koelsch
-LEFT JOIN kirche ON kirche.Jahr = koelsch.Jahr
-WHERE kirche.Jahr = 2020
-UNION ALL
-SELECT kirche.Jahr, Koelsch AS "Kölschkonsum", Austritte AS "Kirchenaustritte"
-FROM koelsch
-LEFT JOIN kirche ON kirche.Jahr = koelsch.Jahr
-WHERE kirche.Jahr \<\> 2020
-
+koelsch_kirche <- sqldf('
+    SELECT kirche.Jahr, Koelsch AS "Kölschkonsum", Austritte AS "Kirchenaustritte"
+    FROM koelsch
+    LEFT JOIN kirche ON kirche.Jahr = koelsch.Jahr
+    WHERE kirche.Jahr = 2020
+    UNION ALL
+    SELECT kirche.Jahr, Koelsch AS "Kölschkonsum", Austritte AS "Kirchenaustritte"
+    FROM koelsch
+    LEFT JOIN kirche ON kirche.Jahr = koelsch.Jahr
+    WHERE kirche.Jahr <> 2020
 ')
-
-### 2.c) Grundlagen der Technischen Applikationen
-
-## 2. Einführung und Erarbeitung der „Technical Applications“
+```
 
 #### Grundlagen
 
@@ -774,11 +704,7 @@ kleiner Programme (Funktionen für Berechnungen) für die Datenvorverarbeitung
 sowie die Analyseauswertung erforderlich sein kann. Dazu kann eine beliebige
 **Programmiersprache** (z.B. *R* oder *VBA*) herangezogen werden.
 
-### 2.d) Grundlagen der Technischen Applikationen
-
-## 2. Einführung und Erarbeitung der „Technical Applications“
-
-### Vor- und Nachteile von *R*
+**Vor- und Nachteile von R**
 
 -   ist kostenlos da Open Source
 -   viele Erweiterungen verfügbar
@@ -787,13 +713,10 @@ sowie die Analyseauswertung erforderlich sein kann. Dazu kann eine beliebige
 -   für viele Anwendungszwecke geeignet (z.B. um SQL zu lernen)
 -   für alle Plattformen verfügbar (Windows, Mac, Linux, iPadOS)
 -   viele Konnektoren zu anderen Sprachen (z.B. zu Datenbanken)
--   umfangreicher Funktionsumfang -\> lange Einarbeitung notwendig
+
+-   umfangreicher Funktionsumfang -> lange Einarbeitung notwendig
 -   setzt fortgeschrittene Statistik-Kenntnisse voraus
 -   nur eines unter vielen Statistik-Programmen (im Hinblick auf Bewerbungen)
-
-### 2.e) Einführung in verschiedene Anwendungen und deren Darstellung mit Vor- und Nachteilen
-
-## 2. Einführung und Erarbeitung der „Technical Applications“
 
 ## Einführung und Erarbeitung der „Data Management“
 
@@ -806,11 +729,9 @@ sowie die Analyseauswertung erforderlich sein kann. Dazu kann eine beliebige
 -   Interpretation der Verschiedenen Algorithmen und Reflektion der Ergebnisse des Data Mining
 -   Grundlagen des Web und Text Mining
 
-**3. Einführung und Erarbeitung des „Data Management“**
+### 3.a) Grundlagen der Algorithmen
 
-## 3. Einführung und Erarbeitung des „Data Management“
-
-#### Definition
+#### Definition Algorithmus
 
 *Ein **Algorithmus** ist eine formale Handlungsvorschrift zur Lösung von
 Instanzen einer bestimmten Problemklasse.* 1
@@ -818,9 +739,10 @@ Instanzen einer bestimmten Problemklasse.* 1
 Die Bezeichnung ist abgeleitet aus dem Namen des persischen Gelehrten
 Muhammad ibn Musa al-Chwarizmi.
 
-##### Informelle Beispiele
+#### Informelle Beispiele
 
-##### Formalisierung (Informatik)
+In der Alltagssprache werden oft informelle Beispiele für Algorithmen
+angeführt, z. B.:
 
 -   Kochrezept
 -   Bauanleitung
@@ -828,11 +750,9 @@ Muhammad ibn Musa al-Chwarizmi.
 -   Weg aus dem Labyrynth
 -   Zeichnen eines Kreises
 
-### 3.a) Grundlagen der Algorithmen
+### 3.b) Data Management Methoden
 
-## 3. Einführung und Erarbeitung des „Data Management“
-
-#### Definition
+#### Definition Data Management
 
 ***Data Management** befasst sich mit den Themen und Disziplinen
 deren Ziel es ist, Daten bereitzustellen und zu verwalten.*
@@ -844,10 +764,6 @@ wenn Prozesse ineffizient laufen oder fehlerhafte Ergebnisse liefern,
 weil die Daten auf denen sie basieren, schlecht strukturiert oder gar
 falsch sind. Auswirkungen sind **steigende Prozesskosten** und
 Umsatzverluste.
-
-### 3.b) Data Management Methoden
-
-## 3. Einführung und Erarbeitung des „Data Management“
 
 #### Methoden des Data Managements
 
@@ -870,29 +786,17 @@ mehreren Tabellen in eine sehr breite Tabelle (Analytische Basistabelle, ABT).
 
 **Metadaten freigeben,** über Datenverwaltungs- und Analysedomänen hinweg.
 
-### 3.b) Data Management Methoden
+![Abb. 3.b.1: Datenstrategie](topics/Data%20Management/data-quadrant-daten-management-methode.jpg)
 
-## 3. Einführung und Erarbeitung des „Data Management“
+### 3.c) Prozesse des Data Mining
 
-#### Strategie des Daten Mangements
-
-### 3.b) Data Management Methoden
-
-Abb. 3.b.1: Datenstrategie
-
-## 3. Einführung und Erarbeitung des „Data Management“
-
-#### Definition
+#### Definition Data Mining
 
 ***Data Mining** ist ein analytischer Prozess, der eine
 möglichst autonome und effiziente Identifizierung und Beschreibung von **interessanten
 Datenmustern** aus großen Datenbeständen ermöglicht.*
 
-### 3.c) Prozesse des Data Mining
-
-Abb. 3.c.1: *Ablauf eines Data-Mining-Prozesses*
-
-## 3. Einführung und Erarbeitung des „Data Management“
+![Abb. 3.c.1: *Ablauf eines Data-Mining-Prozesses*](topics/Data%20Management/Phasen_Data_Mining.png)
 
 #### Methoden
 
@@ -902,9 +806,7 @@ entdeckung** enteilen.
 
 ### 3.d) Techniken des Data Mining
 
-Abb. 3.d.1: Data Mining Aufgabetypen
-
-## 3. Einführung und Erarbeitung des „Data Management“
+![Abb. 3.d.1: Data Mining Aufgabetypen](topics/Data%20Management/Gruppen_DataMining.png)
 
 #### Grundsätzliches
 
@@ -912,25 +814,18 @@ Die **Visualisierung** von Datenanalyse Ergebnissen reicht in der Regel alleine 
 
 ### 3.e) Visuelle und Maschinelle Verfahren des Data Mining
 
-## 3. Einführung und Erarbeitung des „Data Management“
-
 #### Visuelle Verfahren
 
 Unter zur Hilfename von Tools,
 können **Data Mining Prozesse** und **Algorithmen** einfach konfiguriert
 und die Ergebnisse zur leichten Verständlichkeit visualisiert werden.
 
-Ein Beispiel ist ***Knime.*** Die
-Datenmanipulation wird visuell
+Ein Beispiel ist ***Knime.*** Die Datenmanipulation wird visuell
 anhand einzelner **Funktionsknoten** dargestellt und kann individuell
 beschriftet werden. Dadurch werden die einzelnen Prozessschritte greifbar und der komplette
 Analyseprozess dadurch langfristig **nachvollziehbar** und **reproduzierbar**.
 
-### 3.e) Visuelle und Maschinelle Verfahren des Data Mining
-
-Abb. 3.e.1: Data Mining Tools
-
-## 3. Einführung und Erarbeitung des „Data Management“
+![Abb. 3.e.1: Data Mining Tools](topics/Data%20Management/Data%20Mining%20Tools.png)
 
 **Maschinelle Verfahren** (Datei *mining.py* auf Ilias)
 
@@ -938,7 +833,8 @@ Mittels **Programmierung** (oder Scripting) ist es möglich
 Datenauswertungen durch die Ausführung von Code zu erstellen. Für die
 Datenanalyse wird am häufigsten die Programmiersprache ***Python*** verwendet.
 
-\## Bibliotheken laden
+```python
+# Bibliotheken laden
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
@@ -946,14 +842,11 @@ import scipy.stats as stats
 import seaborn as sns
 from matplotlib import rcParams
 
-\## Daten sichten
-\# read data from csv file
+# Daten sichten
+# read data from csv file
 df = pd.read_csv('./Daten/kc_house_data.csv')
 print(df.describe())
-
-### 3.e) Visuelle und Maschinelle Verfahren des Data Mining
-
-## 3. Einführung und Erarbeitung des „Data Management“
+```
 
 #### Die Algorithmen
 
@@ -962,9 +855,7 @@ Informatik zum Einsatz.
 
 ### 3.f) Einführung und Übersicht der Algorithmen des Data Mining
 
-Abb. 3.e.1: Data Mining Algorithmen in der Häufigkeit der Anwendung
-
-## 3. Einführung und Erarbeitung des „Data Management“
+![Abb. 3.e.1: Data Mining Algorithmen in der Häufigkeit der Anwendung](topics/Data%20Management/data_mining_algorithm.jpg)
 
 #### Anwendungsbeispiele
 
@@ -986,9 +877,7 @@ Abb. 3.e.1: Data Mining Algorithmen in der Häufigkeit der Anwendung
 Verschiedenen Algorithmen und Reflektion der
 Ergebnisse des Data Mining
 
-Abb. 3.g.1: Abwanderungsvorhersage
-
-## 3. Einführung und Erarbeitung des „Data Management“
+![Abb. 3.g.1: Abwanderungsvorhersage](topics/Data%20Management/Churn_prediction_vorhersage_abwanderung_von_kunden.jpg)
 
 #### Data Mining Algorithmen
 
@@ -1006,32 +895,22 @@ Abb. 3.g.1: Abwanderungsvorhersage
 - **Assoziations Analysen**
     - Apriori Algorithmus, FPgrowth
 
-### 3.g) Interpretation der
-
-Verschiedenen Algorithmen und Reflektion der Ergebnisse des Data Mining
-
-## 3. Einführung und Erarbeitung des „Data Management“
+### 3.g) Interpretation der Verschiedenen Algorithmen und Reflektion der Ergebnisse des Data Mining
 
 #### Auswahl des passenden Algorithmus
 
 -   **Klassifikation**
     - z.B. Kundengewinnung
-        - *Entscheidungsbaum* / *Decision tree -*\> Reaktion von Kunden
+        - *Entscheidungsbaum* / *Decision tree* -> Reaktion von Kunden
 -   **Prognose**
     - z.B. Kundenwert eines Unternehmens (B2B)
-        - *Text Mining (z.B. Webseite)-\>* steigender Wert
+        - *Text Mining (z.B. Webseite)* -> steigender Wert
 - **Gruppierung**
     - z.B. Kundenverhalten
-        - *Cluster Analyse (K-Means) -*\> Reaktion von Kunden
+        - *Cluster Analyse (K-Means) -> Reaktion von Kunden
 - **Assoziation**
     - z.B. Regeln unabhängig vom Kunden (ist evtl. nicht bekannt)
-        - *Warenkorbanalyse* / *Basket Analysis -\>* steigender Absatz
-
-### 3.g) Interpretation der
-
-Verschiedenen Algorithmen und Reflektion der Ergebnisse des Data Mining
-
-## 3. Einführung und Erarbeitung des „Data Management“
+        - *Warenkorbanalyse* / *Basket Analysis* -> steigender Absatz
 
 #### Text Mining
 
@@ -1053,8 +932,6 @@ müssen herausgefiltert und Abkürzungen erkannt werden.
 
 ### 3.h) Grundlagen des Web und Text Mining
 
-## 3. Einführung und Erarbeitung des „Data Management“
-
 #### Web Mining
 
 Anwendungen des **Data Minings**, die das Internet als Datenquelle für die
@@ -1074,16 +951,12 @@ Bei dieser Form des Web Mining werden Data-Mining-Methoden auf die
 Protokolldateien des Webservers angewandt, um Aufschlüsse über Verhaltensmuster
 und Interessen der Online-Nutzer zu erhalten. \[…\]
 
-### 3.h) Grundlagen des Web und Text Mining
+Erarbeiten IT-technischer Rahmenbedingungen:
 
-## Erarbeiten IT-technischer Rahmenbedingungen
-
--   Anleitung / Installation der Open Source Lösung auf\
-    den Rechner der Studenten und Konfiguration von\
-    *Microsoft Excel (VBA)*
+-   Anleitung / Installation der Open Source Lösung auf
+    den Rechner der Studenten und Konfiguration von *Microsoft Excel (VBA)*
 -   Einführung und Anleitung der Applikation *R*
--   Datenerfassung sowie das Einlesen der Beispiel-\
-    Daten zur ersten Analyse
+-   Datenerfassung sowie das Einlesen der Beispieldaten zur ersten Analyse
 
 **4. Erarbeiten IT-technischer Rahmenbedingungen**
 
@@ -1094,14 +967,14 @@ Studenten und Konfiguration von *Microsoft Excel (VBA)***
 #### Excel Datei mit Makro-Code (VBA) anpassen
 
 -   Entwicklertools aktivieren:
--   auf der Registerkarte Datei **zu** Optionen -\> **Menüband anpassen**
+-   auf der Registerkarte Datei **zu** Optionen -> **Menüband anpassen**
 -   **Menüband anpassen** und unter **Hauptregisterkarten** das Kontrollkästchen **Entwicklertools** aktivieren
 -   Erläuterung des Fragebogens
 -   Excel Datenblätter
--   Fragebogen -\> Maske zum erheben der Daten
--   Daten -\> Rohdaten des einzelnen Fragebogens
--   Datenspeicherung –\> Rohdaten aller Fragenbögen -\> Speicherung in CSV-Datei oder XML-Datei möglich
--   VBA Code -\> auf Menüband auf **Entwicklertools** und links auf
+-   Fragebogen -> Maske zum erheben der Daten
+-   Daten -> Rohdaten des einzelnen Fragebogens
+-   Datenspeicherung -> Rohdaten aller Fragenbögen -> Speicherung in CSV-Datei oder XML-Datei möglich
+-   VBA Code -> auf Menüband auf **Entwicklertools** und links auf
 
 **Visual Basic** klicken und die entsprechenden Elemente anpassen
 
@@ -1115,7 +988,7 @@ Funktionsumfang, Performance und Anwenderfreundlichkeit einen deutlichen Vorspru
 der Konkurrenz erarbeitet.
 *Notepadd++* herunterladen unter:<https://notepad-plus-plus.org/downloads/>
 
-##### MacOS
+#### MacOS
 
 Für das Apple MacOS Betriebssystem kann man sehr gut auf den kostenlosen Editor ***Brackets*** von
 Adobe zurückgreifen. *Brackets* herunterladen unter: [https://brackets.de.uptodown.com/mac
@@ -1127,7 +1000,7 @@ Adobe zurückgreifen. *Brackets* herunterladen unter: [https://brackets.de.uptod
 - *Excel to Table* (Excel Tabellen in Brackets einfügen)
 - *Newline* (konvertiert den Zeilenumbruch LF (Mac / Linux) \<--\> CRLF (Windows))
 
-##### IpadOS
+#### iPadOS
 
 Für das Apple iPad kann der Editor ***Kodex*** über den Apple App Store installiert werden.
 
@@ -1163,87 +1036,43 @@ Studenten und Konfiguration von *Microsoft Excel (VBA)***
 Auf dem *iPad* im App Store *TestFlight* installieren. Dann mittels des Links die aktuelle Beta\
 von *iSH-AOK* installieren: <https://testflight.apple.com/join/X1flyiqE>
 
-#### Installation von der Systembibliotheken (*iSH Shell*), *R*
-
-und *R-Paketen iSH-AOK* starten und folgende Befehle in die Eingabeaufforderung tippen:
-
-ish
-
-\# um sich einzuloggen
-
-mkdir R
-
-\# Ordner für R erstellen
-
-cd R
-
-\# in den Ordner wechseln
-
-wget [www.benbox.org/R/installR4.sh](http://www.benbox.org/R/installR4.sh)\# Installations-Skript herunterladen
-
-chmod 777 installR4.sh
-
-\# Installations-Skript ausführbar machen
-
-./installR4.sh
-
-\# Installations-Skript ausführen (ca. 20 Min., App muss im **Fokus** bleiben und der Bildschirm darf nicht ausgehen, sonst bricht die Installation evtl. ab! Tipp – regelmäßig etwas **Scrollen**)
-
-R
-
-\# R starten
-
-source("Fragebogen_iPad.R")
-
-\# Test der Installation (in iPadOS *Dateien*-App *iSH-AOK* hinzufügen)
-
-## 4. Erarbeiten IT-technischer Rahmenbedingungen
+## Erarbeiten IT-technischer Rahmenbedingungen
 
 **4.a) Anleitung / Installation der Open Source Lösung auf den Rechner der
 Studenten und Konfiguration von *Microsoft Excel (VBA)
 R* auf dem *iPad* (oder *iPhone*) nutzen**
 
-Um *R* auf dem *iPad* sinnvoll
-nutzen zu können, kann die
-*Dateien* App in den **Splitscreen** an den Bildschirmrand hinzu-
-gefügt werden.
+Um *R* auf dem *iPad* sinnvoll nutzen zu können, kann die
+*Dateien* App in den **Splitscreen** an den Bildschirmrand hinzugefügt werden.
 
 In der Dateien App muss vorher
 das **Laufwerk** *ish* **aktiviert** werden. Die Ausgabe-Dateien
-liegen unter ish
-/home/ish/R/
+liegen unter ish `/home/ish/R/`
 
 Nach der Ausgabe eines
 Diagrammes zum **Aktualisieren** des Ordnerinhaltes einmal\
 zurück und wieder rein gehen.
 
-Abb. 4.a.1: *R* auf *iPad* mit *Dateien* App im Splitscreen
+![Abb. 4.a.1: *R* auf *iPad* mit *Dateien* App im Splitscreen](topics/Data%20Management/iPad_ish_R.png)
 
-**4. Erarbeiten IT-technischer Rahmenbedingungen
-4.a) Anleitung / Installation der Open Source Lösung auf den Rechner der
-Studenten und Konfiguration von *Microsoft Excel (VBA)***
+### 4.a) Anleitung / Installation der Open Source Lösung auf den Rechner der Studenten und Konfiguration von *Microsoft Excel (VBA)***
 
 #### *R Studio* und *Xquartz* installieren
 
 ***RStudio*** herunterladen unter (*R* muss vorher installiert sein):
 [https://www.rstudio.com/products/rstudio/download/#download](https://www.rstudio.com/products/rstudio/download/)(Windows /
 MacOS)
+
 ***XQuartz*** herunterladen unter:
 [https://www.xquartz.org](https://www.xquartz.org/)(MacOS)
 
-Unter *RStudio* lassen sich
-komplexe Skripte ausführen, das
-Paketmanagement ist vereinfacht
-sowie ist die grafische Ausgabe
-möglich.
-*XQuartz* bietet unter *MacOS* eine
-X.Org (X Window System)
-Version. X.Org ist unter Linux /
+Unter *RStudio* lassen sich komplexe Skripte ausführen, das
+Paketmanagement ist vereinfacht sowie ist die grafische Ausgabe möglich.
+
+*XQuartz* bietet unter *MacOS* eine X.Org (X Window System) Version. X.Org ist unter Linux /
 Unix die grafische Benutzeroberfläche.
 
-Abb. 4.a.2: *R-Studio*
-
-## 4. Erarbeiten IT-technischer Rahmenbedingungen
+![Abb. 4.a.2: *R-Studio*](topics/Rahmenbedingungen/R-Studio.png)
 
 ### 4.b) Einführung und Anleitung der Applikation *R*
 
@@ -1259,186 +1088,162 @@ Abb. 4.a.2: *R-Studio*
 
 #### R Code
 
-\# Kommentare / nicht ausführbarer Code werden mit der Raute bzw. hashtag eingeleitet
+```r
+# Kommentare / nicht ausführbarer Code werden mit der Raute bzw. hashtag eingeleitet
+temperatur <- -10
 
-temperatur \<- -10
-
-\# der Variablen temperatur den Wert -10 zuweisen
-
+# der Variablen temperatur den Wert -10 zuweisen
 print(temperatur)
 
-\# Variable temperatur ausgeben
+# Variable temperatur ausgeben
+text <- "Dies ist ein Text"
 
-text \<- “Dies ist ein Text“
-
-\# Text einer Variablen zuweisen
-
+# Text einer Variablen zuweisen
 print(text)
 
-\# Variable text ausgeben
+# Variable text ausgeben
+print(text)
 
-text \<- temperatur
+# Variable einer anderen zuweisen
 
-\# Variable einer anderen zuweisen
-
-## 4. Erarbeiten IT-technischer Rahmenbedingungen
+text <- temperatur
+```
 
 ### 4.b) Einführung und Anleitung der Applikation *R*
 
 #### Einführung in *R*
 
-\# Funktionen ausführen
+```r
+# Funktionen ausführen
 help(c)
 
-\# Hilfe für Funktion c aufrufen, Alternativ ?c
+# Hilfe für Funktion c aufrufen, Alternativ ?c
+temperatur <- c(18, 22, 23, 24)
+# Funktion c: fasst Werte in einer Liste zusammen
 
-temperatur \<- c(18, 22, 23, 24)
+# ineinander verschachtelte Funktionen
+temperatur <- c(18, 22, as.integer(runif(1, -12, 40)), 24)
 
-\# Funktion c: fasst Werte in einer Liste zusammen
-
-temperatur \<- c(18, 22, as.integer(runif(1, -12, 40)), 24)
-
-\# ineinander verschachtelte Funktionen
-
-ein_mittelwert \<- mean(temperatur)
-
-\# Variable mit dem Mittelwert aus temperatur füllen
+# Variable mit dem Mittelwert aus temperatur füllen
+ein_mittelwert <- mean(temperatur)  
 
 # 2 weitere mögliche Schreibweisen
 ein_mittelwert <- mean(x = temperatur, trim = 0, na.rm = FALSE)
 ein_mittelwert <- mean(temperatur, 0, FALSE)
 
-\# Logische Prüfungen
-2 \< 3 \# Kleiner-Prüfung
-2 \> 3 \# Größer-Prüfung
-2 \<= 3 \# Kleiner-Gleich-Prüfung
-2 \>= 3 \# Größer-Gleich-Prüfung
-2 == 3 \# Prüfung auf Gleichheit
-2 != 3 \# Prüfung auf Ungleichheit
+# Logische Prüfungen
+2 < 3 # Kleiner-Prüfung
+2 > 3 # Größer-Prüfung
+2 <= 3 # Kleiner-Gleich-Prüfung
+2 >= 3 # Größer-Gleich-Prüfung
+2 == 3 # Prüfung auf Gleichheit
+2 != 3 # Prüfung auf Ungleichheit
 
-temperatur \< 8 & temperatur \> -12 \# & verknüpft Bedingungen
-temperatur \< 8 \| temperatur \> 0 \# \| oder Statement
-
-## 4. Erarbeiten IT-technischer Rahmenbedingungen
-
-### 4.b) Einführung und Anleitung der Applikation *R*
+temperatur < 8 & temperatur > -12 # & verknüpft Bedingungen
+temperatur < 8 | temperatur > 0 # | oder Statement
+```
 
 #### Einführung in *R* – Diagramme (Datei *Diagramme.R* auf Ilias)
 
-\# Library ourdata laden
+```r
+# Library ourdata laden
 library(ourdata)
 
-\# Balken-Diagramm, veranschaulicht die Verbindung zwischen einer
-\# numerischen und einer kategorialen Variablen. Das Balkendiagramm
-\# stellt jede Kategorie als Balken dar und spiegelt den entsprechenden
-\# numerischen Wert mit der Größe des Balkens wider.
-barplot(koelsch\$Koelsch)
+# Balken-Diagramm, veranschaulicht die Verbindung zwischen einer
+# numerischen und einer kategorialen Variablen. Das Balkendiagramm
+# stellt jede Kategorie als Balken dar und spiegelt den entsprechenden
+# numerischen Wert mit der Größe des Balkens wider.
+barplot(koelsch$Koelsch)
 
-\# Streu-Diagramm, zeigt zwei numerische Variablen mit Punkten an,
-\# wobei jeder Punkt den Wert einer Variablen auf der x-Achse und den
-\# Wert der anderen Variablen auf der y-Achse darstellt.
-plot(kirche\$Austritte \~ koelsch\$Koelsch)
+# Streu-Diagramm, zeigt zwei numerische Variablen mit Punkten an,
+# wobei jeder Punkt den Wert einer Variablen auf der x-Achse und den
+# Wert der anderen Variablen auf der y-Achse darstellt.
+plot(kirche$Austritte ~ koelsch$Koelsch)
 
-\# Boxplot-Diagramm, zeigt die Verteilung einer numerischen Variablen
-\# basierend auf fünf zusammenfassenden Statistiken: minimaler
-\# Nicht-Ausreißer; erstes Quartil; Median; drittes Quartil; und maximaler
-\# Nicht-Ausreißer. Außerdem zeigen Boxplots die Positionierung von
-\# Ausreißern und ob die Daten verzerrt sind.
-boxplot(koelsch\$Koelsch)
-
-## 4. Erarbeiten IT-technischer Rahmenbedingungen
-
-### 4.b) Einführung und Anleitung der Applikation *R*
+# Boxplot-Diagramm, zeigt die Verteilung einer numerischen Variablen
+# basierend auf fünf zusammenfassenden Statistiken: minimaler
+# Nicht-Ausreißer; erstes Quartil; Median; drittes Quartil; und maximaler
+# Nicht-Ausreißer. Außerdem zeigen Boxplots die Positionierung von
+# Ausreißern und ob die Daten verzerrt sind.
+boxplot(koelsch$Koelsch)
+```
 
 #### Einführung in *R* – Diagramme (Datei *Diagramme.R* auf Ilias)
 
-\# Dichte-Diagramm, zeigt die Verteilung einer numerischen Variablen
-\# über ein kontinuierliches Intervall. Peaks eines Dichte-Diagramms
-\# visualisieren, wo sich die Werte numerischer Variablen konzentrieren.
-plot(density(koelsch\$Koelsch))
+```r
+# Dichte-Diagramm, zeigt die Verteilung einer numerischen Variablen
+# über ein kontinuierliches Intervall. Peaks eines Dichte-Diagramms
+# visualisieren, wo sich die Werte numerischer Variablen konzentrieren.
+plot(density(koelsch$Koelsch))
+# Heatmap-Diagramm, visualisiert einzelne Werte einer Matrix mit Farben.
+# Häufigere Werte werden typischerweise durch hellere rötliche Farben
+# angezeigt und weniger häufige Werte werden typischerweise durch
+# dunklere Farben angezeigt.
+heatmap(cbind(fragebogen$alter, fragebogen$praxis))
 
-\# Heatmap-Diagramm, visualisiert einzelne Werte einer Matrix mit Farben.
-\# Häufigere Werte werden typischerweise durch hellere rötliche Farben
-\# angezeigt und weniger häufige Werte werden typischerweise durch
-\# dunklere Farben angezeigt.
-heatmap(cbind(fragebogen\$alter, fragebogen\$praxis))
-
-\# Linien-Diagramm, visualisiert Werte entlang einer Sequenz
+# Linien-Diagramm, visualisiert Werte entlang einer Sequenz
 (z.B. über die Zeit). Liniendiagramme bestehen aus einer x-Achse
-\# und einer y-Achse. Die x-Achse zeigt normalerweise die Sequenz
-\# und die y-Achse die Werte an, die jedem Punkt der Sequenz entsprechen.
-plot(1:length(fragebogen\$alter), fragebogen\$alter, type = "l")
-
-## 4. Erarbeiten IT-technischer Rahmenbedingungen
-
-### 4.b) Einführung und Anleitung der Applikation *R*
+# und einer y-Achse. Die x-Achse zeigt normalerweise die Sequenz
+# und die y-Achse die Werte an, die jedem Punkt der Sequenz entsprechen.
+plot(1:length(fragebogen$alter), fragebogen$alter, type = "l")
+```
 
 #### Einführung in *R* – Diagramme (Datei *Diagramme.R* auf Ilias)
 
-\# Histogramm, gruppiert kontinuierliche Daten in Bereiche und stellt diese Daten als
-\# Balken dar. Die Höhe jedes Balkens zeigt die Anzahl der Beobachtungen in jedem Bereich an
+```r
+# Histogramm, gruppiert kontinuierliche Daten in Bereiche und stellt diese Daten als
+# Balken dar. Die Höhe jedes Balkens zeigt die Anzahl der Beobachtungen in jedem Bereich an
+hist(fragebogen$alter)
+# Paar-Diagramm, ist eine Diagrammmatrix, die aus Streudiagrammen für jede Variablenkombination
+# eines Datenrahmens besteht.
+pairs(data.frame(fragebogen$kopf, fragebogen$note_mathe))
 
-.
+# Ein QQplot (oder Quantil-Quantil-Diagramm), bestimmt ob zwei Datenquellen aus einer gemeinsamen
+# Verteilung stammen. QQplots ziehen die Quantile der beiden numerischen Datenquellen gegeneinander.
+# Wenn beide Datenquellen aus derselben Verteilung stammen, fallen die Punkte auf einen Winkel von 45°
+qqplot(fragebogen$kopf, fragebogen$note_mathe)
 
-hist(fragebogen\$alter)
-
-\# Paar-Diagramm, ist eine Diagrammmatrix, die aus Streudiagrammen für jede Variablenkombination
-\# eines Datenrahmens besteht.
-pairs(data.frame(fragebogen\$kopf, fragebogen\$note_mathe))
-
-\# Ein QQplot (oder Quantil-Quantil-Diagramm), bestimmt ob zwei Datenquellen aus einer gemeinsamen
-\# Verteilung stammen. QQplots ziehen die Quantile der beiden numerischen Datenquellen gegeneinander.
-\# Wenn beide Datenquellen aus derselben Verteilung stammen, fallen die Punkte auf einen Winkel von 45°
-qqplot(fragebogen\$kopf, fragebogen\$note_mathe)
-
-\# Venn-Diagramm (oder Primärdiagramm; Mengendiagramm; Logikdiagramm), veranschaulicht alle möglichen
-\# logischen Beziehungen zwischen bestimmten Datenmerkmalen. Jedes Merkmal wird als Kreis dargestellt,
-\# wobei überlappende Teile der Kreise Elemente darstellen, die beide Merkmale gleichzeitig aufweisen.
+# Venn-Diagramm (oder Primärdiagramm; Mengendiagramm; Logikdiagramm), veranschaulicht alle möglichen
+# logischen Beziehungen zwischen bestimmten Datenmerkmalen. Jedes Merkmal wird als Kreis dargestellt,
+# wobei überlappende Teile der Kreise Elemente darstellen, die beide Merkmale gleichzeitig aufweisen.
 library("VennDiagram")
 plot.new()
 draw.single.venn(area = 10)
-
-## 4. Erarbeiten IT-technischer Rahmenbedingungen
-
-### 4.b) Einführung und Anleitung der Applikation *R*
+```
 
 #### Einführung in *R* – Diagramme (Datei *Diagramme.R* auf Ilias)
 
-\# Kreis- oder Torten-Diagramm, sind zwar weit verbreitet, weisen jedoch einige Nachteile auf:
-\# a) Unterschiede zwischen den Anteilswerte sind weniger gut erkennbar,
-\# da dazu die Fläche der Kreissegmente verglichen werden muss
-\# b) bei vielen Kategorien wird die Darstellung schnell unübersichtlich
-\# c) sehr kleine Anteilswerte können oftmals nicht im Kreisdiagramm dargestellt werden
-\# Aufgrund dieser Nachteile bietet sich die Verwendung von Kreisdiagramme nur in
-\# selten Fällen an, meist liefern Punkt- oder Balkendiagramme bessere Darstellungen.
-
-pie(table(iris\$Species),
-
-labels=c("Setosa", "Versicolor", "Virginica"),
-col=grey(c(0.1, 0.4, 1)
-
+```r
+# Kreis- oder Torten-Diagramm, sind zwar weit verbreitet, weisen jedoch einige Nachteile auf:
+# a) Unterschiede zwischen den Anteilswerte sind weniger gut erkennbar,
+# da dazu die Fläche der Kreissegmente verglichen werden muss
+# b) bei vielen Kategorien wird die Darstellung schnell unübersichtlich
+# c) sehr kleine Anteilswerte können oftmals nicht im Kreisdiagramm dargestellt werden
+# Aufgrund dieser Nachteile bietet sich die Verwendung von Kreisdiagramme nur in
+# selten Fällen an, meist liefern Punkt- oder Balkendiagramme bessere Darstellungen.
+pie(table(iris$Species),
+    labels=c("Setosa", "Versicolor", "Virginica"),
+    col=grey(c(0.1, 0.4, 1)
+)
 )
 
-)
-
-\# Alle Diagramme sind ganz einfach mittels der Funktion plotter() aus dem
-\# R-Paket ourdata ausführbar. Ohne Angabe von Parametern, wird ein Menü
-\# Nutzereingaben erfragen und anschließend das gewünschte Diagramm ausgeben.
+# Alle Diagramme sind ganz einfach mittels der Funktion plotter() aus dem
+# R-Paket ourdata ausführbar. Ohne Angabe von Parametern, wird ein Menü
+# Nutzereingaben erfragen und anschließend das gewünschte Diagramm ausgeben.
 library(ourdata)
 plotter()
-
-**4. Erarbeiten IT-technischer Rahmenbedingungen
-4.b) Einführung und Anleitung der Applikation *R***
+```
 
 #### Einführung in *R* – Diagramme (Datei *Diagramme.R* auf Ilias)
 
-\# Spiderweb-Diagramm, erlaubt die Darstellung numerischer Werte mehrerer Variablen. Im unten dargestellten Beispiel
-\# sind die mittleren Längen und Breiten der Blütenblätter der Schwertlilie eingezeichnet. Die Spitzen des Polygons geben
-\# den Wert für die entsprechende Variable an. Radial-Plots können so eine größere Zahl von numerischen Werten
-\# übersichtlich darstellen. Durch die charakteristischen Formen, die das durch die Werte gebildete Polygon annimmt,
-\# kann diese Art von Grafik auch zum Vergleich zwischen verschiedenen Subpopulationen oder Variablen dienen.
+```r
+# Spiderweb-Diagramm, erlaubt die Darstellung numerischer Werte mehrerer Variablen. Im unten dargestellten Beispiel
+# sind die mittleren Längen und Breiten der Blütenblätter der Schwertlilie eingezeichnet. Die Spitzen des Polygons geben
+# den Wert für die entsprechende Variable an. Radial-Plots können so eine größere Zahl von numerischen Werten
+# übersichtlich darstellen. Durch die charakteristischen Formen, die das durch die Werte gebildete Polygon annimmt,
+# kann diese Art von Grafik auch zum Vergleich zwischen verschiedenen Subpopulationen oder Variablen dienen.
 library(plotrix)
-mean.iris \<- c(mean(iris\$Sepal.Length), mean(iris\$Sepal.Width), mean(iris\$Petal.Length), mean(iris\$Petal.Width))
+mean.iris <- c(mean(iris$Sepal.Length), mean(iris$Sepal.Width), mean(iris$Petal.Length), mean(iris$Petal.Width))
 radial.plot(lengths=mean.iris,
 
 rp.type="p",
@@ -1458,58 +1263,62 @@ lty="solid",
 lwd=1,
 mar=c(4,4,5,5),
 main="Durchschnittliche Blattlängen")
-
-## 4. Erarbeiten IT-technischer Rahmenbedingungen
-
-### 4.b) Einführung und Anleitung der Applikation *R*
+```
 
 **Fragebogen mit *R* auswerten** (Datei *Fragebogen.R* auf Ilias)
+
+```r
 getwd()
 
-\# aktuelles Arbeitsverzeichnis ausgeben, falls nicht richtig dann:
+# aktuelles Arbeitsverzeichnis ausgeben, falls nicht richtig dann:
 
-setwd("/\<Userordner\>/\<name\>/R") \# Arbeitsverzeichnis, Userordner -\> Mac: „*Users*“ / iPad: „*home*“
+setwd("/<Userordner>/<name>/R") # Arbeitsverzeichnis, Userordner -> Mac: „Users“ / iPad: „home“
 
-\# Daten aus CSV Datei einlesen\
-d \<- read.csv("Fragebogen_Kopfumfang_Fach.csv") \# Variable d Inhalt der CSV Datei zuweisen print(d)
+# Daten aus CSV Datei einlesen\
+d <- read.csv("Fragebogen_Kopfumfang_Fach.csv") # Variable d Inhalt der CSV Datei zuweisen print(d)
 
-\# d ausgeben
+# d ausgeben
 
-summary(d\$praxis) \# Min. / Max., Median und arithmetisches Mittel berechnen \# Diagramme erstellen, dass die (mögliche) Abhängigkeit zweier numerischer Variablen zeigt plot(d\$note_mathe \~ d\$kopf, ylab = "Mathe Note", xlab = "Kopfumfang", ylim = range(1:6)) boxplot(d\$note_mathe \~ d\$kopf, ylab = "Mathe Note", xlab = "Kopfumfang", ylim = range(1:6))
+summary(d$praxis) # Min. / Max., Median und arithmetisches Mittel berechnen # Diagramme erstellen, dass die (mögliche) Abhängigkeit zweier numerischer Variablen zeigt plot(d$note_mathe ~ d$kopf, ylab = "Mathe Note", xlab = "Kopfumfang", ylim = range(1:6)) boxplot(d$note_mathe ~ d$kopf, ylab = "Mathe Note", xlab = "Kopfumfang", ylim = range(1:6))
 
-\# Daten aus XML Datei einlesen d2 \<- xmlToDataFrame("Fragebogen_Kopfumfang_Fach.xml") \# XML Datei als Data Frame einlesen print(d2) \# d2 ausgeben summary(d2\$PRAXIS) \# Min. / Max., Median und arithmetisches Mittel berechnen \# Diagramme erstellen, dass die (mögliche) Abhängigkeit zweier numerischer Variablen zeigt plot(d2\$NOTE_MATHE \~ d2\$KOPF, ylab = "Mathe Note", xlab = "Kopfumfang", ylim = range(1:6)) boxplot(d2\$NOTE_MATHE \~ d2\$KOPF, ylab = "Mathe Note", xlab = "Kopfumfang", ylim = range(1:6))
+# Daten aus XML Datei einlesen d2 <- xmlToDataFrame("Fragebogen_Kopfumfang_Fach.xml") 
+# XML Datei als Data Frame einlesen print(d2) 
+# d2 ausgeben summary(d2$PRAXIS) # Min. / Max., Median und arithmetisches Mittel berechnen 
+# Diagramme erstellen, dass die (mögliche) Abhängigkeit zweier numerischer Variablen zeigt 
+plot(d2$NOTE_MATHE ~ d2$KOPF, ylab = "Mathe Note", xlab = "Kopfumfang", ylim = range(1:6)) boxplot(d2$NOTE_MATHE ~ d2$KOPF, ylab = "Mathe Note", xlab = "Kopfumfang", ylim = range(1:6))
 
-\# Skriptdatei (aus R Studio) in R Konsole ausführen source(“Fragebogen.R“)
+# Skriptdatei (aus R Studio) in R Konsole ausführen
+source("Fragebogen.R")
+```
 
-## 4. Erarbeiten IT-technischer Rahmenbedingungen
+**Pakete in *R* installieren** (Datei *Pakete_in_R_installieren.R* auf Ilias) 
 
-### 4.b) Einführung und Anleitung der Applikation *R*
+```r
+# XML Paket installieren
+install.packages("XML")
 
-**Pakete in *R* installieren** (Datei *Pakete_in_R_installieren.R* auf Ilias) \# XML Paket installieren install.packages("XML")
-
-\# Paket installieren
+# Paket installieren
 
 library("XML")
 
-\# Paket laden, um es ausführen zu können
-
+# Paket laden, um es ausführen zu können
 library("methods")
 
-\# abhängiges Paket laden
+# abhängiges Paket laden
 
-\# Devtools installieren und laden und dann ourdata mittels github installieren und laden
-install.packages("devtools", dependencies = TRUE) library(devtools)
+# Devtools installieren und laden und dann ourdata mittels github installieren und laden
+install.packages("devtools", dependencies = TRUE) 
+library(devtools)
 
-install_github(“DrBenjamin/ourdata") library(ourdata) ourdata() help(ourdata) print(fragebogen)
+install_github("DrBenjamin/ourdata") 
+library(ourdata) 
+ourdata() 
+help(ourdata) 
+print(fragebogen)
+```
 
 Im Skript (*Pakete_in_R_installieren.R* ) werden alle weiteren benötigten Pakete
 installiert, Zeile für Zeile ausführen und ggfs. die Installation mit Yes bestätigen.
-
-Für *R* auf dem *iPad* sind die Pakete mittels Installationsskript (*install4R.sh*)
-schon vorinstalliert. Sollten neue hinzugekommen sein, bitte das Update-Skript
-(*update4R.sh*) ausführen.
-
-## 4. Erarbeiten IT-technischer Rahmenbedingungen
 
 ### 4.c) Datenerfassung sowie das Einlesen der
 
@@ -1517,117 +1326,114 @@ Beispiel-Daten zur ersten Analyse
 
 **Komplexeres R Skript** (Datei *Komplexeres_R_Skript.R* auf Ilias)
 
-\# Einfacher Vektor, die Funktion c kombiniert Werte in einen Vektor oder eine Liste \# fruitVec wird mit 4 Werten (Strings) gefüllt fruitVec \<- c("Apfel", "Banane", "Orange", "Birne")
+```r
+# Einfacher Vektor, die Funktion c kombiniert Werte in einen Vektor oder eine Liste 
+# fruitVec wird mit 4 Werten (Strings) gefüllt 
+fruitVec <- c("Apfel", "Banane", "Orange", "Birne")
 
-\# Einfache While-Schleife \# Funktion length: gibt die Länge eines/r Vektors / Liste aus \# Der Vektor fruitVec kann wie ein Array angesprochen werden, um die einzelnen Werte auszulesen
-pos \<- 1 while (pos \<= length(fruitVec)) {
-
-print(paste0("Die Frucht Nr. ", pos, " ist : ", fruitVec\[pos\])) pos \<- pos + 1
+# Einfache While-Schleife 
+# Funktion length: gibt die Länge eines/r Vektors / Liste aus 
+# Der Vektor fruitVec kann wie ein Array angesprochen werden, um die einzelnen Werte auszulesen
+pos <- 1 
+while (pos <= length(fruitVec)) {
+print(paste0("Die Frucht Nr. ", pos, " ist : ", fruitVec[pos])) 
+pos <- pos + 1
 }
 
-\# Einfache For-Schleife
-\# Funktion paste0 verbindet Strings
-\# Funktion which ermittelt die Position eines Wertes im Vektor (bzw. Array)
+# Einfache For-Schleife
+# Funktion paste0 verbindet Strings
+# Funktion which ermittelt die Position eines Wertes im Vektor (bzw. Array)
 for (fruit in fruitVec) {
-
-print(paste0("Die Frucht Nr.", which(fruit == fruitVec), " ist: ", fruit))
-
+    print(paste0("Die Frucht Nr.", which(fruit == fruitVec), " ist: ", fruit))
 }
-
-## 4. Erarbeiten IT-technischer Rahmenbedingungen
+```
 
 ### 4.c) Datenerfassung sowie das Einlesen der
 
 Beispiel-Daten zur ersten Analyse
 R Skript zum verarbeiten des Dating-Datensatzes (Datei *Dating.R* auf Ilias)
 
-\# Analyse des Dating-Datensatzes aus dem R-Paket 'pradadata'
-\# Die Daten wurden zuvor mittels Excel bereinigt (für die Analyse nicht sinnvolle
-\# Daten wurden entfernt, sowie von nominalen zu metrischen Werten transformiert
-\# z.B. char-Typen wie 'yes' und 'no' zu numerischen Typen wie '1' und '2'
+```r
+# Analyse des Dating-Datensatzes aus dem R-Paket 'pradadata'
+# Die Daten wurden zuvor mittels Excel bereinigt (für die Analyse nicht sinnvolle
+# Daten wurden entfernt, sowie von nominalen zu metrischen Werten transformiert
+# z.B. char-Typen wie 'yes' und 'no' zu numerischen Typen wie '1' und '2'
 
-\# bereinigte Datei einlesen
-Dates \<- read.csv("./Daten/Dates.csv")
+# bereinigte Datei einlesen
+Dates <- read.csv("./Daten/Dates.csv")
 
-\# selektieren von Vektoren / Spalten
-Dates \<- subset(Dates, select = c(car, Age, comm_type))
+# selektieren von Vektoren / Spalten
+Dates <- subset(Dates, select = c(car, Age, comm_type))
 
-\# Statistische Auswertungen
+# Statistische Auswertungen
 plot(Dates\$car \~ Dates\$comm_type, main = "Dating Datensatz", ylab = "Car", xlab = "Kommunikation",
 xaxt = "n", yaxt = "n")
-axis(1, at = c(1, 2)) \# Achsenbeschriftung manuell hinzufügen - da jeweils nur '1' und '2' möglich sind,
-axis(2, at = c(1, 2)) \# sind Zwischenwerte auf der Achse irreführend
-abline(lm(Dates\$car \~ Dates\$comm_type)) \# Regressionsgerade
-barplot(table(Dates\$car, Dates\$comm_type)) \# Ausgabe Häufigkeit
+axis(1, at = c(1, 2)) # Achsenbeschriftung manuell hinzufügen - da jeweils nur '1' und '2' möglich sind,
+axis(2, at = c(1, 2)) # sind Zwischenwerte auf der Achse irreführend
+abline(lm(Dates\$car \~ Dates\$comm_type)) # Regressionsgerade
+barplot(table(Dates\$car, Dates\$comm_type)) # Ausgabe Häufigkeit
+```
 
-## 4. Erarbeiten IT-technischer Rahmenbedingungen
+Beispiel-Daten zur ersten Analyse R Skript zum verarbeiten des Dating-Datensatzes (Datei *Dating.R* auf Ilias)
 
-### 4.c) Datenerfassung sowie das Einlesen der
-
-Beispiel-Daten zur ersten Analyse
-R Skript zum verarbeiten des Dating-Datensatzes (Datei *Dating.R* auf Ilias)
-
-\# Funktion 'transformer' aus dem 'ourdata' R-Package benutzen, um char-Typen in numierische Typen
-\# zu konvertieren, z.B. 'female' to '1' und 'male' zu '2' -\> Alternative zur Excel Funktion 'Transform'
-\# Installieren oder Updaten von 'ourdata' R-Package, nur wenn noch nicht geschehen!
+```r
+# Funktion 'transformer' aus dem 'ourdata' R-Package benutzen, um char-Typen in numierische Typen
+# zu konvertieren, z.B. 'female' to '1' und 'male' zu '2' -> Alternative zur Excel Funktion 'Transform'
+# Installieren oder Updaten von 'ourdata' R-Package, nur wenn noch nicht geschehen!
 library(devtools)
 install_github("DrBenjamin/ourdata", force = TRUE)
-\# Bibliotheken laden (nach Neustart von RStudio immer notwendig!)
+
+# Bibliotheken laden (nach Neustart von RStudio immer notwendig!)
 library(ourdata)
 library(pradadata)
+
 # Hilfe-Seiten lesen!
 help(ourdata)
 help(transformer)
 help(fragebogen)
-\# strawperson transformieren, char type -\> numeric z.B. 'A' zu '1' und 'B' zu '2' etc.
-trans_data \<- transformer(subset(dating, select = strawperson), verbose = TRUE)
-\# den transformierten Vector (Werte) der Liste (data frame) zuweisen
-dating\$strawperson \<- trans_data
-\# Statistische Auswertungen
-plot(dating\$car \~ dating\$comm_type)
-heatmap(cbind(dating\$car, dating\$comm_type))
 
-## 4. Erarbeiten IT-technischer Rahmenbedingungen
-
-### 4.c) Datenerfassung sowie das Einlesen der
+# strawperson transformieren, char type -> numeric z.B. 'A' zu '1' und 'B' zu '2' etc.
+trans_data <- transformer(subset(dating, select = strawperson), verbose = TRUE)
+# den transformierten Vector (Werte) der Liste (data frame) zuweisen
+dating$strawperson <- trans_data
+# Statistische Auswertungen
+plot(dating$car ~ dating$comm_type)
+heatmap(cbind(dating$car, dating$comm_type))
+```
 
 Beispiel-Daten zur ersten Analyse
 R-Skript zum Verarbeiten des Fragebogen-Datensatzes auf dem iPad
 (Datei Fragebogen_iPad*.R* auf Ilias)
-\# Diagrammausgabe auf dem iPad (keine grafische Schnittstelle) in PDF oder PNG Dateien
 
-\# Datensätze aus den Vorlesungen laden
+```r
+# Diagrammausgabe auf dem iPad (keine grafische Schnittstelle) in PDF oder PNG Dateien
+
+# Datensätze aus den Vorlesungen laden
 library(ourdata)
-print(kopfumfang) \# Ergebnisse des Fragebogens ausgeben
-str(kopfumfang) \# Struktur von data frame kopfumfang ausgeben
-summary(kopfumfang\$praxis)# Min. / Max., Median und arithmetisches Mittel berechnen
+print(kopfumfang) # Ergebnisse des Fragebogens ausgeben
+str(kopfumfang) # Struktur von data frame kopfumfang ausgeben
+summary(kopfumfang$praxis)# Min. / Max., Median und arithmetisches Mittel berechnen
 
-\# Diagramme erstellen und als PDF speichern
+# Diagramme erstellen und als PDF speichern
 pdf("Plots.pdf")
 
-\# PDF Export auf iPad
+# PDF Export auf iPad
 
-plot(d\$note_mathe \~ d\$kopf, ylab = "Mathe Note", xlab = "Kopfumfang", ylim = range(1:6))
-boxplot(d\$note_mathe \~ d\$kopf, ylab = "Mathe Note", xlab = "Kopfumfang", ylim = range(1:6))
+plot(d$note_mathe ~ d$kopf, ylab = "Mathe Note", xlab = "Kopfumfang", ylim = range(1:6))
+boxplot(d$note_mathe ~ d$kopf, ylab = "Mathe Note", xlab = "Kopfumfang", ylim = range(1:6))
 dev.off()
 
-\# PDF Export beenden (notwendig, sonst leere Datei!)
-
-\# Diagramm (nur eines möglich!) erstellen und als PNG speichern
+# PDF Export beenden (notwendig, sonst leere Datei!)
+# Diagramm (nur eines möglich!) erstellen und als PNG speichern
 png("Plot.png")
 
-\# PNG Export auf iPad
-
-plot(d\$note_mathe \~ d\$kopf, ylab = "Mathe Note", xlab = "Kopfumfang", ylim = range(1:6))
+# PNG Export auf iPad
+plot(d$note_mathe ~ d$kopf, ylab = "Mathe Note", xlab = "Kopfumfang", ylim = range(1:6))
 dev.off()
+# PNG Export beenden (notwendig, sonst leere Datei!)
+```
 
-\# PNG Export beenden (notwendig, sonst leere Datei!)
-
-## 4. Erarbeiten IT-technischer Rahmenbedingungen
-
-### 4.c) Datenerfassung sowie das Einlesen der
-
-Beispiel-Daten zur ersten Analyse
+Beispiel-Daten zur ersten Analyse.
 
 #### Einlesen der Datensätze aus den Vorlesungen
 
@@ -1637,20 +1443,19 @@ Software entwickeln und diese für andere zur Verfügung stellen.
 Das R-Paket *ourdata* mit den **Datensätzen** und **Funktionen** aus dem Unterricht\
 kann auf *github.com* eingesehen werden (*README.md* für Anleitung lesen):
 
-- Repository *ourdata*: <https://github.com/DrBenjamin/ourdata>
+- Repository [*ourdata*](https://github.com/DrBenjamin/ourdata)
 
 #### Installation und Anzeige von Hilfeseiten
 
-library(devtools) \# Library devtools laden, um install_github ausführen zu können
-install_github("DrBenjamin/ourdata", force = TRUE) \# Installation des R-Paketes
-library(ourdata) \# Library ourdata laden
-help(ourdata). \# Hilfeseite zum R-Paket anzeigen lassen
-help(combine) \# Hilfeseite zur Funktion *combine* anzeigen lassen
-help(fragebogen) \# Hilfeseite zum data frame *fragenbogen* anzeigen lassen
+```r
+library(devtools) # Library devtools laden, um install_github ausführen zu können
+install_github("DrBenjamin/ourdata", force = TRUE) # Installation des R-Paketes
+library(ourdata) # Library ourdata laden
+help(ourdata). # Hilfeseite zum R-Paket anzeigen lassen
+help(combine) # Hilfeseite zur Funktion *combine* anzeigen lassen
+help(fragebogen) # Hilfeseite zum data frame *fragenbogen* anzeigen lassen
+```
 
-**4. Erarbeiten IT-technischer Rahmenbedingungen
-4.c) Datenerfassung sowie das Einlesen der Beispiel-Daten zur ersten
-Analyse
 R-Analyse-Workshop** Verwende beliebige Daten (aus dem Internet), um eine weitere **Korrelations-
 analyse** von *zwei Datensätzen mit unterschiedlicher Quelle* durchzuführen.
 
@@ -1664,15 +1469,12 @@ analyse** von *zwei Datensätzen mit unterschiedlicher Quelle* durchzuführen.
 
 #### Ablauf
 
-1.  Datensatz suchen (z.B. auf Datenportalen wie<https://stats.oecd.org/>)
-2.  Datensatz suchen (z.B. auf Webseiten wie Statista ([https://de.statista.com)](https://de.statista.com/) aufbereiten (Dezimaltrennung, Variablennamen, Spalten bereinigen)
+1.  1. Datensatz suchen (z.B. auf Datenportalen wie<https://stats.oecd.org/>)
+2.  2. Datensatz suchen (z.B. auf Webseiten wie Statista ([https://de.statista.com)](https://de.statista.com/) aufbereiten (Dezimaltrennung, Variablennamen, Spalten bereinigen)
 3.  Matching bzw. Bezugspunkt festlegen (z.B. in beiden Listen das Land)
 4.  Datensätze vereinen (mit Hilfe von Excel, VBA oder R)
 5.  Statistische Auswertung in R (Korrelationsanalyse)
 
-**4. Erarbeiten IT-technischer Rahmenbedingungen
-4.c) Datenerfassung sowie das Einlesen der Beispiel-Daten zur ersten\
-Analyse
 R-Programmier-Workshop** (Datei *R_Workshop.R* auf Ilias)
 **Aufgabe:** Programmiere die VBA-Funktion Zusammenführen aus der Excel
 „Fragebogen“ in R nach, so dass:
@@ -1685,9 +1487,7 @@ R-Programmier-Workshop** (Datei *R_Workshop.R* auf Ilias)
 die passenden Spalten (Land, IMR und HDI) zusammenfügt
 
 -   alle Länder, zu denen keine HDI Angaben vorhanden sind gelöscht werden
--   die Diagramm-Ausgaben die identischen Ergebnisse erzielen wie mit der
-
-Excel Zusammenführung
+-   die Diagramm-Ausgaben die identischen Ergebnisse erzielen wie mit der Excel Zusammenführung
 
 #### Hilfsmittel
 
@@ -1696,18 +1496,12 @@ Excel Zusammenführung
 -   Stackoverflow ([https://stackoverflow.com)
     ](https://stackoverflow.com/)- R-Hilfe-Seiten help(\<Funktionsname\>)
 
-### Methodik
-
-### Korrelation Analyse
+## Methodik
 
 -   Theoretische Grundlagen der Korrelation Analyse
 -   Anwendung der Korrelations-Analyse mit Beispieldaten
 
-**5. Methodik Korrelation Analyse**
-
-## 5. Methodik: Korrelation Analyse
-
-### Korrelationsanalyse
+### 5.a) Theoretische Grundlagen der Korrelation Analyse
 
 Will man einen **Zusammenhang** zwischen **zwei metrischen Variablen** untersuchen, zum Beispiel zwischen dem Alter und dem Gewicht von Kindern, so berechnet man eine **Korrelation**. Diese besteht aus
 einem *Korrelationskoeffizienten* (*rho* bei Spearman) und einem *p-Wert*.
@@ -1722,41 +1516,36 @@ Futter, dickere Kühe*“). Kein Zusammenhang besteht, wenn der Wert nahe
 Der **p-Wert** sagt aus, ob es einen **signifikanten Zusammenhang** gibt.
 p-Werte kleiner als *0,05* werden als **statistisch signifikant** bezeichnet.
 
-### 5.a) Theoretische Grundlagen der Korrelation Analyse
-
-## 5. Methodik: Korrelation Analyse
-
 ### 5.b) Anwendung der Korrelations-Analyse mit Beispieldaten
 
 **Korrelationsanalyse in R** (Datei *Korrelationsanalyse.R* auf Ilias**)** am Beispiel der IMR (Infant Mortality Rate) und des HDI (Human Development Index)
 
-\# Bibliothek openintro (enthält Data Sets) laden\
+```r
+# Bibliothek openintro (enthält Data Sets) laden
 library(openintro)
 print(infmortrate)
-\# Deutung des Datensatzes: Es ist neben dem Ländernamen nur der IMR enthalten,
-\# sonst keine zu vergleichenden Daten. Wir machen uns auf die Suche nach zu verwendenden Daten.
+# Deutung des Datensatzes: Es ist neben dem Ländernamen nur der IMR enthalten,
+# sonst keine zu vergleichenden Daten. Wir machen uns auf die Suche nach zu verwendenden Daten.
 
-\# Daten im Internet finden, infant mortality rate (imr) auf der Centrale Intelligence Agency (CIA)
-\# Webseite: https://www.cia.gov/the-world-factbook/field/infant-mortality-rate/country-comparison
-\# human development index (hdi) auf World Population Review Webseite:
-\# https://worldpopulationreview.com/country-rankings/hdi-by-country
-\# Daten im CSV-Format mit den Namen IMR.csv und HDI.csv speichern
-
-\# Ueberprüfen der Daten
-imr \<- read.csv("IMR.csv")
+# Daten im Internet finden, infant mortality rate (imr) auf der Centrale Intelligence Agency (CIA)
+# Webseite: https://www.cia.gov/the-world-factbook/field/infant-mortality-rate/country-comparison
+# human development index (hdi) auf World Population Review Webseite:
+# https://worldpopulationreview.com/country-rankings/hdi-by-country
+# Daten im CSV-Format mit den Namen IMR.csv und HDI.csv speichern
+# Ueberprüfen der Daten
+imr <- read.csv("IMR.csv")
 str(imr)
-print(c(imr\$value, imr\$name))
-hdi \<- read.csv("HDI.csv")
+print(c(imr$value, imr$name))
+hdi <- read.csv("HDI.csv")
 str(hdi)
-print(c(hdi\$hdi, hdi\$country))
-
-## 5. Methodik: Korrelation Analyse
-
-### 5.b) Anwendung der Korrelations-Analyse mit Beispieldaten
+print(c(hdi$hdi, hdi$country))
+```
 
 **Korrelationsanalyse in R** (Datei *Korrelationsanalyse.R* auf Ilias**)** am Beispiel der infant mortality rate (imr) und des human development index (hdi)
-\# Datensätze (Dataframes) kombinieren mit R-Erweiterung „sqldf“ um SQL Syntax verwenden zu können
-imr_hdi \<- sqldf('
+
+```r
+# Datensätze (Dataframes) kombinieren mit R-Erweiterung „sqldf“ um SQL Syntax verwenden zu können
+imr_hdi <- sqldf('
 SELECT imr.name AS "LAND", imr.value As "IMR", hdi.hdi AS "HDI" FROM imr
 INNER JOIN hdi ON imr.name = hdi.country
 ORDER BY imr.value DESC
@@ -1764,28 +1553,23 @@ ORDER BY imr.value DESC
 str(imr_hdi)
 print(imr_hdi)
 
-\# Kombinierte und bereinigte Daten auswerten\
-plot(imr_hdi\$imr \~ imr_hdi\$hdi, main = "IMR_HDI_Plot", ylab = "Säuglingssterblichkeit (per 1.000
+# Kombinierte und bereinigte Daten auswerten
+plot(imr_hdi$imr ~ imr_hdi$hdi, main = "IMR_HDI_Plot", ylab = "Säuglingssterblichkeit (per 1.000
 Lebendgeburten)", xlab = "Human Development Index", ylim = range(1:110))
-abline(lm(imr_hdi\$imr \~ imr_hdi\$hdi), col = "red") \# Regressionsgerade
-\# Quantifizierung der Zusammenhänge mittels Spearman Korrelation Funktion
+abline(lm(imr_hdi$imr ~ imr_hdi$hdi), col = "red") # Regressionsgerade
+# Quantifizierung der Zusammenhänge mittels Spearman Korrelation Funktion
 help(cor.test)
-cor.test(imr_hdi\$imr, imr_hdi\$hdi, method="spearman", exact=FALSE)
-\# Ergebnis rho: -0.923 -\> Negative bzw. Antikorrelation, da Wert nah bei 1
-\# Deutung rho: Wenn der HDI höher liegt, dann sinkt die IMR
-\# Ergebnis p-Wert: 2.2e-16 (Gleitkomma) -\> 0.00000000000000022
-\# Deutung p-Wert: Er liegt unter 0.05, es gibt also eine statistische Signifikanz
+cor.test(imr_hdi$imr, imr_hdi$hdi, method="spearman", exact=FALSE)
+# Ergebnis rho: -0.923 -> Negative bzw. Antikorrelation, da Wert nah bei 1
+# Deutung rho: Wenn der HDI höher liegt, dann sinkt die IMR
+# Ergebnis p-Wert: 2.2e-16 (Gleitkomma) -> 0.00000000000000022
+# Deutung p-Wert: Er liegt unter 0.05, es gibt also eine statistische Signifikanz
+```
 
-### Methodik
-
-### Linear Regress Analyse
+## Linear Regress Analyse
 
 -   Theoretische Grundlagen der Linear Regression Analyse
 -   Anwendung der Linear Regression-Analyse mit Beispieldaten
-
-**6. Methodik Linear Regress Analyse**
-
-## 6. Methodik: Linear Regress Analyse
 
 ### Linear Regression-Analyse
 
@@ -1798,222 +1582,182 @@ Analysen können aber **Hinweise** in diese Richtung geben.
 
 ### 6.a) Theoretische Grundlagen der Linear Regression-Analyse
 
-Abb. 6.a.1: Lineare Regressionsgrade
-
-## 6. Methodik: Linear Regress Analyse
+![Abb. 6.a.1: Lineare Regressionsgrade](topics/Linear-Regression-model-sample-illustration.png)
 
 **Linear Regression-Analyse in R** (*Lineare_Regressionsanalyse.R* auf Ilias)
 
-\# R-Paket 'ourdata' laden und mittels Funktion 'combine' einen vergleichbaren Datensatz erstellen mit
+```r
+# R-Paket 'ourdata' laden und mittels Funktion 'combine' einen vergleichbaren Datensatz erstellen mit
 IMR und HDI
 library(ourdata)
-df \<- combine(imr\$name, hdi\$country, imr\$value, hdi\$hdi, col1 = "Land", col2 = "IMR", col3 = "HDI")
+df <- combine(imr$name, hdi$country, imr$value, hdi$hdi, col1 = "Land", col2 = "IMR", col3 = "HDI")
 
-\# Lineares Modell erstellen
-mdl \<- lm(IMR \~ HDI, data=df)
+# Lineares Modell erstellen
+mdl <- lm(IMR ~ HDI, data=df)
 
-\# 'summary' Funktion
+# 'summary' Funktion
 summary(mdl)
 
-\# Den p-Wert für 'HDI' errechnen
-matCoef \<- summary(mdl)\$coefficients
-pval \<- matCoef\["HDI", 4\]
+# Den p-Wert für 'HDI' errechnen
+matCoef <- summary(mdl)$coefficients
+pval <- matCoef["HDI", 4]
 print(paste0("Der Effekt vom HDI auf IMR ist statistisch signifikant p = ", round(pval, 2), " (", pval, ")."))
 
-\# Diagramm ausgeben\
-plot(df\$HDI, df\$IMR, xlab = "Prädiktor", ylab = "Ergebnis", col = "darkblue", pch = 16, main = "Lineare
+# Diagramm ausgeben
+plot(df$HDI, df$IMR, xlab = "Prädiktor", ylab = "Ergebnis", col = "darkblue", pch = 16, main = "Lineare
 Regression")
 abline(mdl, col = "darkred")
+```
 
 ### 6.b) Anwendung der Linear Regression-Analyse mit Beispieldaten
 
-Technical Applications &
-
-Data Analytics
-
-### Methodik
-
-## Basket Analyse (Association Rules)
+## Methodik: Basket Analyse (Association Rules)
 
 -   Theoretische Grundlagen der Basket Analyse
-
 -   Anwendung der Basket-Analyse mit Beispieldaten
 
-**7. Methodik\
-Basket Analyse (Association Rules)**
-
-## 7. Methodik: Basket Analyse (Association Rules)
-
 ### Basket Analyse
 
-Die **Basket Analyse** kann zur Entdeckung von **Assoziationen** und\
-Korrelationen zwischen Elementen in riesigen transaktionalen oder\
+Die **Basket Analyse** kann zur Entdeckung von **Assoziationen** und
+Korrelationen zwischen Elementen in riesigen transaktionalen oder
 relationalen Datensätzen führen.
 
-Das Aufsuchen von **Verbindungen** zwischen verschiedenen Artikeln, die\
-Kunden in ihre „Warenkörbe“ legen ist ein häufiger Einsatz der Analyse. Das\
-Wissen um diese Assoziationen kann für Einzelhändler oder Vermarkter\
-hilfreich sein, um Marketingstrategien zu entwickeln. Das geschieht, indem\
-sie Erkenntnisse darüber gewinnen, welche Artikel von Kunden häufig\
+Das Aufsuchen von **Verbindungen** zwischen verschiedenen Artikeln, die
+Kunden in ihre „Warenkörbe“ legen ist ein häufiger Einsatz der Analyse. Das
+Wissen um diese Assoziationen kann für Einzelhändler oder Vermarkter
+hilfreich sein, um Marketingstrategien zu entwickeln. Das geschieht, indem
+sie Erkenntnisse darüber gewinnen, welche Artikel von Kunden häufig
 zusammen gekauft werden.
 
-Wenn Kunden beispielsweise Milch kaufen, *wie **wahrscheinlich** ist es,\
-dass sie auf derselben Fahrt zum Supermarkt auch Brot (und welche\
-Brotsorte) kaufen?* Diese Informationen können zu einer Umsatzsteigerung\
-führen, indem sie Einzelhändlern helfen, **selektives Marketing** zu betreiben\
+Wenn Kunden beispielsweise Milch kaufen, *wie **wahrscheinlich** ist es,
+dass sie auf derselben Fahrt zum Supermarkt auch Brot (und welche
+Brotsorte) kaufen?* Diese Informationen können zu einer Umsatzsteigerung
+führen, indem sie Einzelhändlern helfen, **selektives Marketing** zu betreiben
 und ihren Verkaufsraum zu planen.
 
-### 7.a) Theoretische Grundlagen der Basket Analyse
-
-## 7. Methodik: Basket Analyse (Association Rules)
-
-### Basket Analyse
-
-*Stelle Dir das Universum einfach als eine Menge von Artikeln vor, die im\
-Geschäft erhältlich sind. Jeder Artikel eine boolesche Variable, die das\
-Vorhandensein oder Fehlen dieses Artikels darstellt. Jeder Korb kann nun\
-durch einen booleschen\
-Vektor von Werten\
-repräsentiert werden, die\
-diesen Variablen zugewiesen\
-werden. Die booleschen\
-Vektoren können von\
-**Kaufmustern** analysiert\
-werden, die Artikel wider-\
-spiegeln, die häufig ver-\
-bunden oder zusammen\
-gekauft werden. Solche\
-Muster werden in Form von **Assoziationsregeln** dargestellt.*
+## Methodik: Basket Analyse (Association Rules)
 
 ### 7.a) Theoretische Grundlagen der Basket Analyse
 
-Abb. 7.a.1: Sinnbild
+#### Basket Analyse
 
-## 7. Methodik: Basket Analyse (Association Rules)
+*Stelle Dir das Universum einfach als eine Menge von Artikeln vor, die im
+Geschäft erhältlich sind. Jeder Artikel eine boolesche Variable, die das
+Vorhandensein oder Fehlen dieses Artikels darstellt. Jeder Korb kann nun
+durch einen booleschen Vektor von Werten repräsentiert werden, die
+diesen Variablen zugewiesen werden. Die booleschen Vektoren können von
+**Kaufmustern** analysiert werden, die Artikel widerspiegeln, die häufig verbunden oder zusammen
+gekauft werden. Solche Muster werden in Form von **Assoziationsregeln** dargestellt.*
+
+![Abb. 7.a.1: Sinnbild](topics/basket-analysis.png)
 
 **Basket Analyse in R** (Datei *Basket_Analyse.R* auf Ilias)
 
-\# Bibliotheken laden\
+```r
+# Bibliotheken laden
 library(arules)
 
-\# Paket mit Mining Datensätzen und Assoziationsregeln
+# Paket mit Mining Datensätzen und Assoziationsregeln
 
-library(datasets) \# OpenIntro Datensätze
+library(datasets) # OpenIntro Datensätze
 
-\# Data frame laden\
+# Data frame laden
 data(Groceries)
 
-\# Frequenz Diagramm für die Top 20 Artikel erstellen\
-itemFrequencyPlot(Groceries, topN = 20, type = "absolute", horiz = TRUE)\
-\# nach Milch suchen\
-itemFrequency(Groceries)\[grep("milk", itemLabels(Groceries))\]
+# Frequenz Diagramm für die Top 20 Artikel erstellen
+itemFrequencyPlot(Groceries, topN = 20, type = "absolute", horiz = TRUE)
+# nach Milch suchen
+itemFrequency(Groceries)[grep("milk", itemLabels(Groceries))]
 
-\# Die Regeln ableiten\
-rules \<- apriori(Groceries, parameter = list(supp = 0.001, conf = 0.8))
+# Die Regeln ableiten
+rules <- apriori(Groceries, parameter = list(supp = 0.001, conf = 0.8))
+```
 
 ### 7.b) Anwendung der Basket-Analyse mit Beispieldaten
-
-## 7. Methodik: Basket Analyse (Association Rules)
 
 **Basket Analyse in R** (Datei *Basket_Analyse.R* auf Ilias)
 
-\# Zeige die Top 5 Regeln (nur 2 Nachkommastellen)\
-options(digits=2)\
-inspect(rules\[1:5\])\
-rules \<- sort(rules, by="confidence", decreasing = TRUE)\
-rules \<- apriori(Groceries, parameter = list(supp = 0.001, conf = 0.8, maxlen = 10))
+```r
+# Zeige die Top 5 Regeln (nur 2 Nachkommastellen)
+options(digits=2)
+inspect(rules[1:5])
+rules <- sort(rules, by="confidence", decreasing = TRUE)
+rules <- apriori(Groceries, parameter = list(supp = 0.001, conf = 0.8, maxlen = 10))
 
-\# Paket mit Visualisations-Assoziationsregeln laden\
+# Paket mit Visualisations-Assoziationsregeln laden
 library(arulesViz)
 
-\# Berechnungen der Matrix\
+# Berechnungen der Matrix
 subset.matrix \<- is.subset(rules, rules)\
-subset.matrix\[lower.tri(subset.matrix, diag = T)\] \<- NA\
-redundant \<- colSums(subset.matrix, na.rm = T) \>= 1
+subset.matrix[lower.tri(subset.matrix, diag = T)] <- NA
+redundant <- colSums(subset.matrix, na.rm = T) >= 1
 
-\# Diagramm ausgeben\
+# Diagramm ausgeben
 plot(rules, method = "graph", engine = "htmlwidget")
+```
 
-### 7.b) Anwendung der Basket-Analyse mit Beispieldaten
+## Methodik: Cluster Analyse K-Means
 
-Technical Applications &
-
-Data Analytics
-
-### Methodik
-
-## Cluster Analyse K-Means
-
--   Theoretische Grundlagen der Cluster Analyse\
-    K-Means
-
--   Anwendung der Cluster-Analyse K-Means mit\
-    Beispieldaten
-
-**8. Methodik\
-Cluster Analyse K-Means**
-
-## 8. Methodik: Cluster Analyse K-Means
+-   Theoretische Grundlagen der Cluster Analyse K-Means
+-   Anwendung der Cluster-Analyse K-Means mit Beispieldaten
 
 ### K-Means Analyse
 
-Der **K-Means-Clusteralgorithmus** ist definiert als eine *unüberwachte* **Lernmethode** mit einem iterativen Prozess, bei dem die Datensätze in eine\
-Reihe von *k* Gruppen unterteilt werden, wobei *k* die vom Analysten\
+Der **K-Means-Clusteralgorithmus** ist definiert als eine *unüberwachte* **Lernmethode** mit einem iterativen Prozess, bei dem die Datensätze in eine Reihe von *k* Gruppen unterteilt werden, wobei *k* die vom Analysten
 vorgegebene Anzahl von Gruppen ist.
 
-Bei diesem Algorithmus handelt es sich um einen **iterativen Algorithmus**,\
-der den Datensatz entsprechend den Merkmalen in *k* vordefinierte, sich\
-nicht überschneidende Cluster oder Untergruppen unterteilt. Er macht die\
-Datenpunkte zwischen den Clustern so ähnlich wie möglich und versucht\
+Bei diesem Algorithmus handelt es sich um einen **iterativen Algorithmus**,
+der den Datensatz entsprechend den Merkmalen in *k* vordefinierte, sich
+nicht überschneidende Cluster oder Untergruppen unterteilt. Er macht die
+Datenpunkte zwischen den Clustern so ähnlich wie möglich und versucht
 auch, die Cluster so weit wie möglich beizubehalten.
 
 ### 8.a) Theoretische Grundlagen der Cluster Analyse K-Means
 
-## 8. Methodik: Cluster Analyse K-Means
-
 **K-Means Analyse in R** (Datei *K-Means.R* aud Ilias)
 
-\# Bibliotheken laden library(cluster) library(factoextra) library(pheatmap)
+```r
+# Bibliotheken laden 
+library(cluster) library(factoextra) library(pheatmap)
+library(factoextra) 
+library(pheatmap)
 
-\# Datensatz von Verbrechern in den USA erstellen mydata \<- scale(USArrests)
+# Datensatz von Verbrechern in den USA erstellen 
+mydata <- scale(USArrests)
 
-\# K-Means Clustering\
+# K-Means Clustering
 fviz_nbclust(mydata, kmeans, method = "gap_stat")
+```
 
 ### 8.b) Anwendung der Cluster-Analyse K-Means mit Beispieldaten
 
-## 8. Methodik: Cluster Analyse K-Means
-
 **K-Means Analyse in R** (Datei *K-Means.R* aud Ilias)
 
+```r
+# K-Means Clustering
 set.seed(123)
 
-\# für die Reproduzierbarkeit
+# für die Reproduzierbarkeit
 
-km.res \<- kmeans(mydata, 3, nstart = 25)
+km.res <- kmeans(mydata, 3, nstart = 25)
 
-\# Visualisieren fviz_cluster(km.res, data = mydata, palette = "jco", ggtheme = theme_minimal(), barfill = "red", barcolor = "red", linecolor = "red")
+# Visualisieren
+fviz_cluster(km.res, data = mydata, palette = "jco", ggtheme = theme_minimal(), barfill = "red", barcolor = "red", linecolor = "red")
 
-*\# Hierarchisches Clustering \# Cluster Denrogramm* res.hc \<- hclust(dist(mydata), method = "ward.D2") fviz_dend
-
+# Hierarchisches Clustering
+# Cluster Denrogramm
+res.hc <- hclust(dist(mydata), method = "ward.D2")
+fviz_dend
 (res.hc, cex = 0.5, k = 4, palette = "jco")
 
-*\# Heatmap erstellen* pheatmap
+# Heatmap erstellen
+pheatmap(t(mydata), cutree_cols = 4)
+```
 
-(t(mydata), cutree_cols = 4)
-
-### 8.b) Anwendung der Cluster-Analyse K-Means mit Beispieldaten
-
-### Methodik
-
-### Neuronale Netze-Analyse
+## Methodik: Neuronale Netze-Analyse
 
 -   Theoretische Grundlagen der Neuronale Netze Analyse
 -   Anwendung der Neuronale Netze-Analyse mit Beispieldaten
-
-**9. Methodik Neuronale Netze-Analyse**
-
-## 9. Methodik: Neuronale Netze-Analyse
 
 ### Neuronale Netze-Analyse
 
@@ -2023,41 +1767,44 @@ Die informationsverarbeitenden Einheiten arbeiten nicht auf eine *lineare* Weise
 
 ### 9.a) Theoretische Grundlagen der Neuronale Netze-Analyse
 
-## 9. Methodik: Neuronale Netze-Analyse
+**Neuronale Netze-Analyse in R** (Datei *Neuronale_Netze.R* auf Ilias) 
 
-**Neuronale Netze-Analyse in R** (Datei *Neuronale_Netze.R* auf Ilias) \# Bibliothek 'neuralnet' laden library(neuralnet)
+```r
+# Bibliothek 'neuralnet' laden library(neuralnet)
 
-\# Daten einlesen data \<- read.csv("cereals.csv", header=T) print(data)
+# Daten einlesen data <- read.csv("cereals.csv", header=T) print(data)
 
-\# Zufälliges Zusammenstellen samplesize = 0.60 \* nrow(data) set.seed(80) index \<- sample( seq_len ( nrow ( data ) ), size = samplesize )
+# Zufälliges Zusammenstellen samplesize = 0.60 * nrow(data) set.seed(80) index <- sample( seq_len ( nrow ( data ) ), size = samplesize )
 
-\# Erstelle Trainings- und Testdaten-Set\
-datatrain \<- data\[ index, \] datatest \<- data\[ -index, \]
+# Erstelle Trainings- und Testdaten-Set
+datatrain <- data[ index, ] datatest <- data[ -index, ]
 
-\# Daten für neurales Netzwerk skalieren\
-max \<- apply(data , 2 , max) min \<- apply(data, 2 , min) scaled \<- as.data.frame(scale(data, center = min, scale = max - min))
-
-### 9.b) Anwendung der Neuronale Netze-Analyse mit Beispieldaten
-
-## 9. Methodik: Neuronale Netze-Analyse
-
-**Neuronale Netze-Analyse in R** (Datei *Neuronale_Netze.R* auf Ilias) \## Neuronales Netz anpassen - Erstelle Trainings- und Testdaten-Set trainNN \<- scaled\[index , \] testNN \<- scaled\[-index , \]
-
-\# Neuronales Netz anpassen set.seed(2) NN \<- neuralnet(rating \~ calories + protein + fat + sodium + fiber, trainNN, hidden = 3 , linear.output = T)
-
-\# Diagramm erstellen plot(NN)
-
-\## Vorhersage mit Hilfe des neuronalen Netzes predict_testNN \<- compute(NN, testNN\[,c(1:5)\]) predict_testNN \<- (predict_testNN\$net.result \* (max(data\$rating) - min(data\$rating))) + min(data\$rating)
-
-\# Diagramm und Regressionsgrade erstellen plot(datatest\$rating, predict_testNN, col='blue', pch=16, ylab = "predicted rating NN", xlab = "real rating") abline(0,1)
+# Daten für neurales Netzwerk skalieren
+max <- apply(data , 2 , max) min <- apply(data, 2 , min) scaled <- as.data.frame(scale(data, center = min, scale = max - min))
+```
 
 ### 9.b) Anwendung der Neuronale Netze-Analyse mit Beispieldaten
 
-Alle **Methodiken** sind mit Code und visueller Ausgabe verfügbar auf:
+**Neuronale Netze-Analyse in R** (Datei *Neuronale_Netze.R* auf Ilias) 
 
-[**www.benbox.org/R/ourdata.html**](http://www.benbox.org/R/ourdata.html)
+```r
+## Neuronales Netz anpassen - Erstelle Trainings- und Testdaten-Set 
+trainNN <- scaled[index , ] 
+testNN <- scaled[-index , ]
 
-### Methodiken im Netz
+# Neuronales Netz anpassen 
+set.seed(2) NN <- neuralnet(rating ~ calories + protein + fat + sodium + fiber, trainNN, hidden = 3 , linear.output = T)
+
+# Diagramm erstellen plot(NN)
+## Vorhersage mit Hilfe des neuronalen Netzes predict_testNN <- compute(NN, testNN[,c(1:5)]) predict_testNN <- (predict_testNN$net.result * (max(data$rating) - min(data$rating))) + min(data$rating)
+
+# Diagramm und Regressionsgrade erstellen 
+plot(datatest$rating, predict_testNN, col='blue', pch=16, ylab = "predicted rating NN", xlab = "real rating") abline(0,1)
+```
+
+## Methodiken im Netz
+
+Alle **Methodiken** sind mit Code und Diagrammen [**hier**](https://drbenjamin.github.io/ourdata.html#21_Plots_plots) verfügbar.
 
 ## Praktische Anwendung mit eigenen Daten / Ethik der Datenanalyse
 
@@ -2066,15 +1813,11 @@ Alle **Methodiken** sind mit Code und visueller Ausgabe verfügbar auf:
 -   Die Ergebnisse als kurze Präsentationen darstellen und eine Hausarbeit erstellen
 -   Moralische und ethische Aspekte betrachten sowie den Datenschutz der Datenanalyse beurteilen und diskutieren
 
-**10. Praktische Anwendung mit eigenen Daten / Ethik der Datenanalyse**
-
-## 10. Praktische Anwendung mit eigenen Daten / Ethik der Datenanalyse
-
 ### Hausarbeit und Präsentation
 
 Auf den folgenden Seiten ist die zu erbringende schriftliche Leistung / **Hausarbeit** sowie die mündliche Leistung / **Präsentation** beschrieben. Diese sollen die theoretischen und praktischen Fähigkeiten abfragen, die im Fach *Technical Applications & Data Analytics* aufgebaut wurden.
 
-Die Erstellung der Arbeit muss **allen geltenden Anfordernissen** einer\
+Die Erstellung der Arbeit muss **allen geltenden Anfordernissen** einer
 wissenschaftlichen Arbeit genügen und muss als **Struktur** z.B. enthalten:
 
 -   Inhaltsverzeichnis
@@ -2085,8 +1828,8 @@ wissenschaftlichen Arbeit genügen und muss als **Struktur** z.B. enthalten:
 
 **Hausarbeit: „Die Datensammlung“ oder auch:**
 
-**Was kann ich selber für Daten generieren?\
-Oder welche Daten hat schon jemand gesammelt?\
+**Was kann ich selber für Daten generieren?
+Oder welche Daten hat schon jemand gesammelt?
 Oder welche Daten werden von uns generiert?!**
 
 -   Gewicht
@@ -2098,15 +1841,9 @@ Oder welche Daten werden von uns generiert?!**
 -   Sportart in der Jugend
 -   Was werden über uns für Daten in den Sozialen Medien / Internet gesammelt?
 
-## 10. Praktische Anwendung mit eigenen Daten / Ethik der Datenanalyse
+#### Beispiele
 
-### Beispiele
-
-### 10.a) Auf Basis eigener Daten eine Analyse entwickeln und die
-
-Anwendbarkeit prüfen
-
-### Auswahl:
+**Auswahl:**
 
 -   *Entweder* **eigene Daten erheben** (evtl. die Excel aus dem Unterricht verwenden) bzw. **auf Datensammlungen zugreifen** (Statista, WWW etc.) und diese kombinieren (mehrere Datensätze vereinen)
 -   Sport, Wettkampf und Wirtschaft
@@ -2123,9 +1860,7 @@ Anwendbarkeit prüfen
 
 **10. Praktische Anwendung mit eigenen Daten / Ethik der Datenanalyse 10.a) Auf Basis eigener Daten eine Analyse entwickeln und die Anwendbarkeit prüfen**
 
-## 10. Praktische Anwendung mit eigenen Daten / Ethik der Datenanalyse
-
-### Prüfungsleistung
+#### Prüfungsleistung
 
 -   Hausarbeit in Form einer **wissenschaftlich verfassten Arbeit** mit **statistischer Auswertung** (muss in *R / R-Studio* durchgeführt worden sein!) über **12 - 15 Seiten** -\> per Mail an mich und auf Ilias hochladen bis zum **07.02.2022 23:55 Uhr**
 -   Sofern eigene Daten erhoben wurden und die Excel-Datei „*Fragebogen.xlsm*“ verwendet und an die eigenen Erfordernisse angepasst wurde -\> per Mail an mich und auf Ilias bis zum **07.02.2022 23:55 Uhr**
@@ -2133,9 +1868,7 @@ Anwendbarkeit prüfen
 
 ### 10.b) Die Ergebnisse als kurze Präsentationen darstellen und eine Hausarbeit erstellen
 
-## 10. Praktische Anwendung mit eigenen Daten / Ethik der Datenanalyse
-
-### Gliederung der wissenschaftlichen Arbeit (Vorschlag):
+#### Gliederung der wissenschaftlichen Arbeit (Vorschlag):
 
 -   **Inhaltverzeichnis**
 -   **Hinführung zum Thema / Einleitung**
@@ -2156,11 +1889,7 @@ Anwendbarkeit prüfen
 -   eigenen R-Code / Excel- und VBA-Code\
 -   Datenkonvertierungen und -bereinigungen (vorher / nachher)
 
-### 10.b) Die Ergebnisse als kurze Präsentationen darstellen und eine Hausarbeit erstellen
-
-## 10. Praktische Anwendung mit eigenen Daten / Ethik der Datenanalyse
-
-### Gliederung der Präsentation (Vorschlag):
+#### Gliederung der Präsentation (Vorschlag):
 
 -   **Einleitung**
     -   Grundidee vorstellen
@@ -2173,13 +1902,9 @@ Anwendbarkeit prüfen
     -   moralische und ethische Aspekte betrachten
     -   Datenschutz der Datenanalyse beurteilen
 
-### 10.b) Die Ergebnisse als kurze Präsentationen darstellen und eine
+### 10.c) Moralische und ethische Aspekte betrachten sowie den Datenschutz der Datenanalyse beurteilen und diskutieren
 
-Hausarbeit erstellen
-
-## 10. Praktische Anwendung mit eigenen Daten / Ethik der Datenanalyse
-
-### Gruppenarbeit
+#### Gruppenarbeit
 
 Die Aspekte von Datenerhebungen und der Verwendung von Daten im Hinblick auf **Datenschutz** und **Sicherheit** werden gemeinsam in der Vorlesung erörtert, um eine **Sensibilisierung** für das Thema zu erreichen.
 
@@ -2190,12 +1915,6 @@ Auch die Rolle von sogenannten **Whistleblowern** soll erwähnt werden.
 -   Welche Arten von Daten gibt es?
 -   Welche davon sind besonders schützenswert?
 -   Welche Sicherheitsmechanismen benötigen sensible Daten?
-
-### 10.c) Moralische und ethische Aspekte betrachten sowie den Datenschutz
-
-der Datenanalyse beurteilen und diskutieren
-
-## Anhang
 
 ## Technical Applications & Data Analytics
 
@@ -2225,7 +1944,7 @@ Das R-Paket ourdata enthält folgende **Funktionen**:
 -   plotter(...)
     -   Zeichnet interaktiv mit variablen Daten verschiedene **Diagramme**.
 -   transformer(x, ...)
-    -   Transformiert **Werte** vom **Typ** *char* in *numerische Werte*, – z.B. female zu 1, male zu 2 und ´divers\` zu 3.
+    -   Transformiert **Werte** vom **Typ** *char* in *numerische Werte*, – z.B. female zu 1, male zu 2 und `divers` zu 3.
 -   translate(x, target_lang) – Übersetzt Text in die *Zielsprache* mit der **DeepL API**.
 
 Mit der **Funktion** help() kannst Du Dir **Hilfeseiten** zu allen *Funktionen* anzeigen lassen. Z.B. help(plotter) erklärt die Funktonsweise von der Funktion plotter().
