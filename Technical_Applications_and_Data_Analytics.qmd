@@ -202,7 +202,7 @@ Mitarbeitern in der gesamten Organisation genutzt werden können.
 -   Swift (2014), Objective-C (1984)
 -   Low Code: z.B. Scratch (2007), **Power Fx / Power Apps (2021)**
 
-![Abb. 1.a.4: Jobs als Programmierer im Ranking](topics/Introduction/entwickler-report-programmierer-stack-overflow-2-620x483.jpg.webp)
+![Abb. 1.a.4: Jobs als Programmierer im Ranking](topics/Introduction/entwickler-report-programmierer-stack-overflow.png)
 
 ##### Programmierparadigmen / Programmierstile
 
