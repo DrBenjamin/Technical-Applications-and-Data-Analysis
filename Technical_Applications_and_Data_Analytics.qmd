@@ -583,7 +583,7 @@ Big Data werden nicht nur wegen ihres
 Umfangs als „groß“ bezeichnet, sondern
 auch wegen der **Vielfalt** und **Komplexität** ihrer **Beschaffenheit**.
 
-![Abb. 1.d.3: Aktivität eines Wikipedia-Bots](topics/Introduction/Viegas-UserActivityonWikipedia.gif)
+![Abb. 1.d.3: Aktivität eines Wikipedia-Bots](topics/Introduction/Viegas-UserActivityonWikipedia.png)
 
 ## Technical Applications
 
