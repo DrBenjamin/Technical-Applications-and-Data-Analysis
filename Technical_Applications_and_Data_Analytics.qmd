@@ -47,6 +47,7 @@ format:
     lof: false
     lot: false
 link-citations: true
+bibliography: "./literature/references.bib"
 csl: "./literature/apa.csl"
 suppress-bibliography: true
 execute:
@@ -89,9 +90,7 @@ WS 2021 – B. Groß
 
 *oder auch: Was sind heute die wirklich wichtigen Fragen?!*
 
-Als Excel-Makro Code-Beispiel (VBA) auf Ilias verfügbar! *Die
-Excel-Makro-Datei (xlsm) wird regelmäßig aktualisiert, da sie sich in der
-Entwicklung befindet – daher regelmäßig den aktuellen Stand downloaden!*
+Als Excel-Makro Code-Beispiel (VBA) auf Ilias verfügbar! *Die Excel-Makro-Datei (xlsm) wird regelmäßig aktualisiert, da sie sich in der Entwicklung befindet – daher regelmäßig den aktuellen Stand downloaden!*
 
 **Der „Fragebogen“** oder auch: Was sind heute die wirklich wichtigen Fragen?!
 
@@ -108,17 +107,11 @@ Abb.: Microsoft Excel „Fragebogen“
 -   Ziele der Datenanalyse und Stand der Technik der Datenanalyse
 -   Einführung in die Begriffe BI, Reporting und Big Data
 
-**Definition Statistik:** Wissenschaft von Sammlung, Analyse und Interpretation und Kommunikation
-von Daten mithilfe mathematischer Verfahren zur Entscheidungsfindung.
+**Definition Statistik:** Wissenschaft von Sammlung, Analyse und Interpretation und Kommunikation von Daten mithilfe mathematischer Verfahren zur Entscheidungsfindung.
 
 **Definition Datenanalyse:** Der Prozess des Erhebens von Daten, ihrer Auswertung und Interpretation.
 
-**Definition Datenverarbeitung:** Der Prozess des Datensammelns und deren Umwandlung in nützliche
-Informationen. Es werden mit angemessenen Techniken (ohne die gewünschten
-Daten zu beeinträchtigen) Rohdaten in ein besser lesbares Format (Graphen,
-Dokumente etc.) umwandelt. Die Daten erhalten so die nötige Form und den
-erforderlichen Kontext, damit sie von Computern interpretiert und von
-Mitarbeitern in der gesamten Organisation genutzt werden können.
+**Definition Datenverarbeitung:** Der Prozess des Datensammelns und deren Umwandlung in nützliche Informationen. Es werden mit angemessenen Techniken (ohne die gewünschten Daten zu beeinträchtigen) Rohdaten in ein besser lesbares Format (Graphen, Dokumente etc.) umwandelt. Die Daten erhalten so die nötige Form und den erforderlichen Kontext, damit sie von Computern interpretiert und von Mitarbeitern in der gesamten Organisation genutzt werden können [@Romeijn2016; @Tukey1962] 
 
 #### 1.a) Geschichte der Datenanalyse und Datenverarbeitung (incl. Hardware)
 
@@ -458,23 +451,21 @@ Die **Anforderungen** von *Datenanalyse*, *Data Mining*, *maschinellem Lernen* u
 
 #### *Microsoft Excel*
 
-Die einfachste Form Daten am PC zu betrachten, bearbeiten und darzustellen
-ist heutzutage *Microsoft Excel* oder eine vergleichbare Tabellenkalkulation.
-Excel ist in Version 1.0 erstmals 1985 für Macintosh erschienen. Im November
-1987 in Version 2.0 ist es auch für Windows (Windows 2.x / 386) erschienen.
+Die einfachste Form Daten am PC zu betrachten, bearbeiten und darzustellen ist heutzutage *Microsoft Excel* oder eine vergleichbare Tabellenkalkulation. Excel ist in Version 1.0 erstmals 1985 für Macintosh erschienen. Im November 1987 in Version 2.0 ist es auch für Windows (Windows 2.x / 386) erschienen.
 
 ![Abb. 2.a.2: Zeitschiene *Microsoft Excel*](topics/Technical%20Applications/Excel.png)
 
 #### Grundbegriffe
 
-**Daten** (die Einzahl Datum ist ungewöhnlich) kann man als Informationen, die eine Funktion haben, beschreiben.1 Somit sind, von für den Menschen nützliche Daten, beliebige Daten ohne Zweck und Systematik ausgenommen. Der Zweck muss demnach zumindest Fachpersonal bekannt und gängigen Methoden der **Datenerfassung** und **Datenverarbeitung** zugänglich sein.
+**Daten** (die Einzahl Datum ist ungewöhnlich) kann man als Informationen, die eine Funktion haben, beschreiben.1 Somit sind, von für den Menschen nützliche Daten, beliebige Daten ohne Zweck und Systematik ausgenommen [@Sauer2019]. Der Zweck muss demnach zumindest Fachpersonal bekannt und gängigen Methoden der **Datenerfassung** und **Datenverarbeitung** zugänglich sein.
 
 Daten bestehen somit aus **Merkmalen** (Variablen). Hinzu kommen **Beobachtungseinheiten** (Fälle, Beobachtungen). Eine **Tabelle** mit ihren rechtwinkligen Achsen der Zeilen und Spalten hält im Kopf die **Variablennamen** und in den einzelnen Zeilen, die jeweils dem Merkmal zugordneten **Objekte**.
 
-**Merkmal 1** | **Merkmal 2** | **Merkmal 3**
-Objekt 1 M1 | Objekt 1 M2 | Objekt 1 M3
-Objekt 2 M1 | Objekt 2 M2 | Objekt 2 M3
-Objekt 3 M1 | Objekt 3 M2 | Objekt 3 M3
+**Merkmal 1** | **Merkmal 2** | **Merkmal 3** 
+Objekt 1 M1 | Objekt 1 M2 | Objekt 1 M3 
+Objekt 2 M1 | Objekt 2 M2 | Objekt 2 M3 
+Objekt 3 M1 | Objekt 3 M2 | Objekt 3 M3 
+
 *Abb. 2.a.3: Tabelle als Datensatz*
 
 #### Verschiedene Quellen von Daten und deren Zusammenhänge
@@ -483,12 +474,12 @@ Die Herkunft von Daten wird differenziert betrachtet.
 
 ##### Primärdaten
 
-- Beobachtung
-- Befragung
-- Experimentell
-- Sekundärdaten
-    - Interne Quellen
-    - Externe Quellen
+-   Beobachtung
+-   Befragung
+-   Experimentell
+-   Sekundärdaten
+    -   Interne Quellen
+    -   Externe Quellen
 
 ### 2.b) Verschiedene Quellen von Daten und deren Zusammenhänge
 
@@ -498,61 +489,31 @@ Die Herkunft von Daten wird differenziert betrachtet.
 
 Typischer Weise werden Daten in ***CSV*** und ***XML*** **Dateien** gespeichert.
 
-Einfache **Text-Dateien** (*.txt*) oder **Textverarbeitungsdateien** mit Endungen
-(Suffix) wie *.docx* (Microsoft Word) bzw. .xlsx (Microsoft Excel) und offene
-Formate (*.odt*) von Open-Source Office Suiten, eignen sich aufgrund der evtl.
-fehlenden Bibliotheken bzw. der fehlenden Struktur in den technischen
-Applikationen eher weniger.
+Einfache **Text-Dateien** (*.txt*) oder **Textverarbeitungsdateien** mit Endungen (Suffix) wie *.docx* (Microsoft Word) bzw. .xlsx (Microsoft Excel) und offene Formate (*.odt*) von Open-Source Office Suiten, eignen sich aufgrund der evtl. fehlenden Bibliotheken bzw. der fehlenden Struktur in den technischen Applikationen eher weniger.
 
-Ebenso denkbar ist die Speicherung in einer **Binärdatei**. Hier sind die Daten in
-Bitmustern gespeichert und nur mit entsprechenden Import-Bibliotheken der
-technischen Applikationen lesbar.
+Ebenso denkbar ist die Speicherung in einer **Binärdatei**. Hier sind die Daten in Bitmustern gespeichert und nur mit entsprechenden Import-Bibliotheken der technischen Applikationen lesbar.
 
 ### 2.c) Speicherung der Daten, Datenbanken, Datawarehouses
 
 #### Data Warehouse
 
-Ein **Data Warehouse** ist eine Art **Datenmanagementsystem**, mit dem BI-
-Aktivitäten (Business Intelligence), insbesondere Analysen, aktiviert und
-unterstützt werden. Data Warehouses dienen ausschließlich zur Durchführung
-von Abfragen und Analysen und enthalten häufig große Mengen an
-Verlaufsdaten. Die Daten in einem Data Warehouse stammen üblicherweise aus
-einer Vielzahl von Quellen, z. B. aus Anwendungsprotokolldateien und
-Transaktionsanwendungen.
+Ein **Data Warehouse** ist eine Art **Datenmanagementsystem**, mit dem BI- Aktivitäten (Business Intelligence), insbesondere Analysen, aktiviert und unterstützt werden. Data Warehouses dienen ausschließlich zur Durchführung von Abfragen und Analysen und enthalten häufig große Mengen an Verlaufsdaten. Die Daten in einem Data Warehouse stammen üblicherweise aus einer Vielzahl von Quellen, z. B. aus Anwendungsprotokolldateien und Transaktionsanwendungen.
 
-Ein Data Warehouse zentralisiert und konsolidiert **große Datenmengen** aus
-mehreren Quellen. Die Analysefunktionen ermöglichen es Unternehmen,
-**wertvolle Geschäftsinformationen** aus ihren Daten abzuleiten, um die
-**Entscheidungsfindung** zu verbessern. Im Laufe der Zeit wird ein
-Verlaufsdatensatz erstellt, der für Daten- und Geschäftsanalysten von
-unschätzbarem Wert sein kann. Aufgrund dieser Funktionen kann ein Data
-Warehouse als die „*einzige Quelle wahrer Daten*“ eines Unternehmens
-betrachtet werden.
+Ein Data Warehouse zentralisiert und konsolidiert **große Datenmengen** aus mehreren Quellen. Die Analysefunktionen ermöglichen es Unternehmen, **wertvolle Geschäftsinformationen** aus ihren Daten abzuleiten, um die **Entscheidungsfindung** zu verbessern. Im Laufe der Zeit wird ein Verlaufsdatensatz erstellt, der für Daten- und Geschäftsanalysten von unschätzbarem Wert sein kann. Aufgrund dieser Funktionen kann ein Data Warehouse als die „*einzige Quelle wahrer Daten*“ eines Unternehmens betrachtet werden.
 
 #### Speicherung von Daten in Computerspielen
 
-Eine Datenbank ist ein elektronisches Verwaltungssystem, das besonders mit
-großen Datenmengen effizient, widerspruchsfrei, dauerhaft umgehen muss und
-logische Zusammenhänge digital abbilden kann.
+Eine Datenbank ist ein elektronisches Verwaltungssystem, das besonders mit großen Datenmengen effizient, widerspruchsfrei, dauerhaft umgehen muss und logische Zusammenhänge digital abbilden kann.
 
-Es können Datenbestände aus verschiedenen Teilmengen zusammengestellt und bedarfsgerecht für Anwendungsprogramme und
-deren Benutzern angezeigt werden.
+Es können Datenbestände aus verschiedenen Teilmengen zusammengestellt und bedarfsgerecht für Anwendungsprogramme und deren Benutzern angezeigt werden.
 
-Heutzutage kann eine Datenbank viele Informationen beinhalten. Komplexe Datenbanken werden oft
-in Warenwirtschaftssystemen (abgekürzt WWS oder WaWi) verwendet oder auch zur Verarbeitung von
-Sozial- und Gesundheitsdaten (Sozialversicherungsträger, Sozialhilfeträger,
-Versorgungsbehörden, Haus- und Fachärzte).
+Heutzutage kann eine Datenbank viele Informationen beinhalten. Komplexe Datenbanken werden oft in Warenwirtschaftssystemen (abgekürzt WWS oder WaWi) verwendet oder auch zur Verarbeitung von Sozial- und Gesundheitsdaten (Sozialversicherungsträger, Sozialhilfeträger, Versorgungsbehörden, Haus- und Fachärzte).
 
 ![Abb. 2.c.1: Datenbanksysteme](topics/Technical%20Applications/datenbank.jpg)
 
-Spiele verwalten eine Menge Daten. Zum einen die Werte und Eigenschaften
-von In-Game Gegenständen, sowie die erhobenen Daten von Spieler-
-Interaktionen und Verhalten (z.B Highscores).
+Spiele verwalten eine Menge Daten. Zum einen die Werte und Eigenschaften von In-Game Gegenständen, sowie die erhobenen Daten von Spieler- Interaktionen und Verhalten (z.B Highscores).
 
-Da Spiele oftmals im Hinblick auf **Performance** konzipiert werden,
-müssen diese Daten effizient und konsistent gespeichert werden.
-Hierzu eigenen sich **Datenbanksysteme** um große Datenmengen zu
-speichern.
+Da Spiele oftmals im Hinblick auf **Performance** konzipiert werden, müssen diese Daten effizient und konsistent gespeichert werden. Hierzu eigenen sich **Datenbanksysteme** um große Datenmengen zu speichern.
 
 ![Abb. 2.c.2: *Microsoft SQL Studio*](topics/Technical%20Applications/mssqlstudio.jpg)
 
@@ -563,18 +524,17 @@ Datenbank-Sprache(n):
 -   MySQL
 -   Microsoft SQL Server
 -   SQLite
--   uvm.
--\> **Datenbank-Management-Systeme**!
+-   uvm. -\> **Datenbank-Management-Systeme**!
 
 Datenbank-Definition- und Manipulationssprache:
 
-- Data Definition Language (DDL)
-- Data Manipulation Language (DML)
-- Data Control Language (DCL)
+-   Data Definition Language (DDL)
+-   Data Manipulation Language (DML)
+-   Data Control Language (DCL)
 
 #### Data Definition Language
 
-```sql
+``` sql
 # Erstellen einer Tabelle
 CREATE TABLE loot_table(
 id integer PRIMARY KEY,
@@ -591,7 +551,7 @@ probability float);
 
 #### Data Manipulation Language
 
-```sql
+``` sql
 # Daten in Tabelle einfügen
 INSERT INTO loot_table(1, ’Stuff you don’t need’, 0.999);
 INSERT INTO loot_table(2, ’Stuff you need’, 0.0001);
@@ -609,7 +569,7 @@ SELECT \* FROM loot_table
 
 #### Verbund von Daten
 
-```sql
+``` sql
 # Verbund von Daten aus zwei Tabellen
 JOIN
 
@@ -620,15 +580,15 @@ LEFT JOIN marketvalue_table mv_t
 ON mv_t.name = l_t.name
 ```
 
-id | name | price
--- | -- | --
-1 |Stuff you don’t need | 1
-2 |Stuff you need | 100
-3 |Stuff you might need | 25
+| id  | name                 | price |
+|-----|----------------------|-------|
+| 1   | Stuff you don’t need | 1     |
+| 2   | Stuff you need       | 100   |
+| 3   | Stuff you might need | 25    |
 
 #### Mengenoperationen
 
-```sql
+``` sql
 # Mengenoperationen auf Tabellen
 UNION
 SELECT \* loot_table
@@ -648,13 +608,9 @@ MINUS (EXCEPT!)
 SELECT id, name, probability WHERE id IN (1, 2)
 ```
 
-**Fragen an Lukas der als Gast-Dozent zu einer Vorlesung kam** (er ist
-Softwareentwickler im Gaming-Bereich für Datenbanksysteme)
+**Fragen an Lukas der als Gast-Dozent zu einer Vorlesung kam** (er ist Softwareentwickler im Gaming-Bereich für Datenbanksysteme)
 
--   Welche Arten der Speicherung von Spieldaten (Spielstände, Konfiguration /
-Einstellungen, Werte von Spielobjekten z.B. Fußballspieler) gibt es
-grundsätzlich und welche Vor- und Nachteile (Komprimierungsgrad,
-Geschwindigkeit, Datensicherheit) hat das jeweilige?
+-   Welche Arten der Speicherung von Spieldaten (Spielstände, Konfiguration / Einstellungen, Werte von Spielobjekten z.B. Fußballspieler) gibt es grundsätzlich und welche Vor- und Nachteile (Komprimierungsgrad, Geschwindigkeit, Datensicherheit) hat das jeweilige?
 -   Wie groß ist das Team?
 -   Welche Aufgaben hast Lukas im Einzelnen?
 -   Ungefähre Auflage / Verkäufe des Spiels?
@@ -663,7 +619,7 @@ Geschwindigkeit, Datensicherheit) hat das jeweilige?
 
 **SQL-Workshop mit Lukas** (Datei *SQL_mit_Lukas.R* auf Ilias)
 
-```r
+``` r
 # Mit LEFT JOIN zwei Tabellen vereinen, mit UNION Einträge hinzufügen
 # R Code in **Farbe**, SQL Code in **Farbe** koelsch <- read.csv("Koelsch.csv")
 kirche <- read.csv("Kirche.csv")
@@ -685,37 +641,34 @@ koelsch_kirche <- sqldf('
 
 #### Grundlagen
 
-Für die Durchführung der in diesem Kurs behandelten praktischen
-Anwendungsfälle wird spezielle **Data-Analyse-Software** (*R*) eingesetzt, deren
-Bedienung und Funktionalität erweiterte Kenntnisse voraussetzt.
+Für die Durchführung der in diesem Kurs behandelten praktischen Anwendungsfälle wird spezielle **Data-Analyse-Software** (*R*) eingesetzt, deren Bedienung und Funktionalität erweiterte Kenntnisse voraussetzt.
 
-Darüber hinaus sind Kenntnisse in der **Tabellenkalkulation** (*Excel*) notwendig.
-Mit einem Tabellenkalkulationsprogramm können Daten einer ersten Analyse
-unterzogen werden; es lassen sich Abhängigkeiten zwischen Attributen
-entdecken, oder die Ergebnisse eines Daten-Analyse-Modells können analysiert
-beziehungsweise nachgearbeitet werden.
+Darüber hinaus sind Kenntnisse in der **Tabellenkalkulation** (*Excel*) notwendig. Mit einem Tabellenkalkulationsprogramm können Daten einer ersten Analyse unterzogen werden; es lassen sich Abhängigkeiten zwischen Attributen entdecken, oder die Ergebnisse eines Daten-Analyse-Modells können analysiert beziehungsweise nachgearbeitet werden.
 
-Ein **Text-Editor** (*Notepad++ (Windows), Brackets (MacOS)*, *Kodex (iPadOS)*),
-der zudem die Arbeit mit Makros ermöglicht, ist ein weiteres nützliches
-Werkzeug in der Vor- sowie Nachbereitung einer Datenanalyse.
+Ein **Text-Editor** (*Notepad++ (Windows), Brackets (MacOS)*, *Kodex (iPadOS)*), der zudem die Arbeit mit Makros ermöglicht, ist ein weiteres nützliches Werkzeug in der Vor- sowie Nachbereitung einer Datenanalyse.
 
-Nicht zuletzt sei darauf verwiesen, dass hin und wieder die eigene Entwicklung
-kleiner Programme (Funktionen für Berechnungen) für die Datenvorverarbeitung
-sowie die Analyseauswertung erforderlich sein kann. Dazu kann eine beliebige
-**Programmiersprache** (z.B. *R* oder *VBA*) herangezogen werden.
+Nicht zuletzt sei darauf verwiesen, dass hin und wieder die eigene Entwicklung kleiner Programme (Funktionen für Berechnungen) für die Datenvorverarbeitung sowie die Analyseauswertung erforderlich sein kann. Dazu kann eine beliebige **Programmiersprache** (z.B. *R* oder *VBA*) herangezogen werden.
 
 **Vor- und Nachteile von R**
 
 -   ist kostenlos da Open Source
+
 -   viele Erweiterungen verfügbar
+
 -   eigene R-Pakete (mit eigenen Daten oder Funktionen lassen sich mittels Github erstellen
+
 -   gute Dokumentation und viele Anleitungen (Community) im Netz
+
 -   für viele Anwendungszwecke geeignet (z.B. um SQL zu lernen)
+
 -   für alle Plattformen verfügbar (Windows, Mac, Linux, iPadOS)
+
 -   viele Konnektoren zu anderen Sprachen (z.B. zu Datenbanken)
 
--   umfangreicher Funktionsumfang -> lange Einarbeitung notwendig
+-   umfangreicher Funktionsumfang -\> lange Einarbeitung notwendig
+
 -   setzt fortgeschrittene Statistik-Kenntnisse voraus
+
 -   nur eines unter vielen Statistik-Programmen (im Hinblick auf Bewerbungen)
 
 ## Einführung und Erarbeitung der „Data Management“
@@ -733,16 +686,13 @@ sowie die Analyseauswertung erforderlich sein kann. Dazu kann eine beliebige
 
 #### Definition Algorithmus
 
-*Ein **Algorithmus** ist eine formale Handlungsvorschrift zur Lösung von
-Instanzen einer bestimmten Problemklasse.* 1
+*Ein **Algorithmus** ist eine formale Handlungsvorschrift zur Lösung von Instanzen einer bestimmten Problemklasse.* [@Sauer2019]
 
-Die Bezeichnung ist abgeleitet aus dem Namen des persischen Gelehrten
-Muhammad ibn Musa al-Chwarizmi.
+Die Bezeichnung ist abgeleitet aus dem Namen des persischen Gelehrten Muhammad ibn Musa al-Chwarizmi.
 
 #### Informelle Beispiele
 
-In der Alltagssprache werden oft informelle Beispiele für Algorithmen
-angeführt, z. B.:
+In der Alltagssprache werden oft informelle Beispiele für Algorithmen angeführt, z. B.:
 
 -   Kochrezept
 -   Bauanleitung
@@ -754,35 +704,19 @@ angeführt, z. B.:
 
 #### Definition Data Management
 
-***Data Management** befasst sich mit den Themen und Disziplinen
-deren Ziel es ist, Daten bereitzustellen und zu verwalten.*
+***Data Management** befasst sich mit den Themen und Disziplinen deren Ziel es ist, Daten bereitzustellen und zu verwalten.*
 
-**Lean Data Management** ist die Verbesserung dieser Disziplinen
-durch Vermeidung von Verschwendungen.
-**Verschwendungen** im Datenmanagement treten hauptsächlich auf,
-wenn Prozesse ineffizient laufen oder fehlerhafte Ergebnisse liefern,
-weil die Daten auf denen sie basieren, schlecht strukturiert oder gar
-falsch sind. Auswirkungen sind **steigende Prozesskosten** und
-Umsatzverluste.
+**Lean Data Management** ist die Verbesserung dieser Disziplinen durch Vermeidung von Verschwendungen. **Verschwendungen** im Datenmanagement treten hauptsächlich auf, wenn Prozesse ineffizient laufen oder fehlerhafte Ergebnisse liefern, weil die Daten auf denen sie basieren, schlecht strukturiert oder gar falsch sind. Auswirkungen sind **steigende Prozesskosten** und Umsatzverluste.
 
 #### Methoden des Data Managements
 
-**Vereinfachen** Sie den Zugriff auf traditionelle und neue Daten. Mehr Daten
-bedeuten im Allgemeinen bessere Prädiktoren.
+**Vereinfachen** Sie den Zugriff auf traditionelle und neue Daten. Mehr Daten bedeuten im Allgemeinen bessere Prädiktoren.
 
-**Stärken des Data Scientists** mit fortschrittlichen Analysetechniken. Die
-Häufigkeitsanalyse hilft beispielsweise, Ausreißer und fehlende Werte zu
-identifizieren, die andere Maße wie Mittelwert, Durchschnitt und Median
-verzerren können.
+**Stärken des Data Scientists** mit fortschrittlichen Analysetechniken. Die Häufigkeitsanalyse hilft beispielsweise, Ausreißer und fehlende Werte zu identifizieren, die andere Maße wie Mittelwert, Durchschnitt und Median verzerren können.
 
-**Bereinigen der Daten**, um Qualität in bestehende Prozesse zu integrieren.
-Bis zu 40 Prozent aller strategischen Prozesse scheitern an schlechten
-Daten.
+**Bereinigen der Daten**, um Qualität in bestehende Prozesse zu integrieren. Bis zu 40 Prozent aller strategischen Prozesse scheitern an schlechten Daten.
 
-**Gestalten der Daten** mit flexiblen Manipulationstechniken. Die Vorbereitung
-von Daten für Analysen erfordert das Zusammenführen, Transformieren,
-Denormalisieren und manchmal das Aggregieren der Quelldaten aus
-mehreren Tabellen in eine sehr breite Tabelle (Analytische Basistabelle, ABT).
+**Gestalten der Daten** mit flexiblen Manipulationstechniken. Die Vorbereitung von Daten für Analysen erfordert das Zusammenführen, Transformieren, Denormalisieren und manchmal das Aggregieren der Quelldaten aus mehreren Tabellen in eine sehr breite Tabelle (Analytische Basistabelle, ABT).
 
 **Metadaten freigeben,** über Datenverwaltungs- und Analysedomänen hinweg.
 
@@ -792,17 +726,13 @@ mehreren Tabellen in eine sehr breite Tabelle (Analytische Basistabelle, ABT).
 
 #### Definition Data Mining
 
-***Data Mining** ist ein analytischer Prozess, der eine
-möglichst autonome und effiziente Identifizierung und Beschreibung von **interessanten
-Datenmustern** aus großen Datenbeständen ermöglicht.*
+***Data Mining** ist ein analytischer Prozess, der eine möglichst autonome und effiziente Identifizierung und Beschreibung von **interessanten Datenmustern** aus großen Datenbeständen ermöglicht.*
 
 ![Abb. 3.c.1: *Ablauf eines Data-Mining-Prozesses*](topics/Data%20Management/Phasen_Data_Mining.png)
 
 #### Methoden
 
-Die **Methoden** des Data Minings lassen sich grundsätzlich in die Gruppen
-**Klassifikation**, **Prognose**, **Segmentierung** und **Abhängigkeits-
-entdeckung** enteilen.
+Die **Methoden** des Data Minings lassen sich grundsätzlich in die Gruppen **Klassifikation**, **Prognose**, **Segmentierung** und **Abhängigkeits- entdeckung** enteilen.
 
 ### 3.d) Techniken des Data Mining
 
@@ -810,30 +740,23 @@ entdeckung** enteilen.
 
 #### Grundsätzliches
 
-Die **Visualisierung** von Datenanalyse Ergebnissen reicht in der Regel alleine nicht aus. Bei der vorherigen **Datentransformation** mittels die **Schlüsselverben** werden wichtige **Variablen** ausgewählt und die wichtigen **Beobachtungen** herausgefiltert. Zudem können neue Variablen erstellt, sowie sinnvolle **Zusammenfassungen** berechnet werden.
+Die **Visualisierung** von Datenanalyse Ergebnissen reicht in der Regel alleine nicht aus. Bei der vorherigen **Datentransformation** mittels die **Schlüsselverben** werden wichtige **Variablen** ausgewählt und die wichtigen **Beobachtungen** herausgefiltert. Zudem können neue Variablen erstellt, sowie sinnvolle **Zusammenfassungen** berechnet werden [@Wickham2017].
 
 ### 3.e) Visuelle und Maschinelle Verfahren des Data Mining
 
 #### Visuelle Verfahren
 
-Unter zur Hilfename von Tools,
-können **Data Mining Prozesse** und **Algorithmen** einfach konfiguriert
-und die Ergebnisse zur leichten Verständlichkeit visualisiert werden.
+Unter zur Hilfename von Tools, können **Data Mining Prozesse** und **Algorithmen** einfach konfiguriert und die Ergebnisse zur leichten Verständlichkeit visualisiert werden.
 
-Ein Beispiel ist ***Knime.*** Die Datenmanipulation wird visuell
-anhand einzelner **Funktionsknoten** dargestellt und kann individuell
-beschriftet werden. Dadurch werden die einzelnen Prozessschritte greifbar und der komplette
-Analyseprozess dadurch langfristig **nachvollziehbar** und **reproduzierbar**.
+Ein Beispiel ist ***Knime.*** Die Datenmanipulation wird visuell anhand einzelner **Funktionsknoten** dargestellt und kann individuell beschriftet werden. Dadurch werden die einzelnen Prozessschritte greifbar und der komplette Analyseprozess dadurch langfristig **nachvollziehbar** und **reproduzierbar**.
 
 ![Abb. 3.e.1: Data Mining Tools](topics/Data%20Management/Data%20Mining%20Tools.png)
 
 **Maschinelle Verfahren** (Datei *mining.py* auf Ilias)
 
-Mittels **Programmierung** (oder Scripting) ist es möglich
-Datenauswertungen durch die Ausführung von Code zu erstellen. Für die
-Datenanalyse wird am häufigsten die Programmiersprache ***Python*** verwendet.
+Mittels **Programmierung** (oder Scripting) ist es möglich Datenauswertungen durch die Ausführung von Code zu erstellen. Für die Datenanalyse wird am häufigsten die Programmiersprache ***Python*** verwendet.
 
-```python
+``` python
 # Bibliotheken laden
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -850,8 +773,7 @@ print(df.describe())
 
 #### Die Algorithmen
 
-Zur Mustererkennung in Daten kommen **Algorithmen** aus der **Statistik**, **Mathematik** und
-Informatik zum Einsatz.
+Zur Mustererkennung in Daten kommen **Algorithmen** aus der **Statistik**, **Mathematik** und Informatik zum Einsatz.
 
 ### 3.f) Einführung und Übersicht der Algorithmen des Data Mining
 
@@ -859,110 +781,87 @@ Informatik zum Einsatz.
 
 #### Anwendungsbeispiele
 
-- **Customer Relationship Management**
-    - CLV-Vorhersagen
-    - Cross- und Upselling Optimierung
-    - Churn Prediction
-- **Produktion und Logistik**
-    - Optimierung der Supply Chain
-    - Predictive Maintenance
-    - Prognose von Nachfrage
-- **Medizin / Forschung Allgemein**
-    - Erkennung von Krankheiten auf Bildern
-    - Therapievorschläge
-    - Identifizierung von Anomalien
+-   **Customer Relationship Management**
+    -   CLV-Vorhersagen
+    -   Cross- und Upselling Optimierung
+    -   Churn Prediction
+-   **Produktion und Logistik**
+    -   Optimierung der Supply Chain
+    -   Predictive Maintenance
+    -   Prognose von Nachfrage
+-   **Medizin / Forschung Allgemein**
+    -   Erkennung von Krankheiten auf Bildern
+    -   Therapievorschläge
+    -   Identifizierung von Anomalien
 
 ### 3.g) Interpretation der
 
-Verschiedenen Algorithmen und Reflektion der
-Ergebnisse des Data Mining
+Verschiedenen Algorithmen und Reflektion der Ergebnisse des Data Mining
 
 ![Abb. 3.g.1: Abwanderungsvorhersage](topics/Data%20Management/Churn_prediction_vorhersage_abwanderung_von_kunden.jpg)
 
 #### Data Mining Algorithmen
 
-- **Lineare Regression**
-- **Logistische Regression**
-- **Entscheidungsbäume**
-    - ID3, C4.5, CART, CHAID, MARS
-- **Support Vector Maschine (SVM)**
-- **Clustering Algorithmen**
-    - K-Means, DB-Scan, Self Organized Maps, Hierarchisches Clustering
-- **Random Forest**
-- **Gradient Boosted Trees**
-- **künstliche Neuronale Netze**
-- **Recommernder System**
-- **Assoziations Analysen**
-    - Apriori Algorithmus, FPgrowth
+-   **Lineare Regression**
+-   **Logistische Regression**
+-   **Entscheidungsbäume**
+    -   ID3, C4.5, CART, CHAID, MARS
+-   **Support Vector Maschine (SVM)**
+-   **Clustering Algorithmen**
+    -   K-Means, DB-Scan, Self Organized Maps, Hierarchisches Clustering
+-   **Random Forest**
+-   **Gradient Boosted Trees**
+-   **künstliche Neuronale Netze**
+-   **Recommernder System**
+-   **Assoziations Analysen**
+    -   Apriori Algorithmus, FPgrowth
 
 ### 3.g) Interpretation der Verschiedenen Algorithmen und Reflektion der Ergebnisse des Data Mining
 
 #### Auswahl des passenden Algorithmus
 
 -   **Klassifikation**
-    - z.B. Kundengewinnung
-        - *Entscheidungsbaum* / *Decision tree* -> Reaktion von Kunden
+    -   z.B. Kundengewinnung
+        -   *Entscheidungsbaum* / *Decision tree* -\> Reaktion von Kunden
 -   **Prognose**
-    - z.B. Kundenwert eines Unternehmens (B2B)
-        - *Text Mining (z.B. Webseite)* -> steigender Wert
-- **Gruppierung**
-    - z.B. Kundenverhalten
-        - *Cluster Analyse (K-Means) -> Reaktion von Kunden
-- **Assoziation**
-    - z.B. Regeln unabhängig vom Kunden (ist evtl. nicht bekannt)
-        - *Warenkorbanalyse* / *Basket Analysis* -> steigender Absatz
+    -   z.B. Kundenwert eines Unternehmens (B2B)
+        -   *Text Mining (z.B. Webseite)* -\> steigender Wert
+-   **Gruppierung**
+    -   z.B. Kundenverhalten
+        -   \*Cluster Analyse (K-Means) -\> Reaktion von Kunden
+-   **Assoziation**
+    -   z.B. Regeln unabhängig vom Kunden (ist evtl. nicht bekannt)
+        -   *Warenkorbanalyse* / *Basket Analysis* -\> steigender Absatz
 
 #### Text Mining
 
-Text Mining befasst sich mit der Analyse von Textdokumenten. Texte sind im
-Gegensatz zu Datenbanken und Web-Seiten unstrukturiert. Texte genügen natürlich
-auch Strukturvorgaben wie einer Grammatik, \[…\] letztendlich sind sie unstrukturiert.
+Text Mining befasst sich mit der Analyse von Textdokumenten. Texte sind im Gegensatz zu Datenbanken und Web-Seiten unstrukturiert. Texte genügen natürlich auch Strukturvorgaben wie einer Grammatik, \[…\] letztendlich sind sie unstrukturiert.
 
-Häufig ist man an einer Klassifizierung eines Dokuments, beispielsweise nach Themengebiet oder fachlichem Niveau, interessiert. Ein Ansatz ist, zunächst relevante
-mengebiet oder fachlichem Niveau, interessiert. Ein Ansatz ist, zunächst relevante
-Begriffe aus dem Dokument zu extrahieren, um anhand dieser das Dokument
-einzuordnen. Eine zweite mögliche Anwendung ist die Quantifizierung der Ähnlichkeit
-von Dokumenten.
+Häufig ist man an einer Klassifizierung eines Dokuments, beispielsweise nach Themengebiet oder fachlichem Niveau, interessiert. Ein Ansatz ist, zunächst relevante mengebiet oder fachlichem Niveau, interessiert. Ein Ansatz ist, zunächst relevante Begriffe aus dem Dokument zu extrahieren, um anhand dieser das Dokument einzuordnen. Eine zweite mögliche Anwendung ist die Quantifizierung der Ähnlichkeit von Dokumenten.
 
-\[…\] Da die Daten nur unstrukturiert vorliegen, ist der erste Schritt das Extrahieren der
-interessanten Informationen aus den Textdokumenten. Dies können beispielsweise
-Schlüsselwörter, die Häufigkeitsverteilung von Begriffen oder eine erste
-Kategorisierung oder hierarchische Gruppierung sein. Irrelevante Wörter (stop words)
-müssen herausgefiltert und Abkürzungen erkannt werden.
+\[…\] Da die Daten nur unstrukturiert vorliegen, ist der erste Schritt das Extrahieren der interessanten Informationen aus den Textdokumenten. Dies können beispielsweise Schlüsselwörter, die Häufigkeitsverteilung von Begriffen oder eine erste Kategorisierung oder hierarchische Gruppierung sein. Irrelevante Wörter (stop words) müssen herausgefiltert und Abkürzungen erkannt werden [@Cleve2020].
 
 ### 3.h) Grundlagen des Web und Text Mining
 
 #### Web Mining
 
-Anwendungen des **Data Minings**, die das Internet als Datenquelle für die
-Mustererkennung heranziehen, werden unter dem Themengebiet des Web Minings
-zusammenge-fasst. In Abhängigkeit von der inhalts- oder nutzungsorientierten
-Analyse des World Wide Web (WWW) lassen sich die Teilgebiete **Web Content
-Mining**, **Web Structure Mining** und **Web Usage Mining** voneinander abgrenzen.
+Anwendungen des **Data Minings**, die das Internet als Datenquelle für die Mustererkennung heranziehen, werden unter dem Themengebiet des Web Minings zusammenge-fasst. In Abhängigkeit von der inhalts- oder nutzungsorientierten Analyse des World Wide Web (WWW) lassen sich die Teilgebiete **Web Content Mining**, **Web Structure Mining** und **Web Usage Mining** voneinander abgrenzen.
 
-**Web Content Mining** befasst sich mit der Analyse von den im WWW befindlichen
-Daten. Dazu gehören textuelle und multimediale Informationen jeglichen Formats. \[…\]
+**Web Content Mining** befasst sich mit der Analyse von den im WWW befindlichen Daten. Dazu gehören textuelle und multimediale Informationen jeglichen Formats. \[…\]
 
-**Web Structure Mining** untersucht Links und Link-Strukturen. Dadurch können
-wichtige beziehungsweise populäre Seiten gefunden werden. \[…\]
+**Web Structure Mining** untersucht Links und Link-Strukturen. Dadurch können wichtige beziehungsweise populäre Seiten gefunden werden. \[…\]
 
-**Web Usage Mining** dagegen befasst sich mit dem Verhalten von Internet-Nutzern.
-Bei dieser Form des Web Mining werden Data-Mining-Methoden auf die
-Protokolldateien des Webservers angewandt, um Aufschlüsse über Verhaltensmuster
-und Interessen der Online-Nutzer zu erhalten. \[…\]
+**Web Usage Mining** dagegen befasst sich mit dem Verhalten von Internet-Nutzern. Bei dieser Form des Web Mining werden Data-Mining-Methoden auf die Protokolldateien des Webservers angewandt, um Aufschlüsse über Verhaltensmuster und Interessen der Online-Nutzer zu erhalten. \[…\]
+
+## Erarbeiten IT-technischer Rahmenbedingungen
 
 Erarbeiten IT-technischer Rahmenbedingungen:
 
--   Anleitung / Installation der Open Source Lösung auf
-    den Rechner der Studenten und Konfiguration von *Microsoft Excel (VBA)*
+-   Anleitung / Installation der Open Source Lösung auf den Rechner der Studenten und Konfiguration von *Microsoft Excel (VBA)*
 -   Einführung und Anleitung der Applikation *R*
 -   Datenerfassung sowie das Einlesen der Beispieldaten zur ersten Analyse
 
-**4. Erarbeiten IT-technischer Rahmenbedingungen**
-
-**4. Erarbeiten IT-technischer Rahmenbedingungen
-4.a) Anleitung / Installation der Open Source Lösung auf den Rechner der
-Studenten und Konfiguration von *Microsoft Excel (VBA)***
+### 4.a) Anleitung / Installation der Open Source Lösung auf den Rechner der Studenten und Konfiguration von *Microsoft Excel (VBA)*\*\*
 
 #### Excel Datei mit Makro-Code (VBA) anpassen
 
@@ -978,99 +877,61 @@ Studenten und Konfiguration von *Microsoft Excel (VBA)***
 
 **Visual Basic** klicken und die entsprechenden Elemente anpassen
 
-**4. Erarbeiten IT-technischer Rahmenbedingungen
-4.a) Anleitung / Installation der Open Source Lösung auf den Rechner der
-Studenten und Konfiguration von *Microsoft Excel (VBA)***
-
-**Installation der (Text-)Editoren
-Windows** Für das Microsoft Windows Betriebssystem hat sich der kostenlose Editor ***Notepad++*** in
-Funktionsumfang, Performance und Anwenderfreundlichkeit einen deutlichen Vorsprung gegenüber
-der Konkurrenz erarbeitet.
-*Notepadd++* herunterladen unter:<https://notepad-plus-plus.org/downloads/>
+**Installation der (Text-)Editoren Windows** Für das Microsoft Windows Betriebssystem hat sich der kostenlose Editor ***Notepad++*** in Funktionsumfang, Performance und Anwenderfreundlichkeit einen deutlichen Vorsprung gegenüber der Konkurrenz erarbeitet. *Notepadd++* herunterladen unter:<https://notepad-plus-plus.org/downloads/>
 
 #### MacOS
 
-Für das Apple MacOS Betriebssystem kann man sehr gut auf den kostenlosen Editor ***Brackets*** von
-Adobe zurückgreifen. *Brackets* herunterladen unter: [https://brackets.de.uptodown.com/mac
-](https://brackets.de.uptodown.com/mac)Unter[https://registry.brackets.io](https://registry.brackets.io/) lassen sich eine Vielzahl an Erweiterungen downloaden und unter *Datei – Erweiterungsverwaltung* installieren. Für die Vorlesung sind wichtig:
+Für das Apple MacOS Betriebssystem kann man sehr gut auf den kostenlosen Editor ***Brackets*** von Adobe zurückgreifen. *Brackets* herunterladen unter: <https://brackets.de.uptodown.com/mac>Unter[https://registry.brackets.io](https://registry.brackets.io/) lassen sich eine Vielzahl an Erweiterungen downloaden und unter *Datei – Erweiterungsverwaltung* installieren. Für die Vorlesung sind wichtig:
 
-- *Beautifiy* (Code formatter, z.B. XML-Struktur)
-- *Documents-Toolbar* (Toolbar mit Tabs)
-- *BracketstoIX* (Top menu IX mit vielen Funktionen)
-- *Excel to Table* (Excel Tabellen in Brackets einfügen)
-- *Newline* (konvertiert den Zeilenumbruch LF (Mac / Linux) \<--\> CRLF (Windows))
+-   *Beautifiy* (Code formatter, z.B. XML-Struktur)
+-   *Documents-Toolbar* (Toolbar mit Tabs)
+-   *BracketstoIX* (Top menu IX mit vielen Funktionen)
+-   *Excel to Table* (Excel Tabellen in Brackets einfügen)
+-   *Newline* (konvertiert den Zeilenumbruch LF (Mac / Linux) \<--\> CRLF (Windows))
 
 #### iPadOS
 
 Für das Apple iPad kann der Editor ***Kodex*** über den Apple App Store installiert werden.
 
-**4. Erarbeiten IT-technischer Rahmenbedingungen
-4.a) Anleitung / Installation der Open Source Lösung auf den Rechner der
-Studenten und Konfiguration von *Microsoft Excel (VBA)***
+**4. Erarbeiten IT-technischer Rahmenbedingungen 4.a) Anleitung / Installation der Open Source Lösung auf den Rechner der Studenten und Konfiguration von *Microsoft Excel (VBA)***
 
 #### Installation von *R*
 
-***R*** herunterladen unter[: https://cran.r-project.org/bin/macosx/](https://cran.r-project.org/bin/macosx/)(MacOS) oder
-<https://cran.r-project.org/bin/windows/base/>(Windows)
+***R*** herunterladen unter[: https://cran.r-project.org/bin/macosx/](https://cran.r-project.org/bin/macosx/)(MacOS) oder <https://cran.r-project.org/bin/windows/base/>(Windows)
 
 #### Inhalte und Anwendungsgebiet
 
-In dem Installations-Paket sind alle notwendigen Basisfunktionen enthalten
-[(*base-package*) siehe https://stat.ethz.ch/R-manual/R-
-devel/library/base/html/00Index.html.](https://stat.ethz.ch/R-manual/R-devel/library/base/html/00Index.html)
+In dem Installations-Paket sind alle notwendigen Basisfunktionen enthalten [(*base-package*) siehe https://stat.ethz.ch/R-manual/R- devel/library/base/html/00Index.html.](https://stat.ethz.ch/R-manual/R-devel/library/base/html/00Index.html)
 
-*R* ist eine vollständige, **objekt-orientierte Programmiersprache** und kann
-vielfältige Operationen mit einer eigenen Syntax ausführen. Häufig wird *R* zur
-statistischen Datenverarbeitung eingesetzt.
+*R* ist eine vollständige, **objekt-orientierte Programmiersprache** und kann vielfältige Operationen mit einer eigenen Syntax ausführen. Häufig wird *R* zur statistischen Datenverarbeitung eingesetzt.
 
-Im ***Comprehensive R Archive Network*** (kurz: *CRAN*), einem Netz aus
-Webservern, werden über 2000 Funktionserweiterungen, Datensätze und Code
-in Form von Paketen bereitgestellt.
+Im ***Comprehensive R Archive Network*** (kurz: *CRAN*), einem Netz aus Webservern, werden über 2000 Funktionserweiterungen, Datensätze und Code in Form von Paketen bereitgestellt.
 
-**4. Erarbeiten IT-technischer Rahmenbedingungen
-4.a) Anleitung / Installation der Open Source Lösung auf den Rechner der
-Studenten und Konfiguration von *Microsoft Excel (VBA)***
+**4. Erarbeiten IT-technischer Rahmenbedingungen 4.a) Anleitung / Installation der Open Source Lösung auf den Rechner der Studenten und Konfiguration von *Microsoft Excel (VBA)***
 
 #### *R* auf dem *iPad* (oder *iPhone*) installieren
 
 Auf dem *iPad* im App Store *TestFlight* installieren. Dann mittels des Links die aktuelle Beta\
 von *iSH-AOK* installieren: <https://testflight.apple.com/join/X1flyiqE>
 
-## Erarbeiten IT-technischer Rahmenbedingungen
+Um *R* auf dem *iPad* sinnvoll nutzen zu können, kann die *Dateien* App in den **Splitscreen** an den Bildschirmrand hinzugefügt werden.
 
-**4.a) Anleitung / Installation der Open Source Lösung auf den Rechner der
-Studenten und Konfiguration von *Microsoft Excel (VBA)
-R* auf dem *iPad* (oder *iPhone*) nutzen**
+In der Dateien App muss vorher das **Laufwerk** *ish* **aktiviert** werden. Die Ausgabe-Dateien liegen unter ish `/home/ish/R/`
 
-Um *R* auf dem *iPad* sinnvoll nutzen zu können, kann die
-*Dateien* App in den **Splitscreen** an den Bildschirmrand hinzugefügt werden.
-
-In der Dateien App muss vorher
-das **Laufwerk** *ish* **aktiviert** werden. Die Ausgabe-Dateien
-liegen unter ish `/home/ish/R/`
-
-Nach der Ausgabe eines
-Diagrammes zum **Aktualisieren** des Ordnerinhaltes einmal\
+Nach der Ausgabe eines Diagrammes zum **Aktualisieren** des Ordnerinhaltes einmal\
 zurück und wieder rein gehen.
 
 ![Abb. 4.a.1: *R* auf *iPad* mit *Dateien* App im Splitscreen](topics/Data%20Management/iPad_ish_R.png)
 
-### 4.a) Anleitung / Installation der Open Source Lösung auf den Rechner der Studenten und Konfiguration von *Microsoft Excel (VBA)***
-
 #### *R Studio* und *Xquartz* installieren
 
-***RStudio*** herunterladen unter (*R* muss vorher installiert sein):
-[https://www.rstudio.com/products/rstudio/download/#download](https://www.rstudio.com/products/rstudio/download/)(Windows /
-MacOS)
+***RStudio*** herunterladen unter (*R* muss vorher installiert sein): [https://www.rstudio.com/products/rstudio/download/#download](https://www.rstudio.com/products/rstudio/download/)(Windows / MacOS)
 
-***XQuartz*** herunterladen unter:
-[https://www.xquartz.org](https://www.xquartz.org/)(MacOS)
+***XQuartz*** herunterladen unter: [https://www.xquartz.org](https://www.xquartz.org/)(MacOS)
 
-Unter *RStudio* lassen sich komplexe Skripte ausführen, das
-Paketmanagement ist vereinfacht sowie ist die grafische Ausgabe möglich.
+Unter *RStudio* lassen sich komplexe Skripte ausführen, das Paketmanagement ist vereinfacht sowie ist die grafische Ausgabe möglich.
 
-*XQuartz* bietet unter *MacOS* eine X.Org (X Window System) Version. X.Org ist unter Linux /
-Unix die grafische Benutzeroberfläche.
+*XQuartz* bietet unter *MacOS* eine X.Org (X Window System) Version. X.Org ist unter Linux / Unix die grafische Benutzeroberfläche.
 
 ![Abb. 4.a.2: *R-Studio*](topics/Rahmenbedingungen/R-Studio.png)
 
@@ -1088,7 +949,7 @@ Unix die grafische Benutzeroberfläche.
 
 #### R Code
 
-```r
+``` r
 # Kommentare / nicht ausführbarer Code werden mit der Raute bzw. hashtag eingeleitet
 temperatur <- -10
 
@@ -1113,7 +974,7 @@ text <- temperatur
 
 #### Einführung in *R*
 
-```r
+``` r
 # Funktionen ausführen
 help(c)
 
@@ -1145,7 +1006,7 @@ temperatur < 8 | temperatur > 0 # | oder Statement
 
 #### Einführung in *R* – Diagramme (Datei *Diagramme.R* auf Ilias)
 
-```r
+``` r
 # Library ourdata laden
 library(ourdata)
 
@@ -1170,7 +1031,7 @@ boxplot(koelsch$Koelsch)
 
 #### Einführung in *R* – Diagramme (Datei *Diagramme.R* auf Ilias)
 
-```r
+``` r
 # Dichte-Diagramm, zeigt die Verteilung einer numerischen Variablen
 # über ein kontinuierliches Intervall. Peaks eines Dichte-Diagramms
 # visualisieren, wo sich die Werte numerischer Variablen konzentrieren.
@@ -1190,7 +1051,7 @@ plot(1:length(fragebogen$alter), fragebogen$alter, type = "l")
 
 #### Einführung in *R* – Diagramme (Datei *Diagramme.R* auf Ilias)
 
-```r
+``` r
 # Histogramm, gruppiert kontinuierliche Daten in Bereiche und stellt diese Daten als
 # Balken dar. Die Höhe jedes Balkens zeigt die Anzahl der Beobachtungen in jedem Bereich an
 hist(fragebogen$alter)
@@ -1213,7 +1074,7 @@ draw.single.venn(area = 10)
 
 #### Einführung in *R* – Diagramme (Datei *Diagramme.R* auf Ilias)
 
-```r
+``` r
 # Kreis- oder Torten-Diagramm, sind zwar weit verbreitet, weisen jedoch einige Nachteile auf:
 # a) Unterschiede zwischen den Anteilswerte sind weniger gut erkennbar,
 # da dazu die Fläche der Kreissegmente verglichen werden muss
@@ -1236,7 +1097,7 @@ plotter()
 
 #### Einführung in *R* – Diagramme (Datei *Diagramme.R* auf Ilias)
 
-```r
+``` r
 # Spiderweb-Diagramm, erlaubt die Darstellung numerischer Werte mehrerer Variablen. Im unten dargestellten Beispiel
 # sind die mittleren Längen und Breiten der Blütenblätter der Schwertlilie eingezeichnet. Die Spitzen des Polygons geben
 # den Wert für die entsprechende Variable an. Radial-Plots können so eine größere Zahl von numerischen Werten
@@ -1267,7 +1128,7 @@ main="Durchschnittliche Blattlängen")
 
 **Fragebogen mit *R* auswerten** (Datei *Fragebogen.R* auf Ilias)
 
-```r
+``` r
 getwd()
 
 # aktuelles Arbeitsverzeichnis ausgeben, falls nicht richtig dann:
@@ -1291,9 +1152,9 @@ plot(d2$NOTE_MATHE ~ d2$KOPF, ylab = "Mathe Note", xlab = "Kopfumfang", ylim = r
 source("Fragebogen.R")
 ```
 
-**Pakete in *R* installieren** (Datei *Pakete_in_R_installieren.R* auf Ilias) 
+**Pakete in *R* installieren** (Datei *Pakete_in_R_installieren.R* auf Ilias)
 
-```r
+``` r
 # XML Paket installieren
 install.packages("XML")
 
@@ -1317,8 +1178,7 @@ help(ourdata)
 print(fragebogen)
 ```
 
-Im Skript (*Pakete_in_R_installieren.R* ) werden alle weiteren benötigten Pakete
-installiert, Zeile für Zeile ausführen und ggfs. die Installation mit Yes bestätigen.
+Im Skript (*Pakete_in_R_installieren.R* ) werden alle weiteren benötigten Pakete installiert, Zeile für Zeile ausführen und ggfs. die Installation mit Yes bestätigen.
 
 ### 4.c) Datenerfassung sowie das Einlesen der
 
@@ -1326,7 +1186,7 @@ Beispiel-Daten zur ersten Analyse
 
 **Komplexeres R Skript** (Datei *Komplexeres_R_Skript.R* auf Ilias)
 
-```r
+``` r
 # Einfacher Vektor, die Funktion c kombiniert Werte in einen Vektor oder eine Liste 
 # fruitVec wird mit 4 Werten (Strings) gefüllt 
 fruitVec <- c("Apfel", "Banane", "Orange", "Birne")
@@ -1350,10 +1210,9 @@ for (fruit in fruitVec) {
 
 ### 4.c) Datenerfassung sowie das Einlesen der
 
-Beispiel-Daten zur ersten Analyse
-R Skript zum verarbeiten des Dating-Datensatzes (Datei *Dating.R* auf Ilias)
+Beispiel-Daten zur ersten Analyse R Skript zum verarbeiten des Dating-Datensatzes (Datei *Dating.R* auf Ilias)
 
-```r
+``` r
 # Analyse des Dating-Datensatzes aus dem R-Paket 'pradadata'
 # Die Daten wurden zuvor mittels Excel bereinigt (für die Analyse nicht sinnvolle
 # Daten wurden entfernt, sowie von nominalen zu metrischen Werten transformiert
@@ -1376,7 +1235,7 @@ barplot(table(Dates\$car, Dates\$comm_type)) # Ausgabe Häufigkeit
 
 Beispiel-Daten zur ersten Analyse R Skript zum verarbeiten des Dating-Datensatzes (Datei *Dating.R* auf Ilias)
 
-```r
+``` r
 # Funktion 'transformer' aus dem 'ourdata' R-Package benutzen, um char-Typen in numierische Typen
 # zu konvertieren, z.B. 'female' to '1' und 'male' zu '2' -> Alternative zur Excel Funktion 'Transform'
 # Installieren oder Updaten von 'ourdata' R-Package, nur wenn noch nicht geschehen!
@@ -1401,11 +1260,9 @@ plot(dating$car ~ dating$comm_type)
 heatmap(cbind(dating$car, dating$comm_type))
 ```
 
-Beispiel-Daten zur ersten Analyse
-R-Skript zum Verarbeiten des Fragebogen-Datensatzes auf dem iPad
-(Datei Fragebogen_iPad*.R* auf Ilias)
+Beispiel-Daten zur ersten Analyse R-Skript zum Verarbeiten des Fragebogen-Datensatzes auf dem iPad (Datei Fragebogen_iPad*.R* auf Ilias)
 
-```r
+``` r
 # Diagrammausgabe auf dem iPad (keine grafische Schnittstelle) in PDF oder PNG Dateien
 
 # Datensätze aus den Vorlesungen laden
@@ -1443,11 +1300,11 @@ Software entwickeln und diese für andere zur Verfügung stellen.
 Das R-Paket *ourdata* mit den **Datensätzen** und **Funktionen** aus dem Unterricht\
 kann auf *github.com* eingesehen werden (*README.md* für Anleitung lesen):
 
-- Repository [*ourdata*](https://github.com/DrBenjamin/ourdata)
+-   Repository [*ourdata*](https://github.com/DrBenjamin/ourdata)
 
 #### Installation und Anzeige von Hilfeseiten
 
-```r
+``` r
 library(devtools) # Library devtools laden, um install_github ausführen zu können
 install_github("DrBenjamin/ourdata", force = TRUE) # Installation des R-Paketes
 library(ourdata) # Library ourdata laden
@@ -1456,33 +1313,37 @@ help(combine) # Hilfeseite zur Funktion *combine* anzeigen lassen
 help(fragebogen) # Hilfeseite zum data frame *fragenbogen* anzeigen lassen
 ```
 
-R-Analyse-Workshop** Verwende beliebige Daten (aus dem Internet), um eine weitere **Korrelations-
-analyse** von *zwei Datensätzen mit unterschiedlicher Quelle* durchzuführen.
+R-Analyse-Workshop\*\* Verwende beliebige Daten (aus dem Internet), um eine weitere **Korrelations- analyse** von *zwei Datensätzen mit unterschiedlicher Quelle* durchzuführen.
 
 **Mögliche Datensätze** (zwei numerische Werte, sowie ein Matching nötig)
 
-- Gesundheitsdaten (z.B. Lebenserwartung, Alkoholkonsum, Covid 19, etc.)
-- Sozialdaten (z.B. Scheidungsrate, Singlequote, Lebensgewohnheiten, etc.)
-- Technik (z.B. Prozessoren- oder KI-Entwicklung, Datenvolumen Internet, etc.)
-- Sport (z.B. Fußballdaten, Wettspiel, Drivelänge beim Golf, etc.)
-- Freizeit (z.B. Netflix & Co, Eiskonsum, Computerspiel, etc.)
+-   Gesundheitsdaten (z.B. Lebenserwartung, Alkoholkonsum, Covid 19, etc.)
+-   Sozialdaten (z.B. Scheidungsrate, Singlequote, Lebensgewohnheiten, etc.)
+-   Technik (z.B. Prozessoren- oder KI-Entwicklung, Datenvolumen Internet, etc.)
+-   Sport (z.B. Fußballdaten, Wettspiel, Drivelänge beim Golf, etc.)
+-   Freizeit (z.B. Netflix & Co, Eiskonsum, Computerspiel, etc.)
 
 #### Ablauf
 
-1.  1. Datensatz suchen (z.B. auf Datenportalen wie<https://stats.oecd.org/>)
-2.  2. Datensatz suchen (z.B. auf Webseiten wie Statista ([https://de.statista.com)](https://de.statista.com/) aufbereiten (Dezimaltrennung, Variablennamen, Spalten bereinigen)
+1.  
+
+    1.  Datensatz suchen (z.B. auf Datenportalen wie<https://stats.oecd.org/>)
+
+2.  
+
+    2.  Datensatz suchen (z.B. auf Webseiten wie Statista ([https://de.statista.com)](https://de.statista.com/) aufbereiten (Dezimaltrennung, Variablennamen, Spalten bereinigen)
+
 3.  Matching bzw. Bezugspunkt festlegen (z.B. in beiden Listen das Land)
+
 4.  Datensätze vereinen (mit Hilfe von Excel, VBA oder R)
+
 5.  Statistische Auswertung in R (Korrelationsanalyse)
 
-R-Programmier-Workshop** (Datei *R_Workshop.R* auf Ilias)
-**Aufgabe:** Programmiere die VBA-Funktion Zusammenführen aus der Excel
-„Fragebogen“ in R nach, so dass:
+R-Programmier-Workshop\*\* (Datei *R_Workshop.R* auf Ilias) **Aufgabe:** Programmiere die VBA-Funktion Zusammenführen aus der Excel „Fragebogen“ in R nach, so dass:
 
 -   R direkt aus den beiden CSV-Dateien
-- [IMR: https://www.cia.gov/the-world-factbook/field/infant-mortality-](https://www.cia.gov/the-world-factbook/field/infant-mortality-rate/country-comparison)
-[rate/country-comparison](https://www.cia.gov/the-world-factbook/field/infant-mortality-rate/country-comparison)
--  HDI: <https://worldpopulationreview.com/country-rankings/hdi-by-country>
+-   [IMR: https://www.cia.gov/the-world-factbook/field/infant-mortality-](https://www.cia.gov/the-world-factbook/field/infant-mortality-rate/country-comparison) [rate/country-comparison](https://www.cia.gov/the-world-factbook/field/infant-mortality-rate/country-comparison)
+-   HDI: <https://worldpopulationreview.com/country-rankings/hdi-by-country>
 
 die passenden Spalten (Land, IMR und HDI) zusammenfügt
 
@@ -1493,8 +1354,7 @@ die passenden Spalten (Land, IMR und HDI) zusammenfügt
 
 -   evtl. am verfügbaren VBA Code orientieren
 -   Google Suche (Stichwort „R Funktion xyz“)
--   Stackoverflow ([https://stackoverflow.com)
-    ](https://stackoverflow.com/)- R-Hilfe-Seiten help(\<Funktionsname\>)
+-   Stackoverflow ([https://stackoverflow.com)](https://stackoverflow.com/)- R-Hilfe-Seiten help(\<Funktionsname\>)
 
 ## Methodik
 
@@ -1503,24 +1363,17 @@ die passenden Spalten (Land, IMR und HDI) zusammenfügt
 
 ### 5.a) Theoretische Grundlagen der Korrelation Analyse
 
-Will man einen **Zusammenhang** zwischen **zwei metrischen Variablen** untersuchen, zum Beispiel zwischen dem Alter und dem Gewicht von Kindern, so berechnet man eine **Korrelation**. Diese besteht aus
-einem *Korrelationskoeffizienten* (*rho* bei Spearman) und einem *p-Wert*.
+Will man einen **Zusammenhang** zwischen **zwei metrischen Variablen** untersuchen, zum Beispiel zwischen dem Alter und dem Gewicht von Kindern, so berechnet man eine **Korrelation**. Diese besteht aus einem *Korrelationskoeffizienten* (*rho* bei Spearman) und einem *p-Wert*.
 
-Der **Korrelationskoeffizient** gibt die Stärke und die Richtung des
-Zusammenhangs an. Er liegt zwischen *-1* und *1*. Ein Wert nahe *-1* bezeichnet einen **starken negativen Zusammenhang** (z.B. „*Mehr
-zurückgelegte Strecke mit dem Auto, weniger Treibstoff im Tank*“). Ein Wert
-nahe *1* spricht für einen **starken positiven Zusammenhang** (z.B. „*mehr
-Futter, dickere Kühe*“). Kein Zusammenhang besteht, wenn der Wert nahe
-*0* liegt.
+Der **Korrelationskoeffizient** gibt die Stärke und die Richtung des Zusammenhangs an. Er liegt zwischen *-1* und *1*. Ein Wert nahe *-1* bezeichnet einen **starken negativen Zusammenhang** (z.B. „*Mehr zurückgelegte Strecke mit dem Auto, weniger Treibstoff im Tank*“). Ein Wert nahe *1* spricht für einen **starken positiven Zusammenhang** (z.B. „*mehr Futter, dickere Kühe*“). Kein Zusammenhang besteht, wenn der Wert nahe *0* liegt.
 
-Der **p-Wert** sagt aus, ob es einen **signifikanten Zusammenhang** gibt.
-p-Werte kleiner als *0,05* werden als **statistisch signifikant** bezeichnet.
+Der **p-Wert** sagt aus, ob es einen **signifikanten Zusammenhang** gibt. p-Werte kleiner als *0,05* werden als **statistisch signifikant** bezeichnet.
 
 ### 5.b) Anwendung der Korrelations-Analyse mit Beispieldaten
 
 **Korrelationsanalyse in R** (Datei *Korrelationsanalyse.R* auf Ilias**)** am Beispiel der IMR (Infant Mortality Rate) und des HDI (Human Development Index)
 
-```r
+``` r
 # Bibliothek openintro (enthält Data Sets) laden
 library(openintro)
 print(infmortrate)
@@ -1543,7 +1396,7 @@ print(c(hdi$hdi, hdi$country))
 
 **Korrelationsanalyse in R** (Datei *Korrelationsanalyse.R* auf Ilias**)** am Beispiel der infant mortality rate (imr) und des human development index (hdi)
 
-```r
+``` r
 # Datensätze (Dataframes) kombinieren mit R-Erweiterung „sqldf“ um SQL Syntax verwenden zu können
 imr_hdi <- sqldf('
 SELECT imr.name AS "LAND", imr.value As "IMR", hdi.hdi AS "HDI" FROM imr
@@ -1573,12 +1426,7 @@ cor.test(imr_hdi$imr, imr_hdi$hdi, method="spearman", exact=FALSE)
 
 ### Linear Regression-Analyse
 
-**Lineare Regression** ist eines der nützlichsten Werkzeuge in der Statistik.
-Regressionsanalyse erlaubt es Zusammenhänge zwischen Parametern zu
-schätzen und somit ein erklärendes Model für das Auftreten gewisser
-Phänomene zu geben. Wirkliche **Kausalität** wird durch statistische
-Analysen dieser Art zwar nicht aufgedeckt, die Ergebnisse aus solchen
-Analysen können aber **Hinweise** in diese Richtung geben.
+**Lineare Regression** ist eines der nützlichsten Werkzeuge in der Statistik. Regressionsanalyse erlaubt es Zusammenhänge zwischen Parametern zu schätzen und somit ein erklärendes Model für das Auftreten gewisser Phänomene zu geben. Wirkliche **Kausalität** wird durch statistische Analysen dieser Art zwar nicht aufgedeckt, die Ergebnisse aus solchen Analysen können aber **Hinweise** in diese Richtung geben [@Wozabal2007].
 
 ### 6.a) Theoretische Grundlagen der Linear Regression-Analyse
 
@@ -1586,7 +1434,7 @@ Analysen können aber **Hinweise** in diese Richtung geben.
 
 **Linear Regression-Analyse in R** (*Lineare_Regressionsanalyse.R* auf Ilias)
 
-```r
+``` r
 # R-Paket 'ourdata' laden und mittels Funktion 'combine' einen vergleichbaren Datensatz erstellen mit
 IMR und HDI
 library(ourdata)
@@ -1618,22 +1466,11 @@ abline(mdl, col = "darkred")
 
 ### Basket Analyse
 
-Die **Basket Analyse** kann zur Entdeckung von **Assoziationen** und
-Korrelationen zwischen Elementen in riesigen transaktionalen oder
-relationalen Datensätzen führen.
+Die **Basket Analyse** kann zur Entdeckung von **Assoziationen** und Korrelationen zwischen Elementen in riesigen transaktionalen oder relationalen Datensätzen führen.
 
-Das Aufsuchen von **Verbindungen** zwischen verschiedenen Artikeln, die
-Kunden in ihre „Warenkörbe“ legen ist ein häufiger Einsatz der Analyse. Das
-Wissen um diese Assoziationen kann für Einzelhändler oder Vermarkter
-hilfreich sein, um Marketingstrategien zu entwickeln. Das geschieht, indem
-sie Erkenntnisse darüber gewinnen, welche Artikel von Kunden häufig
-zusammen gekauft werden.
+Das Aufsuchen von **Verbindungen** zwischen verschiedenen Artikeln, die Kunden in ihre „Warenkörbe“ legen ist ein häufiger Einsatz der Analyse. Das Wissen um diese Assoziationen kann für Einzelhändler oder Vermarkter hilfreich sein, um Marketingstrategien zu entwickeln. Das geschieht, indem sie Erkenntnisse darüber gewinnen, welche Artikel von Kunden häufig zusammen gekauft werden.
 
-Wenn Kunden beispielsweise Milch kaufen, *wie **wahrscheinlich** ist es,
-dass sie auf derselben Fahrt zum Supermarkt auch Brot (und welche
-Brotsorte) kaufen?* Diese Informationen können zu einer Umsatzsteigerung
-führen, indem sie Einzelhändlern helfen, **selektives Marketing** zu betreiben
-und ihren Verkaufsraum zu planen.
+Wenn Kunden beispielsweise Milch kaufen, *wie **wahrscheinlich** ist es, dass sie auf derselben Fahrt zum Supermarkt auch Brot (und welche Brotsorte) kaufen?* Diese Informationen können zu einer Umsatzsteigerung führen, indem sie Einzelhändlern helfen, **selektives Marketing** zu betreiben und ihren Verkaufsraum zu planen.
 
 ## Methodik: Basket Analyse (Association Rules)
 
@@ -1641,19 +1478,13 @@ und ihren Verkaufsraum zu planen.
 
 #### Basket Analyse
 
-*Stelle Dir das Universum einfach als eine Menge von Artikeln vor, die im
-Geschäft erhältlich sind. Jeder Artikel eine boolesche Variable, die das
-Vorhandensein oder Fehlen dieses Artikels darstellt. Jeder Korb kann nun
-durch einen booleschen Vektor von Werten repräsentiert werden, die
-diesen Variablen zugewiesen werden. Die booleschen Vektoren können von
-**Kaufmustern** analysiert werden, die Artikel widerspiegeln, die häufig verbunden oder zusammen
-gekauft werden. Solche Muster werden in Form von **Assoziationsregeln** dargestellt.*
+*Stelle Dir das Universum einfach als eine Menge von Artikeln vor, die im Geschäft erhältlich sind. Jeder Artikel eine boolesche Variable, die das Vorhandensein oder Fehlen dieses Artikels darstellt. Jeder Korb kann nun durch einen booleschen Vektor von Werten repräsentiert werden, die diesen Variablen zugewiesen werden. Die booleschen Vektoren können von **Kaufmustern** analysiert werden, die Artikel widerspiegeln, die häufig verbunden oder zusammen gekauft werden. Solche Muster werden in Form von **Assoziationsregeln** dargestellt.*
 
 ![Abb. 7.a.1: Sinnbild](topics/basket-analysis.png)
 
 **Basket Analyse in R** (Datei *Basket_Analyse.R* auf Ilias)
 
-```r
+``` r
 # Bibliotheken laden
 library(arules)
 
@@ -1677,7 +1508,7 @@ rules <- apriori(Groceries, parameter = list(supp = 0.001, conf = 0.8))
 
 **Basket Analyse in R** (Datei *Basket_Analyse.R* auf Ilias)
 
-```r
+``` r
 # Zeige die Top 5 Regeln (nur 2 Nachkommastellen)
 options(digits=2)
 inspect(rules[1:5])
@@ -1703,20 +1534,15 @@ plot(rules, method = "graph", engine = "htmlwidget")
 
 ### K-Means Analyse
 
-Der **K-Means-Clusteralgorithmus** ist definiert als eine *unüberwachte* **Lernmethode** mit einem iterativen Prozess, bei dem die Datensätze in eine Reihe von *k* Gruppen unterteilt werden, wobei *k* die vom Analysten
-vorgegebene Anzahl von Gruppen ist.
+Der **K-Means-Clusteralgorithmus** ist definiert als eine *unüberwachte* **Lernmethode** mit einem iterativen Prozess, bei dem die Datensätze in eine Reihe von *k* Gruppen unterteilt werden, wobei *k* die vom Analysten vorgegebene Anzahl von Gruppen ist.
 
-Bei diesem Algorithmus handelt es sich um einen **iterativen Algorithmus**,
-der den Datensatz entsprechend den Merkmalen in *k* vordefinierte, sich
-nicht überschneidende Cluster oder Untergruppen unterteilt. Er macht die
-Datenpunkte zwischen den Clustern so ähnlich wie möglich und versucht
-auch, die Cluster so weit wie möglich beizubehalten.
+Bei diesem Algorithmus handelt es sich um einen **iterativen Algorithmus**, der den Datensatz entsprechend den Merkmalen in *k* vordefinierte, sich nicht überschneidende Cluster oder Untergruppen unterteilt. Er macht die Datenpunkte zwischen den Clustern so ähnlich wie möglich und versucht auch, die Cluster so weit wie möglich beizubehalten.
 
 ### 8.a) Theoretische Grundlagen der Cluster Analyse K-Means
 
 **K-Means Analyse in R** (Datei *K-Means.R* aud Ilias)
 
-```r
+``` r
 # Bibliotheken laden 
 library(cluster) library(factoextra) library(pheatmap)
 library(factoextra) 
@@ -1733,7 +1559,7 @@ fviz_nbclust(mydata, kmeans, method = "gap_stat")
 
 **K-Means Analyse in R** (Datei *K-Means.R* aud Ilias)
 
-```r
+``` r
 # K-Means Clustering
 set.seed(123)
 
@@ -1767,9 +1593,9 @@ Die informationsverarbeitenden Einheiten arbeiten nicht auf eine *lineare* Weise
 
 ### 9.a) Theoretische Grundlagen der Neuronale Netze-Analyse
 
-**Neuronale Netze-Analyse in R** (Datei *Neuronale_Netze.R* auf Ilias) 
+**Neuronale Netze-Analyse in R** (Datei *Neuronale_Netze.R* auf Ilias)
 
-```r
+``` r
 # Bibliothek 'neuralnet' laden library(neuralnet)
 
 # Daten einlesen data <- read.csv("cereals.csv", header=T) print(data)
@@ -1785,9 +1611,9 @@ max <- apply(data , 2 , max) min <- apply(data, 2 , min) scaled <- as.data.frame
 
 ### 9.b) Anwendung der Neuronale Netze-Analyse mit Beispieldaten
 
-**Neuronale Netze-Analyse in R** (Datei *Neuronale_Netze.R* auf Ilias) 
+**Neuronale Netze-Analyse in R** (Datei *Neuronale_Netze.R* auf Ilias)
 
-```r
+``` r
 ## Neuronales Netz anpassen - Erstelle Trainings- und Testdaten-Set 
 trainNN <- scaled[index , ] 
 testNN <- scaled[-index , ]
@@ -1817,8 +1643,7 @@ Alle **Methodiken** sind mit Code und Diagrammen [**hier**](https://drbenjamin.g
 
 Auf den folgenden Seiten ist die zu erbringende schriftliche Leistung / **Hausarbeit** sowie die mündliche Leistung / **Präsentation** beschrieben. Diese sollen die theoretischen und praktischen Fähigkeiten abfragen, die im Fach *Technical Applications & Data Analytics* aufgebaut wurden.
 
-Die Erstellung der Arbeit muss **allen geltenden Anfordernissen** einer
-wissenschaftlichen Arbeit genügen und muss als **Struktur** z.B. enthalten:
+Die Erstellung der Arbeit muss **allen geltenden Anfordernissen** einer wissenschaftlichen Arbeit genügen und muss als **Struktur** z.B. enthalten:
 
 -   Inhaltsverzeichnis
 -   Literaturverzeichnis / Quellenangaben
@@ -1828,9 +1653,7 @@ wissenschaftlichen Arbeit genügen und muss als **Struktur** z.B. enthalten:
 
 **Hausarbeit: „Die Datensammlung“ oder auch:**
 
-**Was kann ich selber für Daten generieren?
-Oder welche Daten hat schon jemand gesammelt?
-Oder welche Daten werden von uns generiert?!**
+**Was kann ich selber für Daten generieren? Oder welche Daten hat schon jemand gesammelt? Oder welche Daten werden von uns generiert?!**
 
 -   Gewicht
 -   Klang (beim Schütteln)
@@ -1949,9 +1772,14 @@ Das R-Paket ourdata enthält folgende **Funktionen**:
 
 Mit der **Funktion** help() kannst Du Dir **Hilfeseiten** zu allen *Funktionen* anzeigen lassen. Z.B. help(plotter) erklärt die Funktonsweise von der Funktion plotter().
 
-### GM_bac **GM_bac & AVM_bac 5.Sem.** AVM_bac 5.Sem.
+## GM_bac **GM_bac & AVM_bac 5.Sem.** AVM_bac 5.Sem.
 
 In den Kursen **GM_bac5** und **AVM_bac5** im Fach **Technical Applications & Data Analytics** haben wir viele Themen der\
 **Datenanalyse** betrachtet und uns einige **technische Applikationen** genauer angeschaut. Der Schwerpunkt lag auf **R**, einer *Statistik-Programmiersprache*, mit der übrigens auch dieses Dokument erstellt wurde.
 
 Auf **Ilias** sind die Vorlesungsfolien sowie alle *R-Skripte* und sonstiges Material. Hier findest Du in ansprechender Weise aufbereitet **Diagramme** oder **statistische Methoden** und deren *R-Code* (dieser liegt zusätzlich auf Ilias im Ordner “*Beispiel-Datensätze, Python und R-Skripte*”). Der Code wartet darauf von Dir ausprobiert zu werden!
+
+## Literaturverzeichnis
+
+::: {#refs}
+:::
