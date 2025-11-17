@@ -111,7 +111,7 @@ Abb.: Microsoft Excel „Fragebogen“
 
 **Definition Datenanalyse:** Der Prozess des Erhebens von Daten, ihrer Auswertung und Interpretation.
 
-**Definition Datenverarbeitung:** Der Prozess des Datensammelns und deren Umwandlung in nützliche Informationen. Es werden mit angemessenen Techniken (ohne die gewünschten Daten zu beeinträchtigen) Rohdaten in ein besser lesbares Format (Graphen, Dokumente etc.) umwandelt. Die Daten erhalten so die nötige Form und den erforderlichen Kontext, damit sie von Computern interpretiert und von Mitarbeitern in der gesamten Organisation genutzt werden können [@Romeijn2016; @Tukey1962] 
+**Definition Datenverarbeitung:** Der Prozess des Datensammelns und deren Umwandlung in nützliche Informationen. Es werden mit angemessenen Techniken (ohne die gewünschten Daten zu beeinträchtigen) Rohdaten in ein besser lesbares Format (Graphen, Dokumente etc.) umwandelt. Die Daten erhalten so die nötige Form und den erforderlichen Kontext, damit sie von Computern interpretiert und von Mitarbeitern in der gesamten Organisation genutzt werden können [@Romeijn2016; @Tukey1962]
 
 #### 1.a) Geschichte der Datenanalyse und Datenverarbeitung (incl. Hardware)
 
@@ -461,10 +461,7 @@ Die einfachste Form Daten am PC zu betrachten, bearbeiten und darzustellen ist h
 
 Daten bestehen somit aus **Merkmalen** (Variablen). Hinzu kommen **Beobachtungseinheiten** (Fälle, Beobachtungen). Eine **Tabelle** mit ihren rechtwinkligen Achsen der Zeilen und Spalten hält im Kopf die **Variablennamen** und in den einzelnen Zeilen, die jeweils dem Merkmal zugordneten **Objekte**.
 
-**Merkmal 1** | **Merkmal 2** | **Merkmal 3** 
-Objekt 1 M1 | Objekt 1 M2 | Objekt 1 M3 
-Objekt 2 M1 | Objekt 2 M2 | Objekt 2 M3 
-Objekt 3 M1 | Objekt 3 M2 | Objekt 3 M3 
+**Merkmal 1** \| **Merkmal 2** \| **Merkmal 3** Objekt 1 M1 \| Objekt 1 M2 \| Objekt 1 M3 Objekt 2 M1 \| Objekt 2 M2 \| Objekt 2 M3 Objekt 3 M1 \| Objekt 3 M2 \| Objekt 3 M3
 
 *Abb. 2.a.3: Tabelle als Datensatz*
 
@@ -866,14 +863,14 @@ Erarbeiten IT-technischer Rahmenbedingungen:
 #### Excel Datei mit Makro-Code (VBA) anpassen
 
 -   Entwicklertools aktivieren:
--   auf der Registerkarte Datei **zu** Optionen -> **Menüband anpassen**
+-   auf der Registerkarte Datei **zu** Optionen -\> **Menüband anpassen**
 -   **Menüband anpassen** und unter **Hauptregisterkarten** das Kontrollkästchen **Entwicklertools** aktivieren
 -   Erläuterung des Fragebogens
 -   Excel Datenblätter
--   Fragebogen -> Maske zum erheben der Daten
--   Daten -> Rohdaten des einzelnen Fragebogens
--   Datenspeicherung -> Rohdaten aller Fragenbögen -> Speicherung in CSV-Datei oder XML-Datei möglich
--   VBA Code -> auf Menüband auf **Entwicklertools** und links auf
+-   Fragebogen -\> Maske zum erheben der Daten
+-   Daten -\> Rohdaten des einzelnen Fragebogens
+-   Datenspeicherung -\> Rohdaten aller Fragenbögen -\> Speicherung in CSV-Datei oder XML-Datei möglich
+-   VBA Code -\> auf Menüband auf **Entwicklertools** und links auf
 
 **Visual Basic** klicken und die entsprechenden Elemente anpassen
 
@@ -1783,3 +1780,47 @@ Auf **Ilias** sind die Vorlesungsfolien sowie alle *R-Skripte* und sonstiges Mat
 
 ::: {#refs}
 :::
+
+## Anhang
+
+![](topics/Anhang/Technical Applications & Data Analytics.png)
+![](topics/Anhang/Technical Applications & Data Analytics_2.png)
+![](topics/Anhang/Technical Applications & Data Analytics_3.png)
+![](topics/Anhang/Technical Applications & Data Analytics_4.png)
+![](topics/Anhang/Technical Applications & Data Analytics_5.png)
+![](topics/Anhang/Technical Applications & Data Analytics_6.png)
+![](topics/Anhang/Technical Applications & Data Analytics_7.png)
+![](topics/Anhang/Technical Applications & Data Analytics_8.png)
+![](topics/Anhang/Technical Applications & Data Analytics_9.png)
+[](topics/Anhang/Technical Applications & Data Analytics_10.png)
+[](topics/Anhang/Technical Applications & Data Analytics_11.png)
+![](topics/Anhang/Technical Applications & Data Analytics_12.png)
+![](topics/Anhang/Technical Applications & Data Analytics_13.png)
+![](topics/Anhang/Technical Applications & Data Analytics_14.png)
+![](topics/Anhang/Technical Applications & Data Analytics_15.png)
+![](topics/Anhang/Technical Applications & Data Analytics_16.png)
+![](topics/Anhang/Technical Applications & Data Analytics_17.png)
+![](topics/Anhang/Technical Applications & Data Analytics_18.png)
+![](topics/Anhang/Technical Applications & Data Analytics_19.png)
+[](topics/Anhang/Technical Applications & Data Analytics_20.png)
+[](topics/Anhang/Technical Applications & Data Analytics_21.png)
+![](topics/Anhang/Technical Applications & Data Analytics_22.png)
+![](topics/Anhang/Technical Applications & Data Analytics_23.png)
+![](topics/Anhang/Technical Applications & Data Analytics_24.png)
+![](topics/Anhang/Technical Applications & Data Analytics_25.png)
+![](topics/Anhang/Technical Applications & Data Analytics_26.png)
+![](topics/Anhang/Technical Applications & Data Analytics_27.png)
+![](topics/Anhang/Technical Applications & Data Analytics_28.png)
+![](topics/Anhang/Technical Applications & Data Analytics_29.png)
+[](topics/Anhang/Technical Applications & Data Analytics_30.png)
+[](topics/Anhang/Technical Applications & Data Analytics_31.png)
+![](topics/Anhang/Technical Applications & Data Analytics_32.png)
+![](topics/Anhang/Technical Applications & Data Analytics_33.png)
+![](topics/Anhang/Technical Applications & Data Analytics_34.png)
+![](topics/Anhang/Technical Applications & Data Analytics_35.png)
+![](topics/Anhang/Technical Applications & Data Analytics_36.png)
+![](topics/Anhang/Technical Applications & Data Analytics_37.png)
+![](topics/Anhang/Technical Applications & Data Analytics_38.png)
+![](topics/Anhang/Technical Applications & Data Analytics_39.png)
+[](topics/Anhang/Technical Applications & Data Analytics_40.png)
+[](topics/Anhang/Technical Applications & Data Analytics_41.png)
