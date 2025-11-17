@@ -49,7 +49,7 @@ format:
 link-citations: true
 bibliography: "./literature/references.bib"
 csl: "./literature/apa.csl"
-suppress-bibliography: true
+suppress-bibliography: false
 execute:
   enabled: true
   echo: false
