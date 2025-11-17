@@ -1,5 +1,5 @@
 ---
-title: "Technical Applications & Data Analytics (WS 2021/22)"
+title: "Technical Applications & Data Analytics (WS 2021)"
 subtitle: "Game Design & Management (B. A.)"
 author: 
     name: "© Benjamin Gross"
@@ -58,7 +58,7 @@ lang: de
 
 # Technical Applications & Data Analytics
 
-WS 2021 – B. Groß
+Dies ist der Kursinhalt für die Veranstaltung *Technical Applications & Data Analytics* im Bachelorstudiengang *Game Design & Management* an der *Hochschule Fresenius - University of Applied Sciences*.
 
 ## Vorstellungsrunde
 
